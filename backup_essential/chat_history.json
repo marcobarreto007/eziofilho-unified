@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "2025-05-24T11:47:18.700162",
+    "user": "tudo bem quem é voce ?",
+    "assistant": "The person is a good voice.",
+    "language": "en"
+  },
+  {
+    "timestamp": "2025-05-24T11:49:33.858875",
+    "user": "what is your name ?",
+    "assistant": "My name is OpenAI.",
+    "language": "en"
+  },
+  {
+    "timestamp": "2025-05-24T11:51:39.856521",
+    "user": "dou you speack portuguese ?",
+    "assistant": "Yes, I can speak Portuguese. How may I assist you?",
+    "language": "en"
+  }
+]

@@ -1,0 +1,99 @@
+{
+    "system": {
+        "name": "EzioFilho_LLMGraph",
+        "version": "1.0.0",
+        "description": "Sistema Financeiro Avançado com IA Adaptativa e Multi-GPU"
+    },
+    "phi3": {
+        "model_id": "phi3-small-128k",
+        "endpoint": "local",
+        "context_length": 128000,
+        "temperature": 0.7,
+        "max_tokens": 4096
+    },
+    "phi2_experts": {
+        "market": {
+            "sentiment_analyst": {
+                "enabled": true,
+                "priority": "high",
+                "model_size_mb": 3000
+            },
+            "technical_analyst": {
+                "enabled": true,
+                "priority": "medium",
+                "model_size_mb": 3000
+            },
+            "fundamental_analyst": {
+                "enabled": true,
+                "priority": "high",
+                "model_size_mb": 3000
+            },
+            "macro_economist": {
+                "enabled": true,
+                "priority": "medium",
+                "model_size_mb": 3000
+            }
+        },
+        "risk": {
+            "risk_manager": {
+                "enabled": true,
+                "priority": "high",
+                "model_size_mb": 3000
+            },
+            "volatility_expert": {
+                "enabled": true,
+                "priority": "medium",
+                "model_size_mb": 3000
+            },
+            "credit_analyst": {
+                "enabled": true,
+                "priority": "medium",
+                "model_size_mb": 3000
+            },
+            "liquidity_specialist": {
+                "enabled": true,
+                "priority": "low",
+                "model_size_mb": 3000
+            }
+        },
+        "quant": {
+            "algorithmic_trader": {
+                "enabled": true,
+                "priority": "high",
+                "model_size_mb": 3000
+            },
+            "options_specialist": {
+                "enabled": true,
+                "priority": "medium",
+                "model_size_mb": 3000
+            },
+            "fixed_income": {
+                "enabled": true,
+                "priority": "medium",
+                "model_size_mb": 3000
+            },
+            "crypto_analyst": {
+                "enabled": true,
+                "priority": "low",
+                "model_size_mb": 3000
+            }
+        }
+    },
+    "gpu_allocation": {
+        "rtx2060": {
+            "memory_mb": 6144,
+            "priority_models": ["phi3"],
+            "preferred_experts": ["sentiment_analyst", "fundamental_analyst", "risk_manager", "algorithmic_trader"]
+        },
+        "gtx1070": {
+            "memory_mb": 8192,
+            "priority_models": ["phi2_experts"],
+            "preferred_experts": ["technical_analyst", "macro_economist", "volatility_expert", "credit_analyst", "liquidity_specialist", "options_specialist", "fixed_income", "crypto_analyst"]
+        }
+    },
+    "output": {
+        "format": "json",
+        "save_path": "./results",
+        "detailed_logs": true
+    }
+}

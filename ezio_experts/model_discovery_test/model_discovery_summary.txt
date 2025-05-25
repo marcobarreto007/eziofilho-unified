@@ -1,0 +1,61 @@
+EzioFilho Unified - Model Discovery Summary
+Generated: 2025-05-23T22:59:59.399199
+User: marcobarreto007
+
+DISCOVERY SUMMARY:
+Total Models Found: 44
+Sources Tested: 5
+Successful Sources: 5
+
+MODELS BY SOURCE:
+- Local Models: 5 models (success)
+- HuggingFace Models: 5 models (success)
+- Mistral Models: 2 models (success)
+- Model Inventory: 30 models (success)
+- Cached Models: 2 models (success)
+
+ALL DISCOVERED MODELS:
+ 1. pytorch_model (local) - 0.8GB - Unknown
+ 2. model (local) - 0.25GB - SafeTensors
+ 3. pytorch_model (local) - 0.25GB - Unknown
+ 4. model-00001-of-00002 (local) - 4.65GB - SafeTensors
+ 5. model-00002-of-00002 (local) - 0.53GB - SafeTensors
+ 6. microsoft/DialoGPT-medium (huggingface) - 1.2GB - Conversational
+ 7. microsoft/phi-3-mini-4k-instruct (huggingface) - 2.4GB - LLM-Phi
+ 8. sentence-transformers/all-MiniLM-L6-v2 (huggingface) - 0.09GB - Embedding
+ 9. cardiffnlp/twitter-roberta-base-sentiment-latest (huggingface) - 0.5GB - Sentiment
+10. mistralai/Mistral-7B-Instruct-v0.1 (huggingface) - 14.5GB - LLM-Mistral
+11. mistral-7b-instruct (mistral) - 14.5GB - LLM-Mistral
+12. mistral-7b-base (mistral) - 14.5GB - LLM-Mistral
+13. Model Inventory Report (unknown) - 0.0GB - unknown
+14. - model.safetensors (unknown) - 0.0GB - unknown
+15. - model.safetensors (unknown) - 0.0GB - unknown
+16. - pytorch_model.bin (unknown) - 0.0GB - unknown
+17. - pytorch_model.bin (unknown) - 0.0GB - unknown
+18. - pytorch_model.bin (unknown) - 0.0GB - unknown
+19. - model.safetensors (unknown) - 0.0GB - unknown
+20. - pytorch_model.bin (unknown) - 0.0GB - unknown
+21. - model-00001-of-00002.safetensors (unknown) - 0.0GB - unknown
+22. - model-00002-of-00002.safetensors (unknown) - 0.0GB - unknown
+23. - model-00001-of-00002.safetensors (unknown) - 0.0GB - unknown
+24. - model-00002-of-00002.safetensors (unknown) - 0.0GB - unknown
+25. - model-00001-of-00002.safetensors (unknown) - 0.0GB - unknown
+26. - model-00002-of-00002.safetensors (unknown) - 0.0GB - unknown
+27. - pytorch_model-00002-of-00002.bin (unknown) - 0.0GB - unknown
+28. ACTIONS LOG: (unknown) - 0.0GB - unknown
+29. [SKIP] Already organized: C:\Users\anapa\SuperIA\EzioFilhoUnified\modelos_hf\bert-base-multilingual-cased\model.safetensors (unknown) - 0.0GB - unknown
+30. [SKIP] Already organized: C:\Users\anapa\SuperIA\EzioFilhoUnified\modelos_hf\bert-base-multilingual-cased\pytorch_model.bin (unknown) - 0.0GB - unknown
+31. [SKIP] Already organized: C:\Users\anapa\SuperIA\EzioFilhoUnified\modelos_hf\cardiffnlp--twitter-roberta-base-sentiment-latest\pytorch_model.bin (unknown) - 0.0GB - unknown
+32. [SKIP] Already organized: C:\Users\anapa\SuperIA\EzioFilhoUnified\modelos_hf\facebook--opt-125m\pytorch_model.bin (unknown) - 0.0GB - unknown
+33. [SKIP] Already organized: C:\Users\anapa\SuperIA\EzioFilhoUnified\modelos_hf\gpt2\model.safetensors (unknown) - 0.0GB - unknown
+34. [SKIP] Already organized: C:\Users\anapa\SuperIA\EzioFilhoUnified\modelos_hf\gpt2\pytorch_model.bin (unknown) - 0.0GB - unknown
+35. [SKIP] Already organized: C:\Users\anapa\SuperIA\EzioFilhoUnified\modelos_hf\microsoft--phi-2\model-00001-of-00002.safetensors (unknown) - 0.0GB - unknown
+36. [SKIP] Already organized: C:\Users\anapa\SuperIA\EzioFilhoUnified\modelos_hf\microsoft--phi-2\model-00002-of-00002.safetensors (unknown) - 0.0GB - unknown
+37. [SKIP] Already organized: C:\Users\anapa\SuperIA\EzioFilhoUnified\modelos_hf\microsoft--phi-3-mini-4k-instruct\model-00001-of-00002.safetensors (unknown) - 0.0GB - unknown
+38. [SKIP] Already organized: C:\Users\anapa\SuperIA\EzioFilhoUnified\modelos_hf\microsoft--phi-3-mini-4k-instruct\model-00002-of-00002.safetensors (unknown) - 0.0GB - unknown
+39. [SKIP] Already organized: C:\Users\anapa\SuperIA\EzioFilhoUnified\modelos_hf\Qwen--Qwen1.5-1.8B-Chat\model.safetensors (unknown) - 0.0GB - unknown
+40. [SKIP] Already organized: C:\Users\anapa\SuperIA\EzioFilhoUnified\modelos_hf\tiiuae--falcon-7b-instruct\model-00001-of-00002.safetensors (unknown) - 0.0GB - unknown
+41. [SKIP] Already organized: C:\Users\anapa\SuperIA\EzioFilhoUnified\modelos_hf\tiiuae--falcon-7b-instruct\model-00002-of-00002.safetensors (unknown) - 0.0GB - unknown
+42. [SKIP] Already organized: C:\Users\anapa\SuperIA\EzioFilhoUnified\modelos_hf\tiiuae--falcon-7b-instruct\pytorch_model-00002-of-00002.bin (unknown) - 0.0GB - unknown
+43. cached_config (cache) - 0.0GB - cached
+44. cached_model_discovery_cache (cache) - 0.0GB - cached

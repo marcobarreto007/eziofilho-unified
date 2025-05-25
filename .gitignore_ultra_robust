@@ -1,0 +1,136 @@
+# EZIO Financial AI - ULTRA ROBUST .gitignore
+# Prevents ALL large files from ever entering repository
+# ================================================================
+
+# LARGE MODEL FILES (ABSOLUTE BLOCK)
+*.safetensors
+*.bin
+*.model
+*.gguf
+*.ggml
+*.pt
+*.pth
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+model-*.*
+**/model-*.*
+**/*.safetensors
+**/*.bin
+**/*.model
+tokenizer.model
+pytorch_model.bin
+
+# PYTHON PORTABLE (COMPLETE BLOCK)
+portable_python/
+python-*/
+get-pip.py
+python*.exe
+pythonw*.exe
+
+# EXECUTABLES AND BINARIES
+*.exe
+*.dll
+*.so
+*.dylib
+*.msi
+*.app
+*.deb
+*.rpm
+
+# LARGE ARCHIVES (PREVENT ACCIDENTAL COMMITS)
+*.zip
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.rar
+*.7z
+*.gz
+*.bz2
+*.xz
+
+# AI/ML MODEL DIRECTORIES
+models/
+model/
+checkpoints/
+weights/
+phi3-mini/
+phi2-mini/
+mistral-*/
+llama-*/
+*-model/
+*_model/
+
+# CACHE AND TEMPORARY
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.cache/
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+
+# LOGS AND DATA
+logs/
+*.log
+*.tmp
+*.temp
+data/large/
+data/models/
+large_files/
+
+# ENVIRONMENT AND SECRETS
+.env
+.env.*
+config/.env
+.venv/
+venv/
+env/
+.conda/
+
+# OS FILES
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDE AND EDITOR
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+*~
+
+# JUPYTER NOTEBOOKS OUTPUT
+.ipynb_checkpoints
+*.nbconvert*
+
+# GIT LFS (DISABLED)
+.gitattributes
+.lfsconfig
+
+# LARGE DATA DIRECTORIES
+09_data_cache/data/shared_cache/
+09_data_cache/data/large_files/
+shared_cache/
+large_cache/
+
+# BACKUP FILES
+*.bak
+*.backup
+*_backup.*
+
+# ANY FILE > 50MB (GitHub limit is 100MB)
+# This is a reminder - Git will warn about files >50MB
+
+# DOCKER AND CONTAINERS
+Dockerfile.bak
+docker-compose.override.yml

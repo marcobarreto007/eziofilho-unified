@@ -1,0 +1,745 @@
+# EZIO PROJECT ORGANIZER - COPILOT COMMANDS
+# Generated: 20250524_100401
+# Total Commands: 202
+
+# Step 1: Create directory: 01_core_system
+mkdir "C:\Users\anapa\eziofilho-unified\01_core_system"
+
+# Step 2: Create directory: 02_experts_modules
+mkdir "C:\Users\anapa\eziofilho-unified\02_experts_modules"
+
+# Step 3: Create directory: 03_models_storage
+mkdir "C:\Users\anapa\eziofilho-unified\03_models_storage"
+
+# Step 4: Create directory: 04_configuration
+mkdir "C:\Users\anapa\eziofilho-unified\04_configuration"
+
+# Step 5: Create directory: 05_testing_validation
+mkdir "C:\Users\anapa\eziofilho-unified\05_testing_validation"
+
+# Step 6: Create directory: 06_tools_utilities
+mkdir "C:\Users\anapa\eziofilho-unified\06_tools_utilities"
+
+# Step 7: Create directory: 07_documentation
+mkdir "C:\Users\anapa\eziofilho-unified\07_documentation"
+
+# Step 8: Create directory: 08_examples_demos
+mkdir "C:\Users\anapa\eziofilho-unified\08_examples_demos"
+
+# Step 9: Create directory: 09_data_cache
+mkdir "C:\Users\anapa\eziofilho-unified\09_data_cache"
+
+# Step 10: Create directory: 10_deployment
+mkdir "C:\Users\anapa\eziofilho-unified\10_deployment"
+
+# Step 11: Create directory: 01_core_system\main_runners
+mkdir "C:\Users\anapa\eziofilho-unified\01_core_system\main_runners"
+
+# Step 12: Create directory: 01_core_system\orchestrators
+mkdir "C:\Users\anapa\eziofilho-unified\01_core_system\orchestrators"
+
+# Step 13: Create directory: 01_core_system\base_classes
+mkdir "C:\Users\anapa\eziofilho-unified\01_core_system\base_classes"
+
+# Step 14: Create directory: 02_experts_modules\financial_experts
+mkdir "C:\Users\anapa\eziofilho-unified\02_experts_modules\financial_experts"
+
+# Step 15: Create directory: 02_experts_modules\ai_integrations
+mkdir "C:\Users\anapa\eziofilho-unified\02_experts_modules\ai_integrations"
+
+# Step 16: Create directory: 02_experts_modules\specialized_tools
+mkdir "C:\Users\anapa\eziofilho-unified\02_experts_modules\specialized_tools"
+
+# Step 17: Create directory: 03_models_storage\local_models
+mkdir "C:\Users\anapa\eziofilho-unified\03_models_storage\local_models"
+
+# Step 18: Create directory: 03_models_storage\model_configs
+mkdir "C:\Users\anapa\eziofilho-unified\03_models_storage\model_configs"
+
+# Step 19: Create directory: 04_configuration\project_configs
+mkdir "C:\Users\anapa\eziofilho-unified\04_configuration\project_configs"
+
+# Step 20: Create directory: 04_configuration\requirements_files
+mkdir "C:\Users\anapa\eziofilho-unified\04_configuration\requirements_files"
+
+# Step 21: Create directory: 05_testing_validation\unit_tests
+mkdir "C:\Users\anapa\eziofilho-unified\05_testing_validation\unit_tests"
+
+# Step 22: Create directory: 05_testing_validation\integration_tests
+mkdir "C:\Users\anapa\eziofilho-unified\05_testing_validation\integration_tests"
+
+# Step 23: Create directory: 05_testing_validation\test_results
+mkdir "C:\Users\anapa\eziofilho-unified\05_testing_validation\test_results"
+
+# Step 24: Create directory: 06_tools_utilities\gpu_tools
+mkdir "C:\Users\anapa\eziofilho-unified\06_tools_utilities\gpu_tools"
+
+# Step 25: Create directory: 06_tools_utilities\monitoring
+mkdir "C:\Users\anapa\eziofilho-unified\06_tools_utilities\monitoring"
+
+# Step 26: Create directory: 07_documentation\reports
+mkdir "C:\Users\anapa\eziofilho-unified\07_documentation\reports"
+
+# Step 27: Create directory: 07_documentation\guides
+mkdir "C:\Users\anapa\eziofilho-unified\07_documentation\guides"
+
+# Step 28: Create directory: 08_examples_demos\autogen_examples
+mkdir "C:\Users\anapa\eziofilho-unified\08_examples_demos\autogen_examples"
+
+# Step 29: Create directory: 08_examples_demos\working_demos
+mkdir "C:\Users\anapa\eziofilho-unified\08_examples_demos\working_demos"
+
+# Step 30: Create directory: 09_data_cache\shared_cache
+mkdir "C:\Users\anapa\eziofilho-unified\09_data_cache\shared_cache"
+
+# Step 31: Create directory: 09_data_cache\fallback_data
+mkdir "C:\Users\anapa\eziofilho-unified\09_data_cache\fallback_data"
+
+# Step 32: Create directory: 10_deployment\batch_files
+mkdir "C:\Users\anapa\eziofilho-unified\10_deployment\batch_files"
+
+# Step 33: Create directory: 10_deployment\production_ready
+mkdir "C:\Users\anapa\eziofilho-unified\10_deployment\production_ready"
+
+# Step 34: Move main runner: main.py
+move "C:\Users\anapa\eziofilho-unified\main.py" "C:\Users\anapa\eziofilho-unified\01_core_system\main_runners\"
+
+# Step 35: Move main runner: main_fixed.py
+move "C:\Users\anapa\eziofilho-unified\main_fixed.py" "C:\Users\anapa\eziofilho-unified\01_core_system\main_runners\"
+
+# Step 36: Move main runner: main_autogen.py
+move "C:\Users\anapa\eziofilho-unified\main_autogen.py" "C:\Users\anapa\eziofilho-unified\01_core_system\main_runners\"
+
+# Step 37: Move main runner: run_system.py
+move "C:\Users\anapa\eziofilho-unified\run_system.py" "C:\Users\anapa\eziofilho-unified\01_core_system\main_runners\"
+
+# Step 38: Move main runner: run_unified.py
+move "C:\Users\anapa\eziofilho-unified\run_unified.py" "C:\Users\anapa\eziofilho-unified\01_core_system\main_runners\"
+
+# Step 39: Move main runner: run_local.py
+move "C:\Users\anapa\eziofilho-unified\run_local.py" "C:\Users\anapa\eziofilho-unified\01_core_system\main_runners\"
+
+# Step 40: Move main runner: run_with_auto_discovery.py
+move "C:\Users\anapa\eziofilho-unified\run_with_auto_discovery.py" "C:\Users\anapa\eziofilho-unified\01_core_system\main_runners\"
+
+# Step 41: Move orchestrator: ezio_orchestrator.py
+move "C:\Users\anapa\eziofilho-unified\ezio_orchestrator.py" "C:\Users\anapa\eziofilho-unified\01_core_system\orchestrators\"
+
+# Step 42: Move orchestrator: unified_orchestrator.py
+move "C:\Users\anapa\eziofilho-unified\unified_orchestrator.py" "C:\Users\anapa\eziofilho-unified\01_core_system\orchestrators\"
+
+# Step 43: Move expert file: expert_fingpt.py
+move "C:\Users\anapa\eziofilho-unified\expert_fingpt.py" "C:\Users\anapa\eziofilho-unified\02_experts_modules\financial_experts\"
+
+# Step 44: Move expert files: eziofinisher_*.py
+for %f in ("C:\Users\anapa\eziofilho-unified\eziofinisher_*.py") do move "%f" "C:\Users\anapa\eziofilho-unified\02_experts_modules\financial_experts\"
+
+# Step 45: Move expert file: advanced_model_manager.py
+move "C:\Users\anapa\eziofilho-unified\advanced_model_manager.py" "C:\Users\anapa\eziofilho-unified\02_experts_modules\financial_experts\"
+
+# Step 46: Move expert file: direct_chat.py
+move "C:\Users\anapa\eziofilho-unified\direct_chat.py" "C:\Users\anapa\eziofilho-unified\02_experts_modules\financial_experts\"
+
+# Step 47: Move expert file: simple_chat.py
+move "C:\Users\anapa\eziofilho-unified\simple_chat.py" "C:\Users\anapa\eziofilho-unified\02_experts_modules\financial_experts\"
+
+# Step 48: Move config files: config_*.py
+for %f in ("C:\Users\anapa\eziofilho-unified\config_*.py") do move "%f" "C:\Users\anapa\eziofilho-unified\04_configuration\project_configs\"
+
+# Step 49: Move config files: config_*.json
+for %f in ("C:\Users\anapa\eziofilho-unified\config_*.json") do move "%f" "C:\Users\anapa\eziofilho-unified\04_configuration\project_configs\"
+
+# Step 50: Move config files: *.json
+for %f in ("C:\Users\anapa\eziofilho-unified\*.json") do move "%f" "C:\Users\anapa\eziofilho-unified\04_configuration\project_configs\"
+
+# Step 51: Move config files: configure_*.py
+for %f in ("C:\Users\anapa\eziofilho-unified\configure_*.py") do move "%f" "C:\Users\anapa\eziofilho-unified\04_configuration\project_configs\"
+
+# Step 52: Move requirements: requirements*.txt
+for %f in ("C:\Users\anapa\eziofilho-unified\requirements*.txt") do move "%f" "C:\Users\anapa\eziofilho-unified\04_configuration\requirements_files\"
+
+# Step 53: Move requirements: requirements*.txt
+for %f in ("C:\Users\anapa\eziofilho-unified\requirements*.txt") do move "%f" "C:\Users\anapa\eziofilho-unified\04_configuration\requirements_files\"
+
+# Step 54: Move test files: test_*.py
+for %f in ("C:\Users\anapa\eziofilho-unified\test_*.py") do move "%f" "C:\Users\anapa\eziofilho-unified\05_testing_validation\unit_tests\"
+
+# Step 55: Move test files: run_*test*.py
+for %f in ("C:\Users\anapa\eziofilho-unified\run_*test*.py") do move "%f" "C:\Users\anapa\eziofilho-unified\05_testing_validation\unit_tests\"
+
+# Step 56: Move test files: *_test.py
+for %f in ("C:\Users\anapa\eziofilho-unified\*_test.py") do move "%f" "C:\Users\anapa\eziofilho-unified\05_testing_validation\unit_tests\"
+
+# Step 57: Move tools: gpu_*.py
+for %f in ("C:\Users\anapa\eziofilho-unified\gpu_*.py") do move "%f" "C:\Users\anapa\eziofilho-unified\06_tools_utilities\gpu_tools\"
+
+# Step 58: Move tools: *monitor*.py
+for %f in ("C:\Users\anapa\eziofilho-unified\*monitor*.py") do move "%f" "C:\Users\anapa\eziofilho-unified\06_tools_utilities\gpu_tools\"
+
+# Step 59: Move tools: *benchmark*.py
+for %f in ("C:\Users\anapa\eziofilho-unified\*benchmark*.py") do move "%f" "C:\Users\anapa\eziofilho-unified\06_tools_utilities\gpu_tools\"
+
+# Step 60: Move tools: demo_multi_gpu.py
+for %f in ("C:\Users\anapa\eziofilho-unified\demo_multi_gpu.py") do move "%f" "C:\Users\anapa\eziofilho-unified\06_tools_utilities\gpu_tools\"
+
+# Step 61: Move model files: download_*.py
+for %f in ("C:\Users\anapa\eziofilho-unified\download_*.py") do move "%f" "C:\Users\anapa\eziofilho-unified\03_models_storage\model_configs\"
+
+# Step 62: Move model files: model_*.py
+for %f in ("C:\Users\anapa\eziofilho-unified\model_*.py") do move "%f" "C:\Users\anapa\eziofilho-unified\03_models_storage\model_configs\"
+
+# Step 63: Move model files: find_models.py
+for %f in ("C:\Users\anapa\eziofilho-unified\find_models.py") do move "%f" "C:\Users\anapa\eziofilho-unified\03_models_storage\model_configs\"
+
+# Step 64: Move model files: organize_models.py
+for %f in ("C:\Users\anapa\eziofilho-unified\organize_models.py") do move "%f" "C:\Users\anapa\eziofilho-unified\03_models_storage\model_configs\"
+
+# Step 65: Move batch files: *.bat
+for %f in ("C:\Users\anapa\eziofilho-unified\*.bat") do move "%f" "C:\Users\anapa\eziofilho-unified\10_deployment\batch_files\"
+
+# Step 66: Remove cache directories: __pycache__
+for /d /r "C:\Users\anapa\eziofilho-unified" %d in (__pycache__) do @if exist "%d" rmdir /s /q "%d"
+
+# Step 67: Remove cache files: *.pyc
+for /r "C:\Users\anapa\eziofilho-unified" %f in (*.pyc) do @if exist "%f" del /q "%f"
+
+# Step 68: Remove cache files: *.pyo
+for /r "C:\Users\anapa\eziofilho-unified" %f in (*.pyo) do @if exist "%f" del /q "%f"
+
+# Step 69: Remove cache directories: .cache
+for /d /r "C:\Users\anapa\eziofilho-unified" %d in (.cache) do @if exist "%d" rmdir /s /q "%d"
+
+# Step 70: Remove temporary file: *_old.py
+for %f in ("C:\Users\anapa\eziofilho-unified\*_old.py") do del /q "%f"
+
+# Step 71: Remove temporary file: *_simple.py
+for %f in ("C:\Users\anapa\eziofilho-unified\*_simple.py") do del /q "%f"
+
+# Step 72: Remove temporary file: simple_chat_old.py
+for %f in ("C:\Users\anapa\eziofilho-unified\simple_chat_old.py") do del /q "%f"
+
+# Step 73: Remove version artifact: 1.20.0
+del /q "C:\Users\anapa\eziofilho-unified\1.20.0"
+
+# Step 74: Remove version artifact: 2.11.3
+del /q "C:\Users\anapa\eziofilho-unified\2.11.3"
+
+# Step 75: Remove version artifact: 25.1.1
+del /q "C:\Users\anapa\eziofilho-unified\25.1.1"
+
+# Step 76: Remove version artifact: 3.7
+del /q "C:\Users\anapa\eziofilho-unified\3.7"
+
+# Step 77: Remove version artifact: 4.5.0
+del /q "C:\Users\anapa\eziofilho-unified\4.5.0"
+
+# Step 78: Remove version artifact: 5.6.1
+del /q "C:\Users\anapa\eziofilho-unified\5.6.1"
+
+# Step 79: Consolidate requirements files
+
+echo # EZIO UNIFIED REQUIREMENTS - Generated 20250524_100401 > "C:\Users\anapa\eziofilho-unified\04_configuration\requirements_files\requirements_unified_final.txt"
+echo # Consolidated from multiple requirement files >> "C:\Users\anapa\eziofilho-unified\04_configuration\requirements_files\requirements_unified_final.txt"
+echo. >> "C:\Users\anapa\eziofilho-unified\04_configuration\requirements_files\requirements_unified_final.txt"
+type "C:\Users\anapa\eziofilho-unified\04_configuration\requirements_files\requirements.txt" >> "C:\Users\anapa\eziofilho-unified\04_configuration\requirements_files\requirements_unified_final.txt" 2>nul
+type "C:\Users\anapa\eziofilho-unified\04_configuration\requirements_files\requirements-unified.txt" >> "C:\Users\anapa\eziofilho-unified\04_configuration\requirements_files\requirements_unified_final.txt" 2>nul
+type "C:\Users\anapa\eziofilho-unified\04_configuration\requirements_files\requirements_working.txt" >> "C:\Users\anapa\eziofilho-unified\04_configuration\requirements_files\requirements_unified_final.txt" 2>nul
+
+
+# Step 80: Move documentation: README.md
+move "C:\Users\anapa\eziofilho-unified\README.md" "C:\Users\anapa\eziofilho-unified\07_documentation\guides\"
+
+# Step 81: Move documentation: relatorio_desenvolvimento.md
+move "C:\Users\anapa\eziofilho-unified\relatorio_desenvolvimento.md" "C:\Users\anapa\eziofilho-unified\07_documentation\guides\"
+
+# Step 82: Move documentation: *.md
+for %f in ("C:\Users\anapa\eziofilho-unified\*.md") do move "%f" "C:\Users\anapa\eziofilho-unified\07_documentation\guides\"
+
+# Step 83: Move folder: autogen_examples -> 08_examples_demos\autogen_examples
+xcopy /E /I /Y "C:\Users\anapa\eziofilho-unified\autogen_examples" "C:\Users\anapa\eziofilho-unified\08_examples_demos\autogen_examples\"
+
+# Step 84: Remove original folder: autogen_examples
+rmdir /s /q "C:\Users\anapa\eziofilho-unified\autogen_examples"
+
+# Step 85: Move folder: autogen_generated -> 08_examples_demos\working_demos
+xcopy /E /I /Y "C:\Users\anapa\eziofilho-unified\autogen_generated" "C:\Users\anapa\eziofilho-unified\08_examples_demos\working_demos\"
+
+# Step 86: Remove original folder: autogen_generated
+rmdir /s /q "C:\Users\anapa\eziofilho-unified\autogen_generated"
+
+# Step 87: Move folder: data -> 09_data_cache\shared_cache
+xcopy /E /I /Y "C:\Users\anapa\eziofilho-unified\data" "C:\Users\anapa\eziofilho-unified\09_data_cache\shared_cache\"
+
+# Step 88: Remove original folder: data
+rmdir /s /q "C:\Users\anapa\eziofilho-unified\data"
+
+# Step 89: Move folder: results -> 05_testing_validation\test_results
+xcopy /E /I /Y "C:\Users\anapa\eziofilho-unified\results" "C:\Users\anapa\eziofilho-unified\05_testing_validation\test_results\"
+
+# Step 90: Remove original folder: results
+rmdir /s /q "C:\Users\anapa\eziofilho-unified\results"
+
+# Step 91: Move folder: reports -> 07_documentation\reports
+xcopy /E /I /Y "C:\Users\anapa\eziofilho-unified\reports" "C:\Users\anapa\eziofilho-unified\07_documentation\reports\"
+
+# Step 92: Remove original folder: reports
+rmdir /s /q "C:\Users\anapa\eziofilho-unified\reports"
+
+# Step 93: Move folder: models -> 03_models_storage\local_models
+xcopy /E /I /Y "C:\Users\anapa\eziofilho-unified\models" "C:\Users\anapa\eziofilho-unified\03_models_storage\local_models\"
+
+# Step 94: Remove original folder: models
+rmdir /s /q "C:\Users\anapa\eziofilho-unified\models"
+
+# Step 95: Move folder: core -> 01_core_system\base_classes
+xcopy /E /I /Y "C:\Users\anapa\eziofilho-unified\core" "C:\Users\anapa\eziofilho-unified\01_core_system\base_classes\"
+
+# Step 96: Remove original folder: core
+rmdir /s /q "C:\Users\anapa\eziofilho-unified\core"
+
+# Step 97: Move folder: experts -> 02_experts_modules\financial_experts
+xcopy /E /I /Y "C:\Users\anapa\eziofilho-unified\experts" "C:\Users\anapa\eziofilho-unified\02_experts_modules\financial_experts\"
+
+# Step 98: Remove original folder: experts
+rmdir /s /q "C:\Users\anapa\eziofilho-unified\experts"
+
+# Step 99: Move folder: tools -> 06_tools_utilities\monitoring
+xcopy /E /I /Y "C:\Users\anapa\eziofilho-unified\tools" "C:\Users\anapa\eziofilho-unified\06_tools_utilities\monitoring\"
+
+# Step 100: Remove original folder: tools
+rmdir /s /q "C:\Users\anapa\eziofilho-unified\tools"
+
+# Step 101: Generate final organization report
+
+echo EZIO PROJECT ORGANIZATION REPORT > "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo ================================== >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo Timestamp: 20250524_100401 >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo Total Commands Executed: 100 >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo. >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo NEW STRUCTURE CREATED: >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 01_core_system >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 02_experts_modules >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 03_models_storage >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 04_configuration >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 05_testing_validation >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 06_tools_utilities >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 07_documentation >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 08_examples_demos >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 09_data_cache >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 10_deployment >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 01_core_system\main_runners >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 01_core_system\orchestrators >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 01_core_system\base_classes >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 02_experts_modules\financial_experts >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 02_experts_modules\ai_integrations >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 02_experts_modules\specialized_tools >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 03_models_storage\local_models >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 03_models_storage\model_configs >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 04_configuration\project_configs >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 04_configuration\requirements_files >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 05_testing_validation\unit_tests >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 05_testing_validation\integration_tests >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 05_testing_validation\test_results >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 06_tools_utilities\gpu_tools >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 06_tools_utilities\monitoring >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 07_documentation\reports >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 07_documentation\guides >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 08_examples_demos\autogen_examples >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 08_examples_demos\working_demos >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 09_data_cache\shared_cache >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 09_data_cache\fallback_data >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 10_deployment\batch_files >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 10_deployment\production_ready >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+
+echo. >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo ORGANIZATION COMPLETE! >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo Project is now organized and ready for development. >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+
+
+# Step 102: Create directory: 01_core_system
+mkdir "C:\Users\anapa\eziofilho-unified\01_core_system"
+
+# Step 103: Create directory: 02_experts_modules
+mkdir "C:\Users\anapa\eziofilho-unified\02_experts_modules"
+
+# Step 104: Create directory: 03_models_storage
+mkdir "C:\Users\anapa\eziofilho-unified\03_models_storage"
+
+# Step 105: Create directory: 04_configuration
+mkdir "C:\Users\anapa\eziofilho-unified\04_configuration"
+
+# Step 106: Create directory: 05_testing_validation
+mkdir "C:\Users\anapa\eziofilho-unified\05_testing_validation"
+
+# Step 107: Create directory: 06_tools_utilities
+mkdir "C:\Users\anapa\eziofilho-unified\06_tools_utilities"
+
+# Step 108: Create directory: 07_documentation
+mkdir "C:\Users\anapa\eziofilho-unified\07_documentation"
+
+# Step 109: Create directory: 08_examples_demos
+mkdir "C:\Users\anapa\eziofilho-unified\08_examples_demos"
+
+# Step 110: Create directory: 09_data_cache
+mkdir "C:\Users\anapa\eziofilho-unified\09_data_cache"
+
+# Step 111: Create directory: 10_deployment
+mkdir "C:\Users\anapa\eziofilho-unified\10_deployment"
+
+# Step 112: Create directory: 01_core_system\main_runners
+mkdir "C:\Users\anapa\eziofilho-unified\01_core_system\main_runners"
+
+# Step 113: Create directory: 01_core_system\orchestrators
+mkdir "C:\Users\anapa\eziofilho-unified\01_core_system\orchestrators"
+
+# Step 114: Create directory: 01_core_system\base_classes
+mkdir "C:\Users\anapa\eziofilho-unified\01_core_system\base_classes"
+
+# Step 115: Create directory: 02_experts_modules\financial_experts
+mkdir "C:\Users\anapa\eziofilho-unified\02_experts_modules\financial_experts"
+
+# Step 116: Create directory: 02_experts_modules\ai_integrations
+mkdir "C:\Users\anapa\eziofilho-unified\02_experts_modules\ai_integrations"
+
+# Step 117: Create directory: 02_experts_modules\specialized_tools
+mkdir "C:\Users\anapa\eziofilho-unified\02_experts_modules\specialized_tools"
+
+# Step 118: Create directory: 03_models_storage\local_models
+mkdir "C:\Users\anapa\eziofilho-unified\03_models_storage\local_models"
+
+# Step 119: Create directory: 03_models_storage\model_configs
+mkdir "C:\Users\anapa\eziofilho-unified\03_models_storage\model_configs"
+
+# Step 120: Create directory: 04_configuration\project_configs
+mkdir "C:\Users\anapa\eziofilho-unified\04_configuration\project_configs"
+
+# Step 121: Create directory: 04_configuration\requirements_files
+mkdir "C:\Users\anapa\eziofilho-unified\04_configuration\requirements_files"
+
+# Step 122: Create directory: 05_testing_validation\unit_tests
+mkdir "C:\Users\anapa\eziofilho-unified\05_testing_validation\unit_tests"
+
+# Step 123: Create directory: 05_testing_validation\integration_tests
+mkdir "C:\Users\anapa\eziofilho-unified\05_testing_validation\integration_tests"
+
+# Step 124: Create directory: 05_testing_validation\test_results
+mkdir "C:\Users\anapa\eziofilho-unified\05_testing_validation\test_results"
+
+# Step 125: Create directory: 06_tools_utilities\gpu_tools
+mkdir "C:\Users\anapa\eziofilho-unified\06_tools_utilities\gpu_tools"
+
+# Step 126: Create directory: 06_tools_utilities\monitoring
+mkdir "C:\Users\anapa\eziofilho-unified\06_tools_utilities\monitoring"
+
+# Step 127: Create directory: 07_documentation\reports
+mkdir "C:\Users\anapa\eziofilho-unified\07_documentation\reports"
+
+# Step 128: Create directory: 07_documentation\guides
+mkdir "C:\Users\anapa\eziofilho-unified\07_documentation\guides"
+
+# Step 129: Create directory: 08_examples_demos\autogen_examples
+mkdir "C:\Users\anapa\eziofilho-unified\08_examples_demos\autogen_examples"
+
+# Step 130: Create directory: 08_examples_demos\working_demos
+mkdir "C:\Users\anapa\eziofilho-unified\08_examples_demos\working_demos"
+
+# Step 131: Create directory: 09_data_cache\shared_cache
+mkdir "C:\Users\anapa\eziofilho-unified\09_data_cache\shared_cache"
+
+# Step 132: Create directory: 09_data_cache\fallback_data
+mkdir "C:\Users\anapa\eziofilho-unified\09_data_cache\fallback_data"
+
+# Step 133: Create directory: 10_deployment\batch_files
+mkdir "C:\Users\anapa\eziofilho-unified\10_deployment\batch_files"
+
+# Step 134: Create directory: 10_deployment\production_ready
+mkdir "C:\Users\anapa\eziofilho-unified\10_deployment\production_ready"
+
+# Step 135: Move main runner: main.py
+move "C:\Users\anapa\eziofilho-unified\main.py" "C:\Users\anapa\eziofilho-unified\01_core_system\main_runners\"
+
+# Step 136: Move main runner: main_fixed.py
+move "C:\Users\anapa\eziofilho-unified\main_fixed.py" "C:\Users\anapa\eziofilho-unified\01_core_system\main_runners\"
+
+# Step 137: Move main runner: main_autogen.py
+move "C:\Users\anapa\eziofilho-unified\main_autogen.py" "C:\Users\anapa\eziofilho-unified\01_core_system\main_runners\"
+
+# Step 138: Move main runner: run_system.py
+move "C:\Users\anapa\eziofilho-unified\run_system.py" "C:\Users\anapa\eziofilho-unified\01_core_system\main_runners\"
+
+# Step 139: Move main runner: run_unified.py
+move "C:\Users\anapa\eziofilho-unified\run_unified.py" "C:\Users\anapa\eziofilho-unified\01_core_system\main_runners\"
+
+# Step 140: Move main runner: run_local.py
+move "C:\Users\anapa\eziofilho-unified\run_local.py" "C:\Users\anapa\eziofilho-unified\01_core_system\main_runners\"
+
+# Step 141: Move main runner: run_with_auto_discovery.py
+move "C:\Users\anapa\eziofilho-unified\run_with_auto_discovery.py" "C:\Users\anapa\eziofilho-unified\01_core_system\main_runners\"
+
+# Step 142: Move orchestrator: ezio_orchestrator.py
+move "C:\Users\anapa\eziofilho-unified\ezio_orchestrator.py" "C:\Users\anapa\eziofilho-unified\01_core_system\orchestrators\"
+
+# Step 143: Move orchestrator: unified_orchestrator.py
+move "C:\Users\anapa\eziofilho-unified\unified_orchestrator.py" "C:\Users\anapa\eziofilho-unified\01_core_system\orchestrators\"
+
+# Step 144: Move expert file: expert_fingpt.py
+move "C:\Users\anapa\eziofilho-unified\expert_fingpt.py" "C:\Users\anapa\eziofilho-unified\02_experts_modules\financial_experts\"
+
+# Step 145: Move expert files: eziofinisher_*.py
+for %f in ("C:\Users\anapa\eziofilho-unified\eziofinisher_*.py") do move "%f" "C:\Users\anapa\eziofilho-unified\02_experts_modules\financial_experts\"
+
+# Step 146: Move expert file: advanced_model_manager.py
+move "C:\Users\anapa\eziofilho-unified\advanced_model_manager.py" "C:\Users\anapa\eziofilho-unified\02_experts_modules\financial_experts\"
+
+# Step 147: Move expert file: direct_chat.py
+move "C:\Users\anapa\eziofilho-unified\direct_chat.py" "C:\Users\anapa\eziofilho-unified\02_experts_modules\financial_experts\"
+
+# Step 148: Move expert file: simple_chat.py
+move "C:\Users\anapa\eziofilho-unified\simple_chat.py" "C:\Users\anapa\eziofilho-unified\02_experts_modules\financial_experts\"
+
+# Step 149: Move config files: config_*.py
+for %f in ("C:\Users\anapa\eziofilho-unified\config_*.py") do move "%f" "C:\Users\anapa\eziofilho-unified\04_configuration\project_configs\"
+
+# Step 150: Move config files: config_*.json
+for %f in ("C:\Users\anapa\eziofilho-unified\config_*.json") do move "%f" "C:\Users\anapa\eziofilho-unified\04_configuration\project_configs\"
+
+# Step 151: Move config files: *.json
+for %f in ("C:\Users\anapa\eziofilho-unified\*.json") do move "%f" "C:\Users\anapa\eziofilho-unified\04_configuration\project_configs\"
+
+# Step 152: Move config files: configure_*.py
+for %f in ("C:\Users\anapa\eziofilho-unified\configure_*.py") do move "%f" "C:\Users\anapa\eziofilho-unified\04_configuration\project_configs\"
+
+# Step 153: Move requirements: requirements*.txt
+for %f in ("C:\Users\anapa\eziofilho-unified\requirements*.txt") do move "%f" "C:\Users\anapa\eziofilho-unified\04_configuration\requirements_files\"
+
+# Step 154: Move requirements: requirements*.txt
+for %f in ("C:\Users\anapa\eziofilho-unified\requirements*.txt") do move "%f" "C:\Users\anapa\eziofilho-unified\04_configuration\requirements_files\"
+
+# Step 155: Move test files: test_*.py
+for %f in ("C:\Users\anapa\eziofilho-unified\test_*.py") do move "%f" "C:\Users\anapa\eziofilho-unified\05_testing_validation\unit_tests\"
+
+# Step 156: Move test files: run_*test*.py
+for %f in ("C:\Users\anapa\eziofilho-unified\run_*test*.py") do move "%f" "C:\Users\anapa\eziofilho-unified\05_testing_validation\unit_tests\"
+
+# Step 157: Move test files: *_test.py
+for %f in ("C:\Users\anapa\eziofilho-unified\*_test.py") do move "%f" "C:\Users\anapa\eziofilho-unified\05_testing_validation\unit_tests\"
+
+# Step 158: Move tools: gpu_*.py
+for %f in ("C:\Users\anapa\eziofilho-unified\gpu_*.py") do move "%f" "C:\Users\anapa\eziofilho-unified\06_tools_utilities\gpu_tools\"
+
+# Step 159: Move tools: *monitor*.py
+for %f in ("C:\Users\anapa\eziofilho-unified\*monitor*.py") do move "%f" "C:\Users\anapa\eziofilho-unified\06_tools_utilities\gpu_tools\"
+
+# Step 160: Move tools: *benchmark*.py
+for %f in ("C:\Users\anapa\eziofilho-unified\*benchmark*.py") do move "%f" "C:\Users\anapa\eziofilho-unified\06_tools_utilities\gpu_tools\"
+
+# Step 161: Move tools: demo_multi_gpu.py
+for %f in ("C:\Users\anapa\eziofilho-unified\demo_multi_gpu.py") do move "%f" "C:\Users\anapa\eziofilho-unified\06_tools_utilities\gpu_tools\"
+
+# Step 162: Move model files: download_*.py
+for %f in ("C:\Users\anapa\eziofilho-unified\download_*.py") do move "%f" "C:\Users\anapa\eziofilho-unified\03_models_storage\model_configs\"
+
+# Step 163: Move model files: model_*.py
+for %f in ("C:\Users\anapa\eziofilho-unified\model_*.py") do move "%f" "C:\Users\anapa\eziofilho-unified\03_models_storage\model_configs\"
+
+# Step 164: Move model files: find_models.py
+for %f in ("C:\Users\anapa\eziofilho-unified\find_models.py") do move "%f" "C:\Users\anapa\eziofilho-unified\03_models_storage\model_configs\"
+
+# Step 165: Move model files: organize_models.py
+for %f in ("C:\Users\anapa\eziofilho-unified\organize_models.py") do move "%f" "C:\Users\anapa\eziofilho-unified\03_models_storage\model_configs\"
+
+# Step 166: Move batch files: *.bat
+for %f in ("C:\Users\anapa\eziofilho-unified\*.bat") do move "%f" "C:\Users\anapa\eziofilho-unified\10_deployment\batch_files\"
+
+# Step 167: Remove cache directories: __pycache__
+for /d /r "C:\Users\anapa\eziofilho-unified" %d in (__pycache__) do @if exist "%d" rmdir /s /q "%d"
+
+# Step 168: Remove cache files: *.pyc
+for /r "C:\Users\anapa\eziofilho-unified" %f in (*.pyc) do @if exist "%f" del /q "%f"
+
+# Step 169: Remove cache files: *.pyo
+for /r "C:\Users\anapa\eziofilho-unified" %f in (*.pyo) do @if exist "%f" del /q "%f"
+
+# Step 170: Remove cache directories: .cache
+for /d /r "C:\Users\anapa\eziofilho-unified" %d in (.cache) do @if exist "%d" rmdir /s /q "%d"
+
+# Step 171: Remove temporary file: *_old.py
+for %f in ("C:\Users\anapa\eziofilho-unified\*_old.py") do del /q "%f"
+
+# Step 172: Remove temporary file: *_simple.py
+for %f in ("C:\Users\anapa\eziofilho-unified\*_simple.py") do del /q "%f"
+
+# Step 173: Remove temporary file: simple_chat_old.py
+for %f in ("C:\Users\anapa\eziofilho-unified\simple_chat_old.py") do del /q "%f"
+
+# Step 174: Remove version artifact: 1.20.0
+del /q "C:\Users\anapa\eziofilho-unified\1.20.0"
+
+# Step 175: Remove version artifact: 2.11.3
+del /q "C:\Users\anapa\eziofilho-unified\2.11.3"
+
+# Step 176: Remove version artifact: 25.1.1
+del /q "C:\Users\anapa\eziofilho-unified\25.1.1"
+
+# Step 177: Remove version artifact: 3.7
+del /q "C:\Users\anapa\eziofilho-unified\3.7"
+
+# Step 178: Remove version artifact: 4.5.0
+del /q "C:\Users\anapa\eziofilho-unified\4.5.0"
+
+# Step 179: Remove version artifact: 5.6.1
+del /q "C:\Users\anapa\eziofilho-unified\5.6.1"
+
+# Step 180: Consolidate requirements files
+
+echo # EZIO UNIFIED REQUIREMENTS - Generated 20250524_100401 > "C:\Users\anapa\eziofilho-unified\04_configuration\requirements_files\requirements_unified_final.txt"
+echo # Consolidated from multiple requirement files >> "C:\Users\anapa\eziofilho-unified\04_configuration\requirements_files\requirements_unified_final.txt"
+echo. >> "C:\Users\anapa\eziofilho-unified\04_configuration\requirements_files\requirements_unified_final.txt"
+type "C:\Users\anapa\eziofilho-unified\04_configuration\requirements_files\requirements.txt" >> "C:\Users\anapa\eziofilho-unified\04_configuration\requirements_files\requirements_unified_final.txt" 2>nul
+type "C:\Users\anapa\eziofilho-unified\04_configuration\requirements_files\requirements-unified.txt" >> "C:\Users\anapa\eziofilho-unified\04_configuration\requirements_files\requirements_unified_final.txt" 2>nul
+type "C:\Users\anapa\eziofilho-unified\04_configuration\requirements_files\requirements_working.txt" >> "C:\Users\anapa\eziofilho-unified\04_configuration\requirements_files\requirements_unified_final.txt" 2>nul
+
+
+# Step 181: Move documentation: README.md
+move "C:\Users\anapa\eziofilho-unified\README.md" "C:\Users\anapa\eziofilho-unified\07_documentation\guides\"
+
+# Step 182: Move documentation: relatorio_desenvolvimento.md
+move "C:\Users\anapa\eziofilho-unified\relatorio_desenvolvimento.md" "C:\Users\anapa\eziofilho-unified\07_documentation\guides\"
+
+# Step 183: Move documentation: *.md
+for %f in ("C:\Users\anapa\eziofilho-unified\*.md") do move "%f" "C:\Users\anapa\eziofilho-unified\07_documentation\guides\"
+
+# Step 184: Move folder: autogen_examples -> 08_examples_demos\autogen_examples
+xcopy /E /I /Y "C:\Users\anapa\eziofilho-unified\autogen_examples" "C:\Users\anapa\eziofilho-unified\08_examples_demos\autogen_examples\"
+
+# Step 185: Remove original folder: autogen_examples
+rmdir /s /q "C:\Users\anapa\eziofilho-unified\autogen_examples"
+
+# Step 186: Move folder: autogen_generated -> 08_examples_demos\working_demos
+xcopy /E /I /Y "C:\Users\anapa\eziofilho-unified\autogen_generated" "C:\Users\anapa\eziofilho-unified\08_examples_demos\working_demos\"
+
+# Step 187: Remove original folder: autogen_generated
+rmdir /s /q "C:\Users\anapa\eziofilho-unified\autogen_generated"
+
+# Step 188: Move folder: data -> 09_data_cache\shared_cache
+xcopy /E /I /Y "C:\Users\anapa\eziofilho-unified\data" "C:\Users\anapa\eziofilho-unified\09_data_cache\shared_cache\"
+
+# Step 189: Remove original folder: data
+rmdir /s /q "C:\Users\anapa\eziofilho-unified\data"
+
+# Step 190: Move folder: results -> 05_testing_validation\test_results
+xcopy /E /I /Y "C:\Users\anapa\eziofilho-unified\results" "C:\Users\anapa\eziofilho-unified\05_testing_validation\test_results\"
+
+# Step 191: Remove original folder: results
+rmdir /s /q "C:\Users\anapa\eziofilho-unified\results"
+
+# Step 192: Move folder: reports -> 07_documentation\reports
+xcopy /E /I /Y "C:\Users\anapa\eziofilho-unified\reports" "C:\Users\anapa\eziofilho-unified\07_documentation\reports\"
+
+# Step 193: Remove original folder: reports
+rmdir /s /q "C:\Users\anapa\eziofilho-unified\reports"
+
+# Step 194: Move folder: models -> 03_models_storage\local_models
+xcopy /E /I /Y "C:\Users\anapa\eziofilho-unified\models" "C:\Users\anapa\eziofilho-unified\03_models_storage\local_models\"
+
+# Step 195: Remove original folder: models
+rmdir /s /q "C:\Users\anapa\eziofilho-unified\models"
+
+# Step 196: Move folder: core -> 01_core_system\base_classes
+xcopy /E /I /Y "C:\Users\anapa\eziofilho-unified\core" "C:\Users\anapa\eziofilho-unified\01_core_system\base_classes\"
+
+# Step 197: Remove original folder: core
+rmdir /s /q "C:\Users\anapa\eziofilho-unified\core"
+
+# Step 198: Move folder: experts -> 02_experts_modules\financial_experts
+xcopy /E /I /Y "C:\Users\anapa\eziofilho-unified\experts" "C:\Users\anapa\eziofilho-unified\02_experts_modules\financial_experts\"
+
+# Step 199: Remove original folder: experts
+rmdir /s /q "C:\Users\anapa\eziofilho-unified\experts"
+
+# Step 200: Move folder: tools -> 06_tools_utilities\monitoring
+xcopy /E /I /Y "C:\Users\anapa\eziofilho-unified\tools" "C:\Users\anapa\eziofilho-unified\06_tools_utilities\monitoring\"
+
+# Step 201: Remove original folder: tools
+rmdir /s /q "C:\Users\anapa\eziofilho-unified\tools"
+
+# Step 202: Generate final organization report
+
+echo EZIO PROJECT ORGANIZATION REPORT > "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo ================================== >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo Timestamp: 20250524_100401 >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo Total Commands Executed: 201 >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo. >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo NEW STRUCTURE CREATED: >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 01_core_system >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 02_experts_modules >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 03_models_storage >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 04_configuration >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 05_testing_validation >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 06_tools_utilities >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 07_documentation >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 08_examples_demos >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 09_data_cache >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 10_deployment >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 01_core_system\main_runners >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 01_core_system\orchestrators >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 01_core_system\base_classes >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 02_experts_modules\financial_experts >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 02_experts_modules\ai_integrations >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 02_experts_modules\specialized_tools >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 03_models_storage\local_models >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 03_models_storage\model_configs >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 04_configuration\project_configs >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 04_configuration\requirements_files >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 05_testing_validation\unit_tests >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 05_testing_validation\integration_tests >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 05_testing_validation\test_results >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 06_tools_utilities\gpu_tools >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 06_tools_utilities\monitoring >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 07_documentation\reports >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 07_documentation\guides >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 08_examples_demos\autogen_examples >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 08_examples_demos\working_demos >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 09_data_cache\shared_cache >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 09_data_cache\fallback_data >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 10_deployment\batch_files >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 10_deployment\production_ready >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 01_core_system >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 02_experts_modules >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 03_models_storage >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 04_configuration >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 05_testing_validation >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 06_tools_utilities >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 07_documentation >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 08_examples_demos >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 09_data_cache >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 10_deployment >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 01_core_system\main_runners >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 01_core_system\orchestrators >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 01_core_system\base_classes >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 02_experts_modules\financial_experts >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 02_experts_modules\ai_integrations >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 02_experts_modules\specialized_tools >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 03_models_storage\local_models >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 03_models_storage\model_configs >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 04_configuration\project_configs >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 04_configuration\requirements_files >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 05_testing_validation\unit_tests >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 05_testing_validation\integration_tests >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 05_testing_validation\test_results >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 06_tools_utilities\gpu_tools >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 06_tools_utilities\monitoring >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 07_documentation\reports >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 07_documentation\guides >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 08_examples_demos\autogen_examples >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 08_examples_demos\working_demos >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 09_data_cache\shared_cache >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 09_data_cache\fallback_data >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 10_deployment\batch_files >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo   - 10_deployment\production_ready >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+
+echo. >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo ORGANIZATION COMPLETE! >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+echo Project is now organized and ready for development. >> "C:\Users\anapa\eziofilho-unified\07_documentation\reports\organization_report_20250524_100401.txt"
+
+

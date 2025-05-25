@@ -1,0 +1,241 @@
+{
+  "market_experts": {
+    "sentiment": {
+      "error": "Texto muito curto ou vazio para análise",
+      "sentiment_score": 0,
+      "sentiment": "neutral",
+      "confidence": 0,
+      "processing_time": 1.9073486328125e-06
+    },
+    "technical": {
+      "trend": "neutral",
+      "trend_strength": 50,
+      "key_levels": {
+        "support": [],
+        "resistance": []
+      },
+      "indicators": [],
+      "patterns": [],
+      "short_term_forecast": "Indefinido",
+      "confidence": 30,
+      "symbol": "desconhecido",
+      "timeframe": "desconhecido",
+      "processing_time": 3.0262255668640137
+    },
+    "fundamental": {
+      "rating": "neutro",
+      "financial_health": "regular",
+      "financial_metrics": {
+        "key_positive": [],
+        "key_negative": []
+      },
+      "valuation": {
+        "current_multiples": {},
+        "fair_value_assessment": "Não disponível",
+        "upside_potential": "Não determinado"
+      },
+      "competitive_analysis": [],
+      "growth_outlook": "Indefinido",
+      "risks": [],
+      "opportunities": [],
+      "confidence": 30,
+      "investment_thesis": "Análise incompleta",
+      "company": "desconhecida",
+      "sector": "desconhecido",
+      "processing_time": 3.001847505569458
+    },
+    "macro": {
+      "economic_outlook": "incerto",
+      "key_indicators": {
+        "growth": {
+          "trend": "Indefinido",
+          "risks": "Indefinido",
+          "forecast": "N/A"
+        },
+        "inflation": {
+          "trend": "Indefinido",
+          "drivers": "Indefinido",
+          "forecast": "N/A"
+        },
+        "interest_rates": {
+          "trend": "Indefinido",
+          "central_bank_outlook": "Indefinido",
+          "forecast": "N/A"
+        }
+      },
+      "asset_implications": {
+        "equities": "Indefinido",
+        "fixed_income": "Indefinido",
+        "currencies": "Indefinido",
+        "commodities": "Indefinido",
+        "alternatives": "Indefinido"
+      },
+      "key_risks": [],
+      "opportunities": [],
+      "policy_outlook": {
+        "monetary": "Indefinido",
+        "fiscal": "Indefinido"
+      },
+      "confidence": 30,
+      "summary": "Análise incompleta",
+      "region": "global",
+      "period": "último trimestre",
+      "processing_time": 3.002876043319702
+    }
+  },
+  "risk_experts": {
+    "risk_manager": {
+      "risk_rating": "moderado",
+      "overall_assessment": "Análise incompleta",
+      "key_risk_metrics": {
+        "volatility": "N/A",
+        "var_95": "N/A",
+        "max_drawdown": "N/A",
+        "sharpe_ratio": "N/A"
+      },
+      "risk_breakdown": {
+        "market_risk": {
+          "level": "indefinido",
+          "sources": [],
+          "metrics": {}
+        },
+        "credit_risk": {
+          "level": "indefinido",
+          "sources": [],
+          "metrics": {}
+        },
+        "liquidity_risk": {
+          "level": "indefinido",
+          "sources": [],
+          "metrics": {}
+        },
+        "concentration_risk": {
+          "level": "indefinido",
+          "sources": [],
+          "metrics": {}
+        }
+      },
+      "stress_tests": [],
+      "risk_recommendations": [],
+      "confidence": 30,
+      "portfolio_name": "Não especificado",
+      "time_horizon": "Não especificado",
+      "processing_time": 3.001866102218628
+    },
+    "volatility": {
+      "volatility_regime": "média",
+      "regime_trend": "estável",
+      "current_metrics": {
+        "historical_volatility": "N/A",
+        "implied_volatility": "N/A",
+        "volatility_percentile": "N/A"
+      },
+      "patterns_identified": [],
+      "volatility_drivers": [],
+      "market_implications": {
+        "price_direction": "indefinido",
+        "expected_moves": "indefinido",
+        "risk_premium": "indefinido"
+      },
+      "forecasts": {
+        "short_term": "indefinido",
+        "medium_term": "indefinido",
+        "catalysts": []
+      },
+      "volatility_strategies": [],
+      "hedging_recommendations": [],
+      "confidence": 30,
+      "asset": "desconhecido",
+      "period": "atual",
+      "processing_time": 3.001828908920288
+    },
+    "credit": {
+      "issuer": "desconhecido",
+      "asset_type": "desconhecido",
+      "processing_time": 3.0018441677093506,
+      "format_error": "Resposta não veio no formato JSON esperado",
+      "credit_quality": "A",
+      "credit_trend": "estável",
+      "confidence": 50,
+      "original_response": "Erro: Caminho do modelo não existe: microsoft/phi-2"
+    },
+    "liquidity": {
+      "market": "desconhecido",
+      "asset_class": "desconhecido",
+      "processing_time": 3.00187087059021,
+      "format_error": "Resposta não veio no formato JSON esperado",
+      "liquidity_condition": "não identificado",
+      "liquidity_trend": "estável",
+      "confidence": 50,
+      "original_response": "Erro: Caminho do modelo não existe: microsoft/phi-2"
+    }
+  },
+  "quant_experts": {
+    "algorithmic": {
+      "strategy_type": "desconhecido",
+      "asset_class": "desconhecido",
+      "processing_time": 3.0016095638275146,
+      "format_error": "Resposta não veio no formato JSON esperado",
+      "strategy_classification": {
+        "primary_type": "não identificado"
+      },
+      "performance_metrics": {
+        "key_metrics": [
+          "não identificado"
+        ]
+      },
+      "confidence": 50,
+      "original_response": "Erro: Caminho do modelo não existe: microsoft/phi-2"
+    },
+    "options": {
+      "underlying": "desconhecido",
+      "expiration": "desconhecido",
+      "processing_time": 3.0018491744995117,
+      "format_error": "Resposta não veio no formato JSON esperado",
+      "market_sentiment": {
+        "directional_bias": "não identificado",
+        "volatility_expectation": "não identificada"
+      },
+      "trading_opportunities": [
+        {
+          "strategy": "não identificada"
+        }
+      ],
+      "confidence": 50,
+      "original_response": "Erro: Caminho do modelo não existe: microsoft/phi-2"
+    },
+    "fixed_income": {
+      "market": "desconhecido",
+      "sector": "desconhecido",
+      "processing_time": 3.001844882965088,
+      "format_error": "Resposta não veio no formato JSON esperado",
+      "curve_assessment": {
+        "shape": "não identificado"
+      },
+      "strategy_recommendations": [
+        {
+          "strategy": "não identificada"
+        }
+      ],
+      "confidence": 50,
+      "original_response": "Erro: Caminho do modelo não existe: microsoft/phi-2"
+    },
+    "crypto": {
+      "asset": "desconhecido",
+      "protocol": "desconhecido",
+      "processing_time": 3.0017902851104736,
+      "format_error": "Resposta não veio no formato JSON esperado",
+      "market_assessment": {
+        "cycle_position": "não identificado"
+      },
+      "investment_recommendation": {
+        "outlook": "neutral"
+      },
+      "confidence": 50,
+      "original_response": "Erro: Caminho do modelo não existe: microsoft/phi-2"
+    }
+  },
+  "gpu_statistics": [],
+  "total_time": 33.05426621437073,
+  "timestamp": 1747959979.7132642
+}

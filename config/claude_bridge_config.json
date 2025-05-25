@@ -1,0 +1,149 @@
+{
+  "system": {
+    "name": "EzioFilhoUnified Claude Integration Bridge",
+    "version": "1.0.0",
+    "description": "Advanced integration bridge between EzioFinisher reports and Claude AI analysis",
+    "scan_interval_seconds": 300,
+    "max_concurrent_processes": 3,
+    "enable_file_locking": true,
+    "debug_mode": false
+  },
+  
+  "monitoring": {
+    "report_directories": [
+      {"path": "./reports/ezio_finisher", "priority": 1},
+      {"path": "./reports/daily_summaries", "priority": 2},
+      {"path": "./reports/alerts", "priority": 0}
+    ],
+    "file_patterns": ["*.json", "*.csv", "*.html", "*.txt"],
+    "ignore_patterns": ["*.tmp", "*.bak", ".gitignore"],
+    "max_report_age_days": 7,
+    "process_order": "priority_first"
+  },
+  
+  "output": {
+    "prompt_directory": "./claude_prompts",
+    "response_directory": "./claude_responses",
+    "archive_processed": true,
+    "archive_directory": "./processed_reports",
+    "format_responses_as_markdown": true,
+    "save_response_summary": true,
+    "generate_html_view": true
+  },
+  
+  "claude_api": {
+    "endpoint": "https://api.anthropic.com/v1/messages",
+    "model": "claude-3-5-sonnet-20240307",
+    "max_tokens": 4000,
+    "temperature": 0.7,
+    "top_p": 0.95,
+    "request_timeout": 60,
+    "retry_attempts": 3,
+    "retry_delay_seconds": 5,
+    "rate_limit_per_minute": 20,
+    "batch_requests": true
+  },
+  
+  "report_types": {
+    "performance": {
+      "priority": 1,
+      "keywords": ["performance", "return", "profit", "loss", "gain", "pnl", "drawdown", "sharpe", "sortino"],
+      "thresholds": {
+        "significant_drawdown": 10.0,
+        "critical_loss": 15.0,
+        "extreme_volatility": 25.0
+      }
+    },
+    "system": {
+      "priority": 0,
+      "keywords": ["system", "status", "health", "memory", "cpu", "uptime", "latency", "throughput"],
+      "thresholds": {
+        "high_cpu": 80.0,
+        "high_memory": 85.0,
+        "high_latency_ms": 500
+      }
+    },
+    "error": {
+      "priority": 0,
+      "keywords": ["error", "exception", "failure", "crash", "bug", "issue", "warning", "fatal"],
+      "auto_retry_conditions": ["connection_timeout", "api_unavailable"]
+    },
+    "strategy": {
+      "priority": 2,
+      "keywords": ["strategy", "algorithm", "backtest", "optimization", "parameter", "model", "metric"],
+      "include_historical_comparison": true
+    },
+    "market": {
+      "priority": 3,
+      "keywords": ["market", "price", "trend", "volatility", "momentum", "volume", "correlation"],
+      "include_sector_analysis": true
+    },
+    "risk": {
+      "priority": 1,
+      "keywords": ["risk", "exposure", "var", "margin", "leverage", "concentration", "limit"],
+      "alert_on_threshold_breach": true
+    },
+    "compliance": {
+      "priority": 0,
+      "keywords": ["compliance", "regulatory", "limit", "restriction", "breach", "violation"],
+      "auto_suspend_trading": true
+    }
+  },
+  
+  "prompt_templates": {
+    "performance_alert": "# Performance Analysis Request\n\nAnalyze this trading performance data from EzioFilhoUnified:\n\n```json\n{details}\n```\n\n## Analysis Tasks:\n1. Identify key strengths and weaknesses in current performance\n2. Calculate risk-adjusted returns and compare to benchmarks\n3. Identify specific trades or strategies causing largest gains/losses\n4. Flag any concerning patterns or anomalies in trading behavior\n5. Recommend 3-5 specific, actionable steps to improve performance\n\nPlease structure your analysis with clear headings and prioritize recommendations by expected impact.",
+    
+    "system_status": "# System Health Analysis Request\n\nReview this EzioFilhoUnified system status report:\n\n```json\n{status}\n```\n\n## Analysis Tasks:\n1. Assess overall system health and identify any critical issues\n2. Evaluate resource utilization patterns and bottlenecks\n3. Analyze component performance and inter-component dependencies\n4. Identify optimization opportunities for improved throughput\n5. Recommend configuration adjustments for better stability\n\nPlease include specific metrics in your analysis and highlight any values outside normal operating ranges.",
+    
+    "error_report": "# Error Analysis Request\n\nDebug these errors from EzioFilhoUnified:\n\n```\n{errors}\n```\n\n## Analysis Tasks:\n1. Categorize errors by severity, source, and likely root cause\n2. Identify patterns or cascading failure sequences\n3. Determine if errors are systemic or isolated incidents\n4. Suggest specific bug fixes or code improvements for each issue\n5. Recommend monitoring or logging enhancements to improve error detection\n\nPlease prioritize critical errors and provide sample pseudocode for fixes where appropriate.",
+    
+    "strategy_evaluation": "# Trading Strategy Evaluation Request\n\nEvaluate this trading strategy performance data:\n\n```json\n{metrics}\n```\n\n## Analysis Tasks:\n1. Assess strategy performance across different market conditions\n2. Analyze risk-adjusted returns (Sharpe, Sortino, Calmar ratios)\n3. Identify market regimes where the strategy underperforms\n4. Evaluate parameter sensitivity and optimization opportunities\n5. Suggest specific improvements to enhance strategy robustness\n\nPlease include quantitative analysis where possible and recommend parameter adjustments with expected impact.",
+    
+    "market_analysis": "# Market Analysis Request\n\nAnalyze this market data summary:\n\n```json\n{market_data}\n```\n\n## Analysis Tasks:\n1. Identify significant price patterns, support/resistance levels\n2. Detect regime changes, volatility clusters, or correlation shifts\n3. Evaluate liquidity conditions and volume patterns\n4. Highlight specific trading opportunities or warning signals\n5. Recommend market-specific adjustments to trading parameters\n\nPlease provide both short-term tactical insights and longer-term strategic recommendations.",
+    
+    "risk_assessment": "# Risk Assessment Request\n\nEvaluate this risk exposure data:\n\n```json\n{risk_data}\n```\n\n## Analysis Tasks:\n1. Assess overall risk exposure across asset classes and strategies\n2. Identify concentration risks or overexposure to specific factors\n3. Evaluate VaR, Expected Shortfall, and stress test results\n4. Detect potential correlation breakdowns or tail risks\n5. Recommend specific position adjustments to optimize risk/reward\n\nPlease quantify potential losses under different scenarios and suggest hedging strategies where appropriate.",
+    
+    "compliance_review": "# Compliance Review Request\n\nReview these compliance alerts and regulatory concerns:\n\n```json\n{compliance_data}\n```\n\n## Analysis Tasks:\n1. Categorize compliance issues by severity and regulatory domain\n2. Identify potential regulatory violations or reporting failures\n3. Assess if breaches are technical, procedural, or intentional\n4. Recommend immediate remediation steps for critical issues\n5. Suggest process improvements to prevent future violations\n\nPlease include relevant regulatory references and emphasize time-sensitive issues."
+  },
+  
+  "integration": {
+    "expert_notifications": {
+      "model_router": true,
+      "risk_manager": true,
+      "strategy_optimizer": true
+    },
+    "webhook_notifications": {
+      "enabled": false,
+      "endpoints": [
+        {"url": "https://example.com/webhook", "events": ["critical_error", "performance_alert"]}
+      ]
+    },
+    "export_formats": ["json", "csv", "html"],
+    "database_logging": {
+      "enabled": false,
+      "connection_string": "sqlite:///./db/claude_analysis.db"
+    }
+  },
+  
+  "advanced": {
+    "sentiment_analysis": {
+      "enabled": true,
+      "extract_sentiment_score": true,
+      "track_sentiment_trends": true
+    },
+    "auto_actions": {
+      "halt_trading_on_critical_errors": true,
+      "adjust_risk_on_drawdown": true,
+      "notification_thresholds": {
+        "performance_drop_percent": 5.0,
+        "system_cpu_percent": 90.0,
+        "error_count_per_hour": 10
+      }
+    },
+    "historical_analysis": {
+      "compare_to_previous_reports": true,
+      "max_historical_reports": 10,
+      "trend_detection": true
+    }
+  }
+}

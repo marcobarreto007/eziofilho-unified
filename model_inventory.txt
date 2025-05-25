@@ -1,0 +1,47 @@
+Model Inventory Report
+
+## Qwen--Qwen1.5-1.8B-Chat
+ - model.safetensors
+
+## bert-base-multilingual-cased
+ - model.safetensors
+ - pytorch_model.bin
+
+## cardiffnlp--twitter-roberta-base-sentiment-latest
+ - pytorch_model.bin
+
+## facebook--opt-125m
+ - pytorch_model.bin
+
+## gpt2
+ - model.safetensors
+ - pytorch_model.bin
+
+## microsoft--phi-2
+ - model-00001-of-00002.safetensors
+ - model-00002-of-00002.safetensors
+
+## microsoft--phi-3-mini-4k-instruct
+ - model-00001-of-00002.safetensors
+ - model-00002-of-00002.safetensors
+
+## tiiuae--falcon-7b-instruct
+ - model-00001-of-00002.safetensors
+ - model-00002-of-00002.safetensors
+ - pytorch_model-00002-of-00002.bin
+
+ACTIONS LOG:
+[SKIP] Already organized: C:\Users\anapa\SuperIA\EzioFilhoUnified\modelos_hf\bert-base-multilingual-cased\model.safetensors
+[SKIP] Already organized: C:\Users\anapa\SuperIA\EzioFilhoUnified\modelos_hf\bert-base-multilingual-cased\pytorch_model.bin
+[SKIP] Already organized: C:\Users\anapa\SuperIA\EzioFilhoUnified\modelos_hf\cardiffnlp--twitter-roberta-base-sentiment-latest\pytorch_model.bin
+[SKIP] Already organized: C:\Users\anapa\SuperIA\EzioFilhoUnified\modelos_hf\facebook--opt-125m\pytorch_model.bin
+[SKIP] Already organized: C:\Users\anapa\SuperIA\EzioFilhoUnified\modelos_hf\gpt2\model.safetensors
+[SKIP] Already organized: C:\Users\anapa\SuperIA\EzioFilhoUnified\modelos_hf\gpt2\pytorch_model.bin
+[SKIP] Already organized: C:\Users\anapa\SuperIA\EzioFilhoUnified\modelos_hf\microsoft--phi-2\model-00001-of-00002.safetensors
+[SKIP] Already organized: C:\Users\anapa\SuperIA\EzioFilhoUnified\modelos_hf\microsoft--phi-2\model-00002-of-00002.safetensors
+[SKIP] Already organized: C:\Users\anapa\SuperIA\EzioFilhoUnified\modelos_hf\microsoft--phi-3-mini-4k-instruct\model-00001-of-00002.safetensors
+[SKIP] Already organized: C:\Users\anapa\SuperIA\EzioFilhoUnified\modelos_hf\microsoft--phi-3-mini-4k-instruct\model-00002-of-00002.safetensors
+[SKIP] Already organized: C:\Users\anapa\SuperIA\EzioFilhoUnified\modelos_hf\Qwen--Qwen1.5-1.8B-Chat\model.safetensors
+[SKIP] Already organized: C:\Users\anapa\SuperIA\EzioFilhoUnified\modelos_hf\tiiuae--falcon-7b-instruct\model-00001-of-00002.safetensors
+[SKIP] Already organized: C:\Users\anapa\SuperIA\EzioFilhoUnified\modelos_hf\tiiuae--falcon-7b-instruct\model-00002-of-00002.safetensors
+[SKIP] Already organized: C:\Users\anapa\SuperIA\EzioFilhoUnified\modelos_hf\tiiuae--falcon-7b-instruct\pytorch_model-00002-of-00002.bin

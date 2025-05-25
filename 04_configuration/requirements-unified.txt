@@ -1,0 +1,26 @@
+# requirements-unified.txt
+# Requisitos para o sistema unificado EzioFilho
+
+# Dependências para modelos
+transformers>=4.36.0
+torch>=2.0.0
+accelerate>=0.25.0
+
+# Integrações para frameworks modernos
+langchain>=0.0.267
+pyautogen>=0.2.0
+langgraph>=0.0.15
+
+# Utilitários gerais
+numpy>=1.23.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+
+# Interface gráfica
+gradio>=4.0.0
+fastapi>=0.100.0
+uvicorn>=0.23.0
+
+# Miscelânea
+requests>=2.30.0
+python-dotenv>=1.0.0

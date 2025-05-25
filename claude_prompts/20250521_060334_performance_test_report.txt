@@ -1,0 +1,34 @@
+
+# EzioFilhoUnified Report Analysis Request
+- **Report Type**: Performance
+- **Report File**: test_report.json
+- **Generated**: 2025-05-21 06:03:34
+
+# Performance Analysis Request
+
+Analyze this trading performance data from EzioFilhoUnified:
+
+```json
+## Performance
+
+{
+  "profit": 1250.75,
+  "trades": 42,
+  "win_rate": 0.68
+}
+```
+
+## Analysis Tasks:
+1. Identify key strengths and weaknesses in current performance
+2. Calculate risk-adjusted returns and compare to benchmarks
+3. Identify specific trades or strategies causing largest gains/losses
+4. Flag any concerning patterns or anomalies in trading behavior
+5. Recommend 3-5 specific, actionable steps to improve performance
+
+Please structure your analysis with clear headings and prioritize recommendations by expected impact.
+
+## Additional Instructions
+- Focus on actionable insights
+- Identify any concerning patterns
+- Suggest specific improvements
+- Prioritize recommendations by impact

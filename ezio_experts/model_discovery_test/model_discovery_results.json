@@ -1,0 +1,1018 @@
+{
+  "discovery_metadata": {
+    "user": "marcobarreto007",
+    "test_date": "2025-05-24 02:56:36 UTC",
+    "start_time": "2025-05-23T22:59:59.361681",
+    "end_time": "2025-05-23T22:59:59.396083",
+    "duration_seconds": 0.034402,
+    "project_root": "C:\\Users\\anapa\\eziofilho-unified"
+  },
+  "discovery_summary": {
+    "total_models": 44,
+    "sources_tested": 5,
+    "successful_sources": 5,
+    "failed_sources": 0
+  },
+  "discovery_results": {
+    "Local Models": {
+      "count": 5,
+      "status": "success",
+      "models": [
+        {
+          "name": "pytorch_model",
+          "provider": "local",
+          "model_type": "Unknown",
+          "size_gb": 0.8,
+          "description": "Local model file: pytorch_model.bin",
+          "download_url": null,
+          "local_path": "C:\\Users\\anapa\\eziofilho-unified\\03_models_storage\\models\\dialogpt-medium\\pytorch_model.bin",
+          "status": "local",
+          "last_updated": "2025-05-22T23:59:20.398440"
+        },
+        {
+          "name": "model",
+          "provider": "local",
+          "model_type": "SafeTensors",
+          "size_gb": 0.25,
+          "description": "Local model file: model.safetensors",
+          "download_url": null,
+          "local_path": "C:\\Users\\anapa\\eziofilho-unified\\03_models_storage\\models\\distilbert\\model.safetensors",
+          "status": "local",
+          "last_updated": "2025-05-23T00:09:28.864406"
+        },
+        {
+          "name": "pytorch_model",
+          "provider": "local",
+          "model_type": "Unknown",
+          "size_gb": 0.25,
+          "description": "Local model file: pytorch_model.bin",
+          "download_url": null,
+          "local_path": "C:\\Users\\anapa\\eziofilho-unified\\03_models_storage\\models\\distilbert\\pytorch_model.bin",
+          "status": "local",
+          "last_updated": "2025-05-23T00:09:57.098961"
+        },
+        {
+          "name": "model-00001-of-00002",
+          "provider": "local",
+          "model_type": "SafeTensors",
+          "size_gb": 4.65,
+          "description": "Local model file: model-00001-of-00002.safetensors",
+          "download_url": null,
+          "local_path": "C:\\Users\\anapa\\eziofilho-unified\\03_models_storage\\models\\phi-2\\model-00001-of-00002.safetensors",
+          "status": "local",
+          "last_updated": "2025-05-22T23:49:48.892010"
+        },
+        {
+          "name": "model-00002-of-00002",
+          "provider": "local",
+          "model_type": "SafeTensors",
+          "size_gb": 0.53,
+          "description": "Local model file: model-00002-of-00002.safetensors",
+          "download_url": null,
+          "local_path": "C:\\Users\\anapa\\eziofilho-unified\\03_models_storage\\models\\phi-2\\model-00002-of-00002.safetensors",
+          "status": "local",
+          "last_updated": "2025-05-22T23:36:30.900440"
+        }
+      ]
+    },
+    "HuggingFace Models": {
+      "count": 5,
+      "status": "success",
+      "models": [
+        {
+          "name": "microsoft/DialoGPT-medium",
+          "provider": "huggingface",
+          "model_type": "Conversational",
+          "size_gb": 1.2,
+          "description": "Microsoft's conversational AI model",
+          "download_url": "https://huggingface.co/microsoft/DialoGPT-medium",
+          "local_path": null,
+          "status": "available",
+          "last_updated": null
+        },
+        {
+          "name": "microsoft/phi-3-mini-4k-instruct",
+          "provider": "huggingface",
+          "model_type": "LLM-Phi",
+          "size_gb": 2.4,
+          "description": "Microsoft Phi-3 Mini instruction model",
+          "download_url": "https://huggingface.co/microsoft/phi-3-mini-4k-instruct",
+          "local_path": null,
+          "status": "available",
+          "last_updated": null
+        },
+        {
+          "name": "sentence-transformers/all-MiniLM-L6-v2",
+          "provider": "huggingface",
+          "model_type": "Embedding",
+          "size_gb": 0.09,
+          "description": "Sentence transformer for embeddings",
+          "download_url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
+          "local_path": null,
+          "status": "available",
+          "last_updated": null
+        },
+        {
+          "name": "cardiffnlp/twitter-roberta-base-sentiment-latest",
+          "provider": "huggingface",
+          "model_type": "Sentiment",
+          "size_gb": 0.5,
+          "description": "RoBERTa model for sentiment analysis",
+          "download_url": "https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest",
+          "local_path": null,
+          "status": "available",
+          "last_updated": null
+        },
+        {
+          "name": "mistralai/Mistral-7B-Instruct-v0.1",
+          "provider": "huggingface",
+          "model_type": "LLM-Mistral",
+          "size_gb": 14.5,
+          "description": "Mistral 7B instruction model",
+          "download_url": "https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1",
+          "local_path": null,
+          "status": "available",
+          "last_updated": null
+        }
+      ]
+    },
+    "Mistral Models": {
+      "count": 2,
+      "status": "success",
+      "models": [
+        {
+          "name": "mistral-7b-instruct",
+          "provider": "mistral",
+          "model_type": "LLM-Mistral",
+          "size_gb": 14.5,
+          "description": "Mistral 7B Instruct model",
+          "download_url": null,
+          "local_path": null,
+          "status": "downloadable",
+          "last_updated": null
+        },
+        {
+          "name": "mistral-7b-base",
+          "provider": "mistral",
+          "model_type": "LLM-Mistral",
+          "size_gb": 14.5,
+          "description": "Mistral 7B base model",
+          "download_url": null,
+          "local_path": null,
+          "status": "downloadable",
+          "last_updated": null
+        }
+      ]
+    },
+    "Model Inventory": {
+      "count": 30,
+      "status": "success",
+      "models": [
+        {
+          "name": "Model Inventory Report",
+          "provider": "unknown",
+          "model_type": "unknown",
+          "size_gb": 0.0,
+          "description": "From inventory file",
+          "download_url": null,
+          "local_path": null,
+          "status": "inventory",
+          "last_updated": null
+        },
+        {
+          "name": "- model.safetensors",
+          "provider": "unknown",
+          "model_type": "unknown",
+          "size_gb": 0.0,
+          "description": "From inventory file",
+          "download_url": null,
+          "local_path": null,
+          "status": "inventory",
+          "last_updated": null
+        },
+        {
+          "name": "- model.safetensors",
+          "provider": "unknown",
+          "model_type": "unknown",
+          "size_gb": 0.0,
+          "description": "From inventory file",
+          "download_url": null,
+          "local_path": null,
+          "status": "inventory",
+          "last_updated": null
+        },
+        {
+          "name": "- pytorch_model.bin",
+          "provider": "unknown",
+          "model_type": "unknown",
+          "size_gb": 0.0,
+          "description": "From inventory file",
+          "download_url": null,
+          "local_path": null,
+          "status": "inventory",
+          "last_updated": null
+        },
+        {
+          "name": "- pytorch_model.bin",
+          "provider": "unknown",
+          "model_type": "unknown",
+          "size_gb": 0.0,
+          "description": "From inventory file",
+          "download_url": null,
+          "local_path": null,
+          "status": "inventory",
+          "last_updated": null
+        },
+        {
+          "name": "- pytorch_model.bin",
+          "provider": "unknown",
+          "model_type": "unknown",
+          "size_gb": 0.0,
+          "description": "From inventory file",
+          "download_url": null,
+          "local_path": null,
+          "status": "inventory",
+          "last_updated": null
+        },
+        {
+          "name": "- model.safetensors",
+          "provider": "unknown",
+          "model_type": "unknown",
+          "size_gb": 0.0,
+          "description": "From inventory file",
+          "download_url": null,
+          "local_path": null,
+          "status": "inventory",
+          "last_updated": null
+        },
+        {
+          "name": "- pytorch_model.bin",
+          "provider": "unknown",
+          "model_type": "unknown",
+          "size_gb": 0.0,
+          "description": "From inventory file",
+          "download_url": null,
+          "local_path": null,
+          "status": "inventory",
+          "last_updated": null
+        },
+        {
+          "name": "- model-00001-of-00002.safetensors",
+          "provider": "unknown",
+          "model_type": "unknown",
+          "size_gb": 0.0,
+          "description": "From inventory file",
+          "download_url": null,
+          "local_path": null,
+          "status": "inventory",
+          "last_updated": null
+        },
+        {
+          "name": "- model-00002-of-00002.safetensors",
+          "provider": "unknown",
+          "model_type": "unknown",
+          "size_gb": 0.0,
+          "description": "From inventory file",
+          "download_url": null,
+          "local_path": null,
+          "status": "inventory",
+          "last_updated": null
+        },
+        {
+          "name": "- model-00001-of-00002.safetensors",
+          "provider": "unknown",
+          "model_type": "unknown",
+          "size_gb": 0.0,
+          "description": "From inventory file",
+          "download_url": null,
+          "local_path": null,
+          "status": "inventory",
+          "last_updated": null
+        },
+        {
+          "name": "- model-00002-of-00002.safetensors",
+          "provider": "unknown",
+          "model_type": "unknown",
+          "size_gb": 0.0,
+          "description": "From inventory file",
+          "download_url": null,
+          "local_path": null,
+          "status": "inventory",
+          "last_updated": null
+        },
+        {
+          "name": "- model-00001-of-00002.safetensors",
+          "provider": "unknown",
+          "model_type": "unknown",
+          "size_gb": 0.0,
+          "description": "From inventory file",
+          "download_url": null,
+          "local_path": null,
+          "status": "inventory",
+          "last_updated": null
+        },
+        {
+          "name": "- model-00002-of-00002.safetensors",
+          "provider": "unknown",
+          "model_type": "unknown",
+          "size_gb": 0.0,
+          "description": "From inventory file",
+          "download_url": null,
+          "local_path": null,
+          "status": "inventory",
+          "last_updated": null
+        },
+        {
+          "name": "- pytorch_model-00002-of-00002.bin",
+          "provider": "unknown",
+          "model_type": "unknown",
+          "size_gb": 0.0,
+          "description": "From inventory file",
+          "download_url": null,
+          "local_path": null,
+          "status": "inventory",
+          "last_updated": null
+        },
+        {
+          "name": "ACTIONS LOG:",
+          "provider": "unknown",
+          "model_type": "unknown",
+          "size_gb": 0.0,
+          "description": "From inventory file",
+          "download_url": null,
+          "local_path": null,
+          "status": "inventory",
+          "last_updated": null
+        },
+        {
+          "name": "[SKIP] Already organized: C:\\Users\\anapa\\SuperIA\\EzioFilhoUnified\\modelos_hf\\bert-base-multilingual-cased\\model.safetensors",
+          "provider": "unknown",
+          "model_type": "unknown",
+          "size_gb": 0.0,
+          "description": "From inventory file",
+          "download_url": null,
+          "local_path": null,
+          "status": "inventory",
+          "last_updated": null
+        },
+        {
+          "name": "[SKIP] Already organized: C:\\Users\\anapa\\SuperIA\\EzioFilhoUnified\\modelos_hf\\bert-base-multilingual-cased\\pytorch_model.bin",
+          "provider": "unknown",
+          "model_type": "unknown",
+          "size_gb": 0.0,
+          "description": "From inventory file",
+          "download_url": null,
+          "local_path": null,
+          "status": "inventory",
+          "last_updated": null
+        },
+        {
+          "name": "[SKIP] Already organized: C:\\Users\\anapa\\SuperIA\\EzioFilhoUnified\\modelos_hf\\cardiffnlp--twitter-roberta-base-sentiment-latest\\pytorch_model.bin",
+          "provider": "unknown",
+          "model_type": "unknown",
+          "size_gb": 0.0,
+          "description": "From inventory file",
+          "download_url": null,
+          "local_path": null,
+          "status": "inventory",
+          "last_updated": null
+        },
+        {
+          "name": "[SKIP] Already organized: C:\\Users\\anapa\\SuperIA\\EzioFilhoUnified\\modelos_hf\\facebook--opt-125m\\pytorch_model.bin",
+          "provider": "unknown",
+          "model_type": "unknown",
+          "size_gb": 0.0,
+          "description": "From inventory file",
+          "download_url": null,
+          "local_path": null,
+          "status": "inventory",
+          "last_updated": null
+        },
+        {
+          "name": "[SKIP] Already organized: C:\\Users\\anapa\\SuperIA\\EzioFilhoUnified\\modelos_hf\\gpt2\\model.safetensors",
+          "provider": "unknown",
+          "model_type": "unknown",
+          "size_gb": 0.0,
+          "description": "From inventory file",
+          "download_url": null,
+          "local_path": null,
+          "status": "inventory",
+          "last_updated": null
+        },
+        {
+          "name": "[SKIP] Already organized: C:\\Users\\anapa\\SuperIA\\EzioFilhoUnified\\modelos_hf\\gpt2\\pytorch_model.bin",
+          "provider": "unknown",
+          "model_type": "unknown",
+          "size_gb": 0.0,
+          "description": "From inventory file",
+          "download_url": null,
+          "local_path": null,
+          "status": "inventory",
+          "last_updated": null
+        },
+        {
+          "name": "[SKIP] Already organized: C:\\Users\\anapa\\SuperIA\\EzioFilhoUnified\\modelos_hf\\microsoft--phi-2\\model-00001-of-00002.safetensors",
+          "provider": "unknown",
+          "model_type": "unknown",
+          "size_gb": 0.0,
+          "description": "From inventory file",
+          "download_url": null,
+          "local_path": null,
+          "status": "inventory",
+          "last_updated": null
+        },
+        {
+          "name": "[SKIP] Already organized: C:\\Users\\anapa\\SuperIA\\EzioFilhoUnified\\modelos_hf\\microsoft--phi-2\\model-00002-of-00002.safetensors",
+          "provider": "unknown",
+          "model_type": "unknown",
+          "size_gb": 0.0,
+          "description": "From inventory file",
+          "download_url": null,
+          "local_path": null,
+          "status": "inventory",
+          "last_updated": null
+        },
+        {
+          "name": "[SKIP] Already organized: C:\\Users\\anapa\\SuperIA\\EzioFilhoUnified\\modelos_hf\\microsoft--phi-3-mini-4k-instruct\\model-00001-of-00002.safetensors",
+          "provider": "unknown",
+          "model_type": "unknown",
+          "size_gb": 0.0,
+          "description": "From inventory file",
+          "download_url": null,
+          "local_path": null,
+          "status": "inventory",
+          "last_updated": null
+        },
+        {
+          "name": "[SKIP] Already organized: C:\\Users\\anapa\\SuperIA\\EzioFilhoUnified\\modelos_hf\\microsoft--phi-3-mini-4k-instruct\\model-00002-of-00002.safetensors",
+          "provider": "unknown",
+          "model_type": "unknown",
+          "size_gb": 0.0,
+          "description": "From inventory file",
+          "download_url": null,
+          "local_path": null,
+          "status": "inventory",
+          "last_updated": null
+        },
+        {
+          "name": "[SKIP] Already organized: C:\\Users\\anapa\\SuperIA\\EzioFilhoUnified\\modelos_hf\\Qwen--Qwen1.5-1.8B-Chat\\model.safetensors",
+          "provider": "unknown",
+          "model_type": "unknown",
+          "size_gb": 0.0,
+          "description": "From inventory file",
+          "download_url": null,
+          "local_path": null,
+          "status": "inventory",
+          "last_updated": null
+        },
+        {
+          "name": "[SKIP] Already organized: C:\\Users\\anapa\\SuperIA\\EzioFilhoUnified\\modelos_hf\\tiiuae--falcon-7b-instruct\\model-00001-of-00002.safetensors",
+          "provider": "unknown",
+          "model_type": "unknown",
+          "size_gb": 0.0,
+          "description": "From inventory file",
+          "download_url": null,
+          "local_path": null,
+          "status": "inventory",
+          "last_updated": null
+        },
+        {
+          "name": "[SKIP] Already organized: C:\\Users\\anapa\\SuperIA\\EzioFilhoUnified\\modelos_hf\\tiiuae--falcon-7b-instruct\\model-00002-of-00002.safetensors",
+          "provider": "unknown",
+          "model_type": "unknown",
+          "size_gb": 0.0,
+          "description": "From inventory file",
+          "download_url": null,
+          "local_path": null,
+          "status": "inventory",
+          "last_updated": null
+        },
+        {
+          "name": "[SKIP] Already organized: C:\\Users\\anapa\\SuperIA\\EzioFilhoUnified\\modelos_hf\\tiiuae--falcon-7b-instruct\\pytorch_model-00002-of-00002.bin",
+          "provider": "unknown",
+          "model_type": "unknown",
+          "size_gb": 0.0,
+          "description": "From inventory file",
+          "download_url": null,
+          "local_path": null,
+          "status": "inventory",
+          "last_updated": null
+        }
+      ]
+    },
+    "Cached Models": {
+      "count": 2,
+      "status": "success",
+      "models": [
+        {
+          "name": "cached_config",
+          "provider": "cache",
+          "model_type": "cached",
+          "size_gb": 0.0,
+          "description": "Cached file: config.json",
+          "download_url": null,
+          "local_path": "C:\\Users\\anapa\\.cache\\huggingface\\hub\\models--microsoft--phi-2\\snapshots\\ef382358ec9e382308935a992d908de099b64c23\\config.json",
+          "status": "cached",
+          "last_updated": null
+        },
+        {
+          "name": "cached_model_discovery_cache",
+          "provider": "cache",
+          "model_type": "cached",
+          "size_gb": 0.0,
+          "description": "Cached file: model_discovery_cache.json",
+          "download_url": null,
+          "local_path": "C:\\Users\\anapa\\.cache\\eziofilho\\models\\model_discovery_cache.json",
+          "status": "cached",
+          "last_updated": null
+        }
+      ]
+    }
+  },
+  "all_models": [
+    {
+      "name": "pytorch_model",
+      "provider": "local",
+      "model_type": "Unknown",
+      "size_gb": 0.8,
+      "description": "Local model file: pytorch_model.bin",
+      "download_url": null,
+      "local_path": "C:\\Users\\anapa\\eziofilho-unified\\03_models_storage\\models\\dialogpt-medium\\pytorch_model.bin",
+      "status": "local",
+      "last_updated": "2025-05-22T23:59:20.398440"
+    },
+    {
+      "name": "model",
+      "provider": "local",
+      "model_type": "SafeTensors",
+      "size_gb": 0.25,
+      "description": "Local model file: model.safetensors",
+      "download_url": null,
+      "local_path": "C:\\Users\\anapa\\eziofilho-unified\\03_models_storage\\models\\distilbert\\model.safetensors",
+      "status": "local",
+      "last_updated": "2025-05-23T00:09:28.864406"
+    },
+    {
+      "name": "pytorch_model",
+      "provider": "local",
+      "model_type": "Unknown",
+      "size_gb": 0.25,
+      "description": "Local model file: pytorch_model.bin",
+      "download_url": null,
+      "local_path": "C:\\Users\\anapa\\eziofilho-unified\\03_models_storage\\models\\distilbert\\pytorch_model.bin",
+      "status": "local",
+      "last_updated": "2025-05-23T00:09:57.098961"
+    },
+    {
+      "name": "model-00001-of-00002",
+      "provider": "local",
+      "model_type": "SafeTensors",
+      "size_gb": 4.65,
+      "description": "Local model file: model-00001-of-00002.safetensors",
+      "download_url": null,
+      "local_path": "C:\\Users\\anapa\\eziofilho-unified\\03_models_storage\\models\\phi-2\\model-00001-of-00002.safetensors",
+      "status": "local",
+      "last_updated": "2025-05-22T23:49:48.892010"
+    },
+    {
+      "name": "model-00002-of-00002",
+      "provider": "local",
+      "model_type": "SafeTensors",
+      "size_gb": 0.53,
+      "description": "Local model file: model-00002-of-00002.safetensors",
+      "download_url": null,
+      "local_path": "C:\\Users\\anapa\\eziofilho-unified\\03_models_storage\\models\\phi-2\\model-00002-of-00002.safetensors",
+      "status": "local",
+      "last_updated": "2025-05-22T23:36:30.900440"
+    },
+    {
+      "name": "microsoft/DialoGPT-medium",
+      "provider": "huggingface",
+      "model_type": "Conversational",
+      "size_gb": 1.2,
+      "description": "Microsoft's conversational AI model",
+      "download_url": "https://huggingface.co/microsoft/DialoGPT-medium",
+      "local_path": null,
+      "status": "available",
+      "last_updated": null
+    },
+    {
+      "name": "microsoft/phi-3-mini-4k-instruct",
+      "provider": "huggingface",
+      "model_type": "LLM-Phi",
+      "size_gb": 2.4,
+      "description": "Microsoft Phi-3 Mini instruction model",
+      "download_url": "https://huggingface.co/microsoft/phi-3-mini-4k-instruct",
+      "local_path": null,
+      "status": "available",
+      "last_updated": null
+    },
+    {
+      "name": "sentence-transformers/all-MiniLM-L6-v2",
+      "provider": "huggingface",
+      "model_type": "Embedding",
+      "size_gb": 0.09,
+      "description": "Sentence transformer for embeddings",
+      "download_url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
+      "local_path": null,
+      "status": "available",
+      "last_updated": null
+    },
+    {
+      "name": "cardiffnlp/twitter-roberta-base-sentiment-latest",
+      "provider": "huggingface",
+      "model_type": "Sentiment",
+      "size_gb": 0.5,
+      "description": "RoBERTa model for sentiment analysis",
+      "download_url": "https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest",
+      "local_path": null,
+      "status": "available",
+      "last_updated": null
+    },
+    {
+      "name": "mistralai/Mistral-7B-Instruct-v0.1",
+      "provider": "huggingface",
+      "model_type": "LLM-Mistral",
+      "size_gb": 14.5,
+      "description": "Mistral 7B instruction model",
+      "download_url": "https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1",
+      "local_path": null,
+      "status": "available",
+      "last_updated": null
+    },
+    {
+      "name": "mistral-7b-instruct",
+      "provider": "mistral",
+      "model_type": "LLM-Mistral",
+      "size_gb": 14.5,
+      "description": "Mistral 7B Instruct model",
+      "download_url": null,
+      "local_path": null,
+      "status": "downloadable",
+      "last_updated": null
+    },
+    {
+      "name": "mistral-7b-base",
+      "provider": "mistral",
+      "model_type": "LLM-Mistral",
+      "size_gb": 14.5,
+      "description": "Mistral 7B base model",
+      "download_url": null,
+      "local_path": null,
+      "status": "downloadable",
+      "last_updated": null
+    },
+    {
+      "name": "Model Inventory Report",
+      "provider": "unknown",
+      "model_type": "unknown",
+      "size_gb": 0.0,
+      "description": "From inventory file",
+      "download_url": null,
+      "local_path": null,
+      "status": "inventory",
+      "last_updated": null
+    },
+    {
+      "name": "- model.safetensors",
+      "provider": "unknown",
+      "model_type": "unknown",
+      "size_gb": 0.0,
+      "description": "From inventory file",
+      "download_url": null,
+      "local_path": null,
+      "status": "inventory",
+      "last_updated": null
+    },
+    {
+      "name": "- model.safetensors",
+      "provider": "unknown",
+      "model_type": "unknown",
+      "size_gb": 0.0,
+      "description": "From inventory file",
+      "download_url": null,
+      "local_path": null,
+      "status": "inventory",
+      "last_updated": null
+    },
+    {
+      "name": "- pytorch_model.bin",
+      "provider": "unknown",
+      "model_type": "unknown",
+      "size_gb": 0.0,
+      "description": "From inventory file",
+      "download_url": null,
+      "local_path": null,
+      "status": "inventory",
+      "last_updated": null
+    },
+    {
+      "name": "- pytorch_model.bin",
+      "provider": "unknown",
+      "model_type": "unknown",
+      "size_gb": 0.0,
+      "description": "From inventory file",
+      "download_url": null,
+      "local_path": null,
+      "status": "inventory",
+      "last_updated": null
+    },
+    {
+      "name": "- pytorch_model.bin",
+      "provider": "unknown",
+      "model_type": "unknown",
+      "size_gb": 0.0,
+      "description": "From inventory file",
+      "download_url": null,
+      "local_path": null,
+      "status": "inventory",
+      "last_updated": null
+    },
+    {
+      "name": "- model.safetensors",
+      "provider": "unknown",
+      "model_type": "unknown",
+      "size_gb": 0.0,
+      "description": "From inventory file",
+      "download_url": null,
+      "local_path": null,
+      "status": "inventory",
+      "last_updated": null
+    },
+    {
+      "name": "- pytorch_model.bin",
+      "provider": "unknown",
+      "model_type": "unknown",
+      "size_gb": 0.0,
+      "description": "From inventory file",
+      "download_url": null,
+      "local_path": null,
+      "status": "inventory",
+      "last_updated": null
+    },
+    {
+      "name": "- model-00001-of-00002.safetensors",
+      "provider": "unknown",
+      "model_type": "unknown",
+      "size_gb": 0.0,
+      "description": "From inventory file",
+      "download_url": null,
+      "local_path": null,
+      "status": "inventory",
+      "last_updated": null
+    },
+    {
+      "name": "- model-00002-of-00002.safetensors",
+      "provider": "unknown",
+      "model_type": "unknown",
+      "size_gb": 0.0,
+      "description": "From inventory file",
+      "download_url": null,
+      "local_path": null,
+      "status": "inventory",
+      "last_updated": null
+    },
+    {
+      "name": "- model-00001-of-00002.safetensors",
+      "provider": "unknown",
+      "model_type": "unknown",
+      "size_gb": 0.0,
+      "description": "From inventory file",
+      "download_url": null,
+      "local_path": null,
+      "status": "inventory",
+      "last_updated": null
+    },
+    {
+      "name": "- model-00002-of-00002.safetensors",
+      "provider": "unknown",
+      "model_type": "unknown",
+      "size_gb": 0.0,
+      "description": "From inventory file",
+      "download_url": null,
+      "local_path": null,
+      "status": "inventory",
+      "last_updated": null
+    },
+    {
+      "name": "- model-00001-of-00002.safetensors",
+      "provider": "unknown",
+      "model_type": "unknown",
+      "size_gb": 0.0,
+      "description": "From inventory file",
+      "download_url": null,
+      "local_path": null,
+      "status": "inventory",
+      "last_updated": null
+    },
+    {
+      "name": "- model-00002-of-00002.safetensors",
+      "provider": "unknown",
+      "model_type": "unknown",
+      "size_gb": 0.0,
+      "description": "From inventory file",
+      "download_url": null,
+      "local_path": null,
+      "status": "inventory",
+      "last_updated": null
+    },
+    {
+      "name": "- pytorch_model-00002-of-00002.bin",
+      "provider": "unknown",
+      "model_type": "unknown",
+      "size_gb": 0.0,
+      "description": "From inventory file",
+      "download_url": null,
+      "local_path": null,
+      "status": "inventory",
+      "last_updated": null
+    },
+    {
+      "name": "ACTIONS LOG:",
+      "provider": "unknown",
+      "model_type": "unknown",
+      "size_gb": 0.0,
+      "description": "From inventory file",
+      "download_url": null,
+      "local_path": null,
+      "status": "inventory",
+      "last_updated": null
+    },
+    {
+      "name": "[SKIP] Already organized: C:\\Users\\anapa\\SuperIA\\EzioFilhoUnified\\modelos_hf\\bert-base-multilingual-cased\\model.safetensors",
+      "provider": "unknown",
+      "model_type": "unknown",
+      "size_gb": 0.0,
+      "description": "From inventory file",
+      "download_url": null,
+      "local_path": null,
+      "status": "inventory",
+      "last_updated": null
+    },
+    {
+      "name": "[SKIP] Already organized: C:\\Users\\anapa\\SuperIA\\EzioFilhoUnified\\modelos_hf\\bert-base-multilingual-cased\\pytorch_model.bin",
+      "provider": "unknown",
+      "model_type": "unknown",
+      "size_gb": 0.0,
+      "description": "From inventory file",
+      "download_url": null,
+      "local_path": null,
+      "status": "inventory",
+      "last_updated": null
+    },
+    {
+      "name": "[SKIP] Already organized: C:\\Users\\anapa\\SuperIA\\EzioFilhoUnified\\modelos_hf\\cardiffnlp--twitter-roberta-base-sentiment-latest\\pytorch_model.bin",
+      "provider": "unknown",
+      "model_type": "unknown",
+      "size_gb": 0.0,
+      "description": "From inventory file",
+      "download_url": null,
+      "local_path": null,
+      "status": "inventory",
+      "last_updated": null
+    },
+    {
+      "name": "[SKIP] Already organized: C:\\Users\\anapa\\SuperIA\\EzioFilhoUnified\\modelos_hf\\facebook--opt-125m\\pytorch_model.bin",
+      "provider": "unknown",
+      "model_type": "unknown",
+      "size_gb": 0.0,
+      "description": "From inventory file",
+      "download_url": null,
+      "local_path": null,
+      "status": "inventory",
+      "last_updated": null
+    },
+    {
+      "name": "[SKIP] Already organized: C:\\Users\\anapa\\SuperIA\\EzioFilhoUnified\\modelos_hf\\gpt2\\model.safetensors",
+      "provider": "unknown",
+      "model_type": "unknown",
+      "size_gb": 0.0,
+      "description": "From inventory file",
+      "download_url": null,
+      "local_path": null,
+      "status": "inventory",
+      "last_updated": null
+    },
+    {
+      "name": "[SKIP] Already organized: C:\\Users\\anapa\\SuperIA\\EzioFilhoUnified\\modelos_hf\\gpt2\\pytorch_model.bin",
+      "provider": "unknown",
+      "model_type": "unknown",
+      "size_gb": 0.0,
+      "description": "From inventory file",
+      "download_url": null,
+      "local_path": null,
+      "status": "inventory",
+      "last_updated": null
+    },
+    {
+      "name": "[SKIP] Already organized: C:\\Users\\anapa\\SuperIA\\EzioFilhoUnified\\modelos_hf\\microsoft--phi-2\\model-00001-of-00002.safetensors",
+      "provider": "unknown",
+      "model_type": "unknown",
+      "size_gb": 0.0,
+      "description": "From inventory file",
+      "download_url": null,
+      "local_path": null,
+      "status": "inventory",
+      "last_updated": null
+    },
+    {
+      "name": "[SKIP] Already organized: C:\\Users\\anapa\\SuperIA\\EzioFilhoUnified\\modelos_hf\\microsoft--phi-2\\model-00002-of-00002.safetensors",
+      "provider": "unknown",
+      "model_type": "unknown",
+      "size_gb": 0.0,
+      "description": "From inventory file",
+      "download_url": null,
+      "local_path": null,
+      "status": "inventory",
+      "last_updated": null
+    },
+    {
+      "name": "[SKIP] Already organized: C:\\Users\\anapa\\SuperIA\\EzioFilhoUnified\\modelos_hf\\microsoft--phi-3-mini-4k-instruct\\model-00001-of-00002.safetensors",
+      "provider": "unknown",
+      "model_type": "unknown",
+      "size_gb": 0.0,
+      "description": "From inventory file",
+      "download_url": null,
+      "local_path": null,
+      "status": "inventory",
+      "last_updated": null
+    },
+    {
+      "name": "[SKIP] Already organized: C:\\Users\\anapa\\SuperIA\\EzioFilhoUnified\\modelos_hf\\microsoft--phi-3-mini-4k-instruct\\model-00002-of-00002.safetensors",
+      "provider": "unknown",
+      "model_type": "unknown",
+      "size_gb": 0.0,
+      "description": "From inventory file",
+      "download_url": null,
+      "local_path": null,
+      "status": "inventory",
+      "last_updated": null
+    },
+    {
+      "name": "[SKIP] Already organized: C:\\Users\\anapa\\SuperIA\\EzioFilhoUnified\\modelos_hf\\Qwen--Qwen1.5-1.8B-Chat\\model.safetensors",
+      "provider": "unknown",
+      "model_type": "unknown",
+      "size_gb": 0.0,
+      "description": "From inventory file",
+      "download_url": null,
+      "local_path": null,
+      "status": "inventory",
+      "last_updated": null
+    },
+    {
+      "name": "[SKIP] Already organized: C:\\Users\\anapa\\SuperIA\\EzioFilhoUnified\\modelos_hf\\tiiuae--falcon-7b-instruct\\model-00001-of-00002.safetensors",
+      "provider": "unknown",
+      "model_type": "unknown",
+      "size_gb": 0.0,
+      "description": "From inventory file",
+      "download_url": null,
+      "local_path": null,
+      "status": "inventory",
+      "last_updated": null
+    },
+    {
+      "name": "[SKIP] Already organized: C:\\Users\\anapa\\SuperIA\\EzioFilhoUnified\\modelos_hf\\tiiuae--falcon-7b-instruct\\model-00002-of-00002.safetensors",
+      "provider": "unknown",
+      "model_type": "unknown",
+      "size_gb": 0.0,
+      "description": "From inventory file",
+      "download_url": null,
+      "local_path": null,
+      "status": "inventory",
+      "last_updated": null
+    },
+    {
+      "name": "[SKIP] Already organized: C:\\Users\\anapa\\SuperIA\\EzioFilhoUnified\\modelos_hf\\tiiuae--falcon-7b-instruct\\pytorch_model-00002-of-00002.bin",
+      "provider": "unknown",
+      "model_type": "unknown",
+      "size_gb": 0.0,
+      "description": "From inventory file",
+      "download_url": null,
+      "local_path": null,
+      "status": "inventory",
+      "last_updated": null
+    },
+    {
+      "name": "cached_config",
+      "provider": "cache",
+      "model_type": "cached",
+      "size_gb": 0.0,
+      "description": "Cached file: config.json",
+      "download_url": null,
+      "local_path": "C:\\Users\\anapa\\.cache\\huggingface\\hub\\models--microsoft--phi-2\\snapshots\\ef382358ec9e382308935a992d908de099b64c23\\config.json",
+      "status": "cached",
+      "last_updated": null
+    },
+    {
+      "name": "cached_model_discovery_cache",
+      "provider": "cache",
+      "model_type": "cached",
+      "size_gb": 0.0,
+      "description": "Cached file: model_discovery_cache.json",
+      "download_url": null,
+      "local_path": "C:\\Users\\anapa\\.cache\\eziofilho\\models\\model_discovery_cache.json",
+      "status": "cached",
+      "last_updated": null
+    }
+  ]
+}

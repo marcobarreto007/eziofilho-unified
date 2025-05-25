@@ -1,0 +1,6 @@
+# Dependências básicas
+transformers>=4.30.0
+torch>=2.0.0
+
+# Opcionais para uso da API (descomente se necessário)
+# openai>=1.0.0

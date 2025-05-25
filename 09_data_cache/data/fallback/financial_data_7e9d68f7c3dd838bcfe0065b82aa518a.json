@@ -1,0 +1,41 @@
+{
+  "data": {
+    "ticker": "AAPL",
+    "historical_prices": [
+      {
+        "date": "2025-05-19",
+        "open": 150.23,
+        "close": 152.45,
+        "high": 153.2,
+        "low": 149.9,
+        "volume": 1234567
+      },
+      {
+        "date": "2025-05-18",
+        "open": 149.56,
+        "close": 150.23,
+        "high": 151.78,
+        "low": 148.33,
+        "volume": 1122334
+      },
+      {
+        "date": "2025-05-17",
+        "open": 148.89,
+        "close": 149.56,
+        "high": 150.11,
+        "low": 147.67,
+        "volume": 1345678
+      }
+    ],
+    "metadata": {
+      "source": "local_historical_data",
+      "last_updated": "2025-05-19T23:59:59",
+      "is_complete": true
+    }
+  },
+  "query_params": {
+    "ticker": "AAPL"
+  },
+  "timestamp": "2025-05-20T17:40:35.791295",
+  "data_type": "financial_data"
+}

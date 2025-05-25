@@ -1,0 +1,76 @@
+2025-05-23 22:55:15,469 |     INFO | __init__ | ✅ Added to Python path: C:\Users\anapa\eziofilho-unified
+2025-05-23 22:55:15,472 |     INFO | print_system_banner | Test suite initialized
+2025-05-23 22:55:15,473 |     INFO | run_comprehensive_test_suite | 🚀 Starting 7 tests...
+2025-05-23 22:55:15,473 |     INFO | run_test | 🧪 Running: Python Environment
+2025-05-23 22:55:15,473 |     INFO | test_python_environment | === PYTHON ENVIRONMENT TEST ===
+2025-05-23 22:55:15,474 |     INFO | test_python_environment | ✅ Python version: 3.11.8
+2025-05-23 22:55:15,474 |     INFO | test_python_environment | ✅ Module available: json
+2025-05-23 22:55:15,474 |     INFO | test_python_environment | ✅ Module available: logging
+2025-05-23 22:55:15,475 |     INFO | test_python_environment | ✅ Module available: pathlib
+2025-05-23 22:55:15,475 |     INFO | test_python_environment | ✅ Module available: datetime
+2025-05-23 22:55:15,476 |     INFO | test_python_environment | ✅ Module available: subprocess
+2025-05-23 22:55:16,051 |     INFO | test_python_environment | ✅ Pip available: pip 24.0 from C:\Users\anapa\AppData\Local\Programs\Python\Python311\Lib\site-packages\pip (python 3.11)
+2025-05-23 22:55:16,051 |     INFO | run_test | ✅ PASSED: Python Environment
+2025-05-23 22:55:16,053 |     INFO | run_test | 🧪 Running: Project Structure
+2025-05-23 22:55:16,053 |     INFO | test_project_structure | === PROJECT STRUCTURE TEST ===
+2025-05-23 22:55:16,054 |     INFO | test_project_structure | ✅ Directory: 01_core_system
+2025-05-23 22:55:16,054 |     INFO | test_project_structure | ✅ Directory: 02_experts_modules
+2025-05-23 22:55:16,055 |     INFO | test_project_structure | ✅ Directory: 03_models_storage
+2025-05-23 22:55:16,055 |     INFO | test_project_structure | ✅ Directory: 04_configuration
+2025-05-23 22:55:16,055 |     INFO | test_project_structure | ✅ Directory: 05_testing_validation
+2025-05-23 22:55:16,056 |     INFO | test_project_structure | ✅ Directory: 06_tools_utilities
+2025-05-23 22:55:16,056 |     INFO | test_project_structure | ✅ Directory: 07_documentation
+2025-05-23 22:55:16,057 |     INFO | test_project_structure | ✅ Directory: 08_examples_demos
+2025-05-23 22:55:16,057 |     INFO | test_project_structure | ✅ Directory: 09_data_cache
+2025-05-23 22:55:16,057 |     INFO | test_project_structure | ✅ Directory: 10_deployment
+2025-05-23 22:55:16,058 |     INFO | test_project_structure | ✅ Optional: ezio_experts
+2025-05-23 22:55:16,058 |     INFO | test_project_structure | ✅ Optional: autogen_generated
+2025-05-23 22:55:16,059 |     INFO | test_project_structure | ✅ Optional: testes_autogen
+2025-05-23 22:55:16,059 |     INFO | test_project_structure | ✅ Optional: testes_experts
+2025-05-23 22:55:16,060 |     INFO | test_project_structure | ✅ Optional: tests_modelos
+2025-05-23 22:55:16,060 |     INFO | run_test | ✅ PASSED: Project Structure
+2025-05-23 22:55:16,061 |     INFO | run_test | 🧪 Running: Key Files
+2025-05-23 22:55:16,062 |     INFO | test_key_files | === KEY FILES TEST ===
+2025-05-23 22:55:16,062 |     INFO | test_key_files | ✅ File: ezio_organizer_cli.py (18253 bytes)
+2025-05-23 22:55:16,063 |     INFO | test_key_files | ✅ File: model_auto_discovery.py (26165 bytes)
+2025-05-23 22:55:16,063 |     INFO | test_key_files | ✅ File: test_hf_api.py (1769 bytes)
+2025-05-23 22:55:16,064 |     INFO | test_key_files | ✅ File: README.md (11236 bytes)
+2025-05-23 22:55:16,064 |     INFO | test_key_files | ✅ File: model_inventory.txt (2499 bytes)
+2025-05-23 22:55:16,064 |     INFO | run_test | ✅ PASSED: Key Files
+2025-05-23 22:55:16,065 |     INFO | run_test | 🧪 Running: Cache System
+2025-05-23 22:55:16,065 |     INFO | test_cache_system | === CACHE SYSTEM TEST ===
+2025-05-23 22:55:16,067 |     INFO | test_cache_system | ✅ Cache: eziofilho
+2025-05-23 22:55:16,069 |     INFO | test_cache_system | ✅ Cache: huggingface
+2025-05-23 22:55:16,070 |     INFO | test_cache_system | ✅ Cache: models
+2025-05-23 22:55:16,070 |     INFO | test_cache_system | ✅ Cache system: 3/3 directories found
+2025-05-23 22:55:16,071 |     INFO | run_test | ✅ PASSED: Cache System
+2025-05-23 22:55:16,072 |     INFO | run_test | 🧪 Running: AutoGen Integration
+2025-05-23 22:55:16,072 |     INFO | test_autogen_integration | === AUTOGEN INTEGRATION TEST ===
+2025-05-23 22:55:18,347 |     INFO | test_autogen_integration | ✅ AutoGen imported successfully
+2025-05-23 22:55:18,348 |     INFO | test_autogen_integration | ✅ AutoGen version: 0.2.18
+2025-05-23 22:55:18,349 |     INFO | test_autogen_integration | ✅ AutoGen dir: autogen_generated (2 items)
+2025-05-23 22:55:18,350 |     INFO | test_autogen_integration | ✅ AutoGen dir: testes_autogen (2 items)
+2025-05-23 22:55:18,350 |     INFO | run_test | ✅ PASSED: AutoGen Integration
+2025-05-23 22:55:18,351 |     INFO | run_test | 🧪 Running: Expert Modules
+2025-05-23 22:55:18,351 |     INFO | test_expert_modules | === EXPERT MODULES TEST ===
+2025-05-23 22:55:18,352 |     INFO | test_expert_modules | ✅ Expert directories: 4
+2025-05-23 22:55:18,353 |     INFO | test_expert_modules |    📁 fact_checker
+2025-05-23 22:55:18,353 |     INFO | test_expert_modules |    📁 hub_integration
+2025-05-23 22:55:18,353 |     INFO | test_expert_modules |    📁 model_optimizer
+2025-05-23 22:55:18,354 |     INFO | test_expert_modules |    📁 sentiment
+2025-05-23 22:55:18,354 |     INFO | test_expert_modules | ✅ Expert Python files: 3
+2025-05-23 22:55:18,355 |     INFO | test_expert_modules |    🐍 ezio_base_expert.py
+2025-05-23 22:55:18,355 |     INFO | test_expert_modules |    🐍 sentiment_expert.py
+2025-05-23 22:55:18,356 |     INFO | test_expert_modules |    🐍 __init__.py
+2025-05-23 22:55:18,356 |     INFO | test_expert_modules | ✅ Specialized expert: experts_fingpt
+2025-05-23 22:55:18,357 |     INFO | run_test | ✅ PASSED: Expert Modules
+2025-05-23 22:55:18,360 |     INFO | run_test | 🧪 Running: Model System
+2025-05-23 22:55:18,360 |     INFO | test_model_system | === MODEL SYSTEM TEST ===
+2025-05-23 22:55:18,361 |     INFO | test_model_system | ✅ Model discovery script: 26165 bytes
+2025-05-23 22:55:18,370 |     INFO | test_model_system | ✅ Model inventory: 38 entries
+2025-05-23 22:55:18,371 |     INFO | test_model_system | ✅ Download script: download_models.py
+2025-05-23 22:55:18,371 |     INFO | test_model_system | ✅ Download script: download_mistral.py
+2025-05-23 22:55:18,374 |     INFO | test_model_system | ✅ Model storage: 99 items
+2025-05-23 22:55:18,375 |     INFO | run_test | ✅ PASSED: Model System
+2025-05-23 22:55:18,376 |     INFO | run_comprehensive_test_suite | 💾 Test report saved: ezio_test_report.json
+2025-05-23 22:55:18,394 |     INFO | print_final_summary | System passed comprehensive testing

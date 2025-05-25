@@ -1,0 +1,22 @@
+{
+  "decision_threshold": 0.7,
+  "expert_weights": {
+    "sentiment_expert": 1.0,
+    "macro_expert": 1.0,
+    "technical_expert": 1.0,
+    "risk_expert": 1.2,
+    "news_oracle": 0.8,
+    "fallback_data_expert": 0.5
+  },
+  "decision_aggregation": "weighted_average",
+  "github_models_api": {
+    "endpoint": "https://api.github.com/models/inference/chat/completions",
+    "model": "anthropic/claude-3-7-sonnet",
+    "token": null
+  },
+  "expert_prompt_templates": {
+    "coordination": "# Expert Coordination Task\n\nAs the Central Brain of EzioFilho_LLMGraph_Alpha, analyze the following expert outputs and provide a coordinated decision:\n\n{expert_outputs}\n\n## Your Tasks\n\n1. Identify areas of agreement and disagreement between experts\n2. Assess the confidence and evidence quality from each expert\n3. Resolve conflicts using your superior reasoning\n4. Make a final decision with clear justification\n5. Structure your response as follows:\n\n```json\n{\n  \"decision\": {\n    \"action\": \"BUY/SELL/HOLD\",\n    \"ticker\": \"SYMBOL\",\n    \"entry_price\": 0.0,\n    \"stop_loss\": 0.0,\n    \"take_profit\": 0.0,\n    \"position_size\": 0.0\n  },\n  \"confidence\": 0.0,\n  \"reasoning\": \"Your detailed reasoning here\"\n}\n```\n\nConsider market conditions, risk factors, and potential rewards in your decision.",
+    "feedback": "# Expert Feedback Task\n\nReview the performance of the following expert:\n\n**Expert**: {expert_name}\n**Recent outputs**: \n\n{expert_outputs}\n\n**Decision alignment score**: {alignment_score}\n\n## Your Task\n\nProvide specific, constructive feedback to improve this expert's performance:\n\n1. Identify strengths and weaknesses in the expert's analysis\n2. Suggest specific improvements to methodology\n3. Highlight any biases or blindspots\n4. Provide 2-3 actionable recommendations\n\nBe specific, constructive, and focused on improving future performance."
+  },
+  "single_expert_passthrough": false
+}

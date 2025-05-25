@@ -1,0 +1,19 @@
+{
+  "report_type": "error",
+  "priority": 0,
+  "request_id": "fix001",
+  "title": "Expert Initialization Error Fix",
+  "details": {
+    "error_message": "EzioBaseExpert.__init__() missing 1 required positional argument: 'expert_type'",
+    "file_path": "core/quantum_moe_core/quantum_moe_core.py",
+    "line_number": 638,
+    "component": "QuantumMoECore",
+    "expert_affected": "sentiment",
+    "suggested_fix": "O m\u00e9todo _load_expert_from_file deve verificar se a classe especialista herda de EzioBaseExpert e passar o par\u00e2metro expert_type quando necess\u00e1rio",
+    "code_snippet": {
+      "current": "expert_instance = expert_class()",
+      "suggested": "if issubclass(expert_class, EzioBaseExpert):\n    expert_instance = expert_class(expert_type=os.path.basename(expert_file).split('.')[0])\nelse:\n    expert_instance = expert_class()"
+    }
+  },
+  "timestamp": "2025-05-21T07:08:53"
+}

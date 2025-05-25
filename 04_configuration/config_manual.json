@@ -1,0 +1,17 @@
+{
+  "models": [
+    {
+      "name": "phi2",
+      "path": "C:\\Users\\anapa\\.cache\\models\\phi-2.gguf",
+      "type": "gguf",
+      "device": "cpu"
+    },
+    {
+      "name": "mistral",
+      "path": "C:\\Users\\anapa\\.cache\\models\\mistral-7b.gguf",
+      "type": "gguf",
+      "device": "cpu"
+    }
+  ],
+  "default_model": "phi2"
+}

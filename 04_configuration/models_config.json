@@ -1,0 +1,22 @@
+{
+  "models": [
+    {
+      "name": "phi-2",
+      "path": "models\\phi-2",
+      "type": "transformers",
+      "context_length": 2048
+    },
+    {
+      "name": "dialogpt",
+      "path": "models\\dialogpt-medium",
+      "type": "transformers",
+      "context_length": 1024
+    },
+    {
+      "name": "distilbert",
+      "path": "models\\distilbert",
+      "type": "transformers",
+      "context_length": 512
+    }
+  ]
+}

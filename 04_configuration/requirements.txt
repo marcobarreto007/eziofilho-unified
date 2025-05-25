@@ -1,0 +1,7 @@
+﻿langchain==0.1.16
+langgraph==0.0.36
+autogen==0.9
+numpy==1.26.4
+
+# build CUDA 12.2
+llama-cpp-python==0.2.25+cu122

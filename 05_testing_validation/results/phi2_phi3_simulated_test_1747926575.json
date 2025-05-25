@@ -1,0 +1,187 @@
+{
+  "market": {
+    "query": {
+      "subject": "Análise da Apple (AAPL)",
+      "period": "Q1 2025",
+      "description": "Análise da Apple após divulgação de resultados do Q1 2025"
+    },
+    "expert_results": {
+      "sentiment_analyst": {
+        "expert_type": "sentiment_analyst",
+        "expert_name": "Especialista em Sentimento de Mercado",
+        "confidence": 0.85,
+        "processing_time": 1.2,
+        "timestamp": 1747926572.8838565,
+        "analysis": {
+          "summary": "Análise simulada de Especialista em Sentimento de Mercado para Análise da Apple (AAPL)",
+          "market_outlook": "positivo"
+        }
+      },
+      "technical_analyst": {
+        "expert_type": "technical_analyst",
+        "expert_name": "Especialista em Análise Técnica",
+        "confidence": 0.78,
+        "processing_time": 0.9,
+        "timestamp": 1747926572.9767494,
+        "analysis": {
+          "summary": "Análise simulada de Especialista em Análise Técnica para Análise da Apple (AAPL)",
+          "market_outlook": "neutro"
+        }
+      },
+      "fundamental_analyst": {
+        "expert_type": "fundamental_analyst",
+        "expert_name": "Especialista em Análise Fundamental",
+        "confidence": 0.82,
+        "processing_time": 1.5,
+        "timestamp": 1747926573.1274183,
+        "analysis": {
+          "summary": "Análise simulada de Especialista em Análise Fundamental para Análise da Apple (AAPL)",
+          "market_outlook": "positivo"
+        }
+      },
+      "macro_economist": {
+        "expert_type": "macro_economist",
+        "expert_name": "Especialista em Macroeconomia",
+        "confidence": 0.89,
+        "processing_time": 1.7,
+        "timestamp": 1747926573.300927,
+        "analysis": {
+          "summary": "Análise simulada de Especialista em Macroeconomia para Análise da Apple (AAPL)"
+        }
+      }
+    },
+    "phi3_result": {
+      "model": "phi3-small-128k-simulado",
+      "processing_time": 0.5,
+      "timestamp": 1747926573.8012428,
+      "integrated_analysis": {
+        "overall_sentiment": "positivo",
+        "confidence": 0.835,
+        "summary": "Análise integrada para Análise da Apple (AAPL) baseada em 4 especialistas."
+      }
+    }
+  },
+  "risk": {
+    "query": {
+      "subject": "Análise de Portfólio Global",
+      "period": "atual",
+      "description": "Análise de risco de portfólio diversificado global"
+    },
+    "expert_results": {
+      "risk_manager": {
+        "expert_type": "risk_manager",
+        "expert_name": "Especialista em Gerenciamento de Risco",
+        "confidence": 0.91,
+        "processing_time": 1.3,
+        "timestamp": 1747926573.9336448,
+        "analysis": {
+          "summary": "Análise simulada de Especialista em Gerenciamento de Risco para Análise de Portfólio Global",
+          "risk_level": "baixo"
+        }
+      },
+      "volatility_expert": {
+        "expert_type": "volatility_expert",
+        "expert_name": "Especialista em Volatilidade",
+        "confidence": 0.87,
+        "processing_time": 1.1,
+        "timestamp": 1747926574.0456474,
+        "analysis": {
+          "summary": "Análise simulada de Especialista em Volatilidade para Análise de Portfólio Global",
+          "risk_level": "baixo"
+        }
+      },
+      "credit_analyst": {
+        "expert_type": "credit_analyst",
+        "expert_name": "Especialista em Crédito",
+        "confidence": 0.84,
+        "processing_time": 1.4,
+        "timestamp": 1747926574.187644,
+        "analysis": {
+          "summary": "Análise simulada de Especialista em Crédito para Análise de Portfólio Global",
+          "market_outlook": "positivo"
+        }
+      },
+      "liquidity_specialist": {
+        "expert_type": "liquidity_specialist",
+        "expert_name": "Especialista em Liquidez",
+        "confidence": 0.79,
+        "processing_time": 0.8,
+        "timestamp": 1747926574.2686448,
+        "analysis": {
+          "summary": "Análise simulada de Especialista em Liquidez para Análise de Portfólio Global"
+        }
+      }
+    },
+    "phi3_result": {
+      "model": "phi3-small-128k-simulado",
+      "processing_time": 0.5,
+      "timestamp": 1747926574.7689843,
+      "integrated_analysis": {
+        "overall_sentiment": "positivo",
+        "confidence": 0.8525,
+        "summary": "Análise integrada para Análise de Portfólio Global baseada em 4 especialistas."
+      }
+    }
+  },
+  "quant": {
+    "query": {
+      "subject": "Análise Quantitativa de Estratégia Multi-ativos",
+      "period": "atual",
+      "description": "Análise de estratégia quantitativa multi-ativos com modelos de momentum e mean-reversion"
+    },
+    "expert_results": {
+      "algorithmic_trader": {
+        "expert_type": "algorithmic_trader",
+        "expert_name": "Especialista em Trading Algorítmico",
+        "confidence": 0.81,
+        "processing_time": 1.6,
+        "timestamp": 1747926574.930645,
+        "analysis": {
+          "summary": "Análise simulada de Especialista em Trading Algorítmico para Análise Quantitativa de Estratégia Multi-ativos",
+          "signal_strength": 8.100000000000001
+        }
+      },
+      "options_specialist": {
+        "expert_type": "options_specialist",
+        "expert_name": "Especialista em Opções",
+        "confidence": 0.83,
+        "processing_time": 1.8,
+        "timestamp": 1747926575.1136456,
+        "analysis": {
+          "summary": "Análise simulada de Especialista em Opções para Análise Quantitativa de Estratégia Multi-ativos"
+        }
+      },
+      "fixed_income": {
+        "expert_type": "fixed_income",
+        "expert_name": "Especialista em Renda Fixa",
+        "confidence": 0.86,
+        "processing_time": 1.0,
+        "timestamp": 1747926575.2139783,
+        "analysis": {
+          "summary": "Análise simulada de Especialista em Renda Fixa para Análise Quantitativa de Estratégia Multi-ativos"
+        }
+      },
+      "crypto_analyst": {
+        "expert_type": "crypto_analyst",
+        "expert_name": "Especialista em Criptomoedas",
+        "confidence": 0.77,
+        "processing_time": 1.2,
+        "timestamp": 1747926575.3344977,
+        "analysis": {
+          "summary": "Análise simulada de Especialista em Criptomoedas para Análise Quantitativa de Estratégia Multi-ativos",
+          "market_outlook": "neutro"
+        }
+      }
+    },
+    "phi3_result": {
+      "model": "phi3-small-128k-simulado",
+      "processing_time": 0.5,
+      "timestamp": 1747926575.8352563,
+      "integrated_analysis": {
+        "overall_sentiment": "neutro",
+        "confidence": 0.8175,
+        "summary": "Análise integrada para Análise Quantitativa de Estratégia Multi-ativos baseada em 4 especialistas."
+      }
+    }
+  }
+}

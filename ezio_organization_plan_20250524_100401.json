@@ -1,0 +1,1935 @@
+{
+  "metadata": {
+    "timestamp": "20250524_100401",
+    "total_commands": 303,
+    "base_path": "C:\\Users\\anapa\\eziofilho-unified"
+  },
+  "commands": [
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\"",
+      "description": "Create directory: 01_core_system",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\02_experts_modules\"",
+      "description": "Create directory: 02_experts_modules",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\03_models_storage\"",
+      "description": "Create directory: 03_models_storage",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\"",
+      "description": "Create directory: 04_configuration",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\05_testing_validation\"",
+      "description": "Create directory: 05_testing_validation",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\06_tools_utilities\"",
+      "description": "Create directory: 06_tools_utilities",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\"",
+      "description": "Create directory: 07_documentation",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\08_examples_demos\"",
+      "description": "Create directory: 08_examples_demos",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\09_data_cache\"",
+      "description": "Create directory: 09_data_cache",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\10_deployment\"",
+      "description": "Create directory: 10_deployment",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\main_runners\"",
+      "description": "Create directory: 01_core_system\\main_runners",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\orchestrators\"",
+      "description": "Create directory: 01_core_system\\orchestrators",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\base_classes\"",
+      "description": "Create directory: 01_core_system\\base_classes",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\02_experts_modules\\financial_experts\"",
+      "description": "Create directory: 02_experts_modules\\financial_experts",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\02_experts_modules\\ai_integrations\"",
+      "description": "Create directory: 02_experts_modules\\ai_integrations",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\02_experts_modules\\specialized_tools\"",
+      "description": "Create directory: 02_experts_modules\\specialized_tools",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\03_models_storage\\local_models\"",
+      "description": "Create directory: 03_models_storage\\local_models",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\03_models_storage\\model_configs\"",
+      "description": "Create directory: 03_models_storage\\model_configs",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\project_configs\"",
+      "description": "Create directory: 04_configuration\\project_configs",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\requirements_files\"",
+      "description": "Create directory: 04_configuration\\requirements_files",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\05_testing_validation\\unit_tests\"",
+      "description": "Create directory: 05_testing_validation\\unit_tests",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\05_testing_validation\\integration_tests\"",
+      "description": "Create directory: 05_testing_validation\\integration_tests",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\05_testing_validation\\test_results\"",
+      "description": "Create directory: 05_testing_validation\\test_results",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\06_tools_utilities\\gpu_tools\"",
+      "description": "Create directory: 06_tools_utilities\\gpu_tools",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\06_tools_utilities\\monitoring\"",
+      "description": "Create directory: 06_tools_utilities\\monitoring",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\"",
+      "description": "Create directory: 07_documentation\\reports",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\guides\"",
+      "description": "Create directory: 07_documentation\\guides",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\08_examples_demos\\autogen_examples\"",
+      "description": "Create directory: 08_examples_demos\\autogen_examples",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\08_examples_demos\\working_demos\"",
+      "description": "Create directory: 08_examples_demos\\working_demos",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\09_data_cache\\shared_cache\"",
+      "description": "Create directory: 09_data_cache\\shared_cache",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\09_data_cache\\fallback_data\"",
+      "description": "Create directory: 09_data_cache\\fallback_data",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\10_deployment\\batch_files\"",
+      "description": "Create directory: 10_deployment\\batch_files",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\10_deployment\\production_ready\"",
+      "description": "Create directory: 10_deployment\\production_ready",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\main.py\" \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\main_runners\\\"",
+      "description": "Move main runner: main.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\main_fixed.py\" \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\main_runners\\\"",
+      "description": "Move main runner: main_fixed.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\main_autogen.py\" \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\main_runners\\\"",
+      "description": "Move main runner: main_autogen.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\run_system.py\" \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\main_runners\\\"",
+      "description": "Move main runner: run_system.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\run_unified.py\" \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\main_runners\\\"",
+      "description": "Move main runner: run_unified.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\run_local.py\" \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\main_runners\\\"",
+      "description": "Move main runner: run_local.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\run_with_auto_discovery.py\" \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\main_runners\\\"",
+      "description": "Move main runner: run_with_auto_discovery.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\ezio_orchestrator.py\" \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\orchestrators\\\"",
+      "description": "Move orchestrator: ezio_orchestrator.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\unified_orchestrator.py\" \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\orchestrators\\\"",
+      "description": "Move orchestrator: unified_orchestrator.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\expert_fingpt.py\" \"C:\\Users\\anapa\\eziofilho-unified\\02_experts_modules\\financial_experts\\\"",
+      "description": "Move expert file: expert_fingpt.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\eziofinisher_*.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\02_experts_modules\\financial_experts\\\"",
+      "description": "Move expert files: eziofinisher_*.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\advanced_model_manager.py\" \"C:\\Users\\anapa\\eziofilho-unified\\02_experts_modules\\financial_experts\\\"",
+      "description": "Move expert file: advanced_model_manager.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\direct_chat.py\" \"C:\\Users\\anapa\\eziofilho-unified\\02_experts_modules\\financial_experts\\\"",
+      "description": "Move expert file: direct_chat.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\simple_chat.py\" \"C:\\Users\\anapa\\eziofilho-unified\\02_experts_modules\\financial_experts\\\"",
+      "description": "Move expert file: simple_chat.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\config_*.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\project_configs\\\"",
+      "description": "Move config files: config_*.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\config_*.json\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\project_configs\\\"",
+      "description": "Move config files: config_*.json",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\*.json\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\project_configs\\\"",
+      "description": "Move config files: *.json",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\configure_*.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\project_configs\\\"",
+      "description": "Move config files: configure_*.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\requirements*.txt\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\requirements_files\\\"",
+      "description": "Move requirements: requirements*.txt",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\requirements*.txt\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\requirements_files\\\"",
+      "description": "Move requirements: requirements*.txt",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\test_*.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\05_testing_validation\\unit_tests\\\"",
+      "description": "Move test files: test_*.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\run_*test*.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\05_testing_validation\\unit_tests\\\"",
+      "description": "Move test files: run_*test*.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\*_test.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\05_testing_validation\\unit_tests\\\"",
+      "description": "Move test files: *_test.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\gpu_*.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\06_tools_utilities\\gpu_tools\\\"",
+      "description": "Move tools: gpu_*.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\*monitor*.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\06_tools_utilities\\gpu_tools\\\"",
+      "description": "Move tools: *monitor*.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\*benchmark*.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\06_tools_utilities\\gpu_tools\\\"",
+      "description": "Move tools: *benchmark*.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\demo_multi_gpu.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\06_tools_utilities\\gpu_tools\\\"",
+      "description": "Move tools: demo_multi_gpu.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\download_*.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\03_models_storage\\model_configs\\\"",
+      "description": "Move model files: download_*.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\model_*.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\03_models_storage\\model_configs\\\"",
+      "description": "Move model files: model_*.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\find_models.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\03_models_storage\\model_configs\\\"",
+      "description": "Move model files: find_models.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\organize_models.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\03_models_storage\\model_configs\\\"",
+      "description": "Move model files: organize_models.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\*.bat\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\10_deployment\\batch_files\\\"",
+      "description": "Move batch files: *.bat",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for /d /r \"C:\\Users\\anapa\\eziofilho-unified\" %d in (__pycache__) do @if exist \"%d\" rmdir /s /q \"%d\"",
+      "description": "Remove cache directories: __pycache__",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for /r \"C:\\Users\\anapa\\eziofilho-unified\" %f in (*.pyc) do @if exist \"%f\" del /q \"%f\"",
+      "description": "Remove cache files: *.pyc",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for /r \"C:\\Users\\anapa\\eziofilho-unified\" %f in (*.pyo) do @if exist \"%f\" del /q \"%f\"",
+      "description": "Remove cache files: *.pyo",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for /d /r \"C:\\Users\\anapa\\eziofilho-unified\" %d in (.cache) do @if exist \"%d\" rmdir /s /q \"%d\"",
+      "description": "Remove cache directories: .cache",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\*_old.py\") do del /q \"%f\"",
+      "description": "Remove temporary file: *_old.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\*_simple.py\") do del /q \"%f\"",
+      "description": "Remove temporary file: *_simple.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\simple_chat_old.py\") do del /q \"%f\"",
+      "description": "Remove temporary file: simple_chat_old.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "del /q \"C:\\Users\\anapa\\eziofilho-unified\\1.20.0\"",
+      "description": "Remove version artifact: 1.20.0",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "del /q \"C:\\Users\\anapa\\eziofilho-unified\\2.11.3\"",
+      "description": "Remove version artifact: 2.11.3",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "del /q \"C:\\Users\\anapa\\eziofilho-unified\\25.1.1\"",
+      "description": "Remove version artifact: 25.1.1",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "del /q \"C:\\Users\\anapa\\eziofilho-unified\\3.7\"",
+      "description": "Remove version artifact: 3.7",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "del /q \"C:\\Users\\anapa\\eziofilho-unified\\4.5.0\"",
+      "description": "Remove version artifact: 4.5.0",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "del /q \"C:\\Users\\anapa\\eziofilho-unified\\5.6.1\"",
+      "description": "Remove version artifact: 5.6.1",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "\necho # EZIO UNIFIED REQUIREMENTS - Generated 20250524_100401 > \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\requirements_files\\requirements_unified_final.txt\"\necho # Consolidated from multiple requirement files >> \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\requirements_files\\requirements_unified_final.txt\"\necho. >> \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\requirements_files\\requirements_unified_final.txt\"\ntype \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\requirements_files\\requirements.txt\" >> \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\requirements_files\\requirements_unified_final.txt\" 2>nul\ntype \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\requirements_files\\requirements-unified.txt\" >> \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\requirements_files\\requirements_unified_final.txt\" 2>nul\ntype \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\requirements_files\\requirements_working.txt\" >> \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\requirements_files\\requirements_unified_final.txt\" 2>nul\n",
+      "description": "Consolidate requirements files",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\README.md\" \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\guides\\\"",
+      "description": "Move documentation: README.md",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\relatorio_desenvolvimento.md\" \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\guides\\\"",
+      "description": "Move documentation: relatorio_desenvolvimento.md",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\*.md\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\guides\\\"",
+      "description": "Move documentation: *.md",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "xcopy /E /I /Y \"C:\\Users\\anapa\\eziofilho-unified\\autogen_examples\" \"C:\\Users\\anapa\\eziofilho-unified\\08_examples_demos\\autogen_examples\\\"",
+      "description": "Move folder: autogen_examples -> 08_examples_demos\\autogen_examples",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "rmdir /s /q \"C:\\Users\\anapa\\eziofilho-unified\\autogen_examples\"",
+      "description": "Remove original folder: autogen_examples",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "xcopy /E /I /Y \"C:\\Users\\anapa\\eziofilho-unified\\autogen_generated\" \"C:\\Users\\anapa\\eziofilho-unified\\08_examples_demos\\working_demos\\\"",
+      "description": "Move folder: autogen_generated -> 08_examples_demos\\working_demos",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "rmdir /s /q \"C:\\Users\\anapa\\eziofilho-unified\\autogen_generated\"",
+      "description": "Remove original folder: autogen_generated",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "xcopy /E /I /Y \"C:\\Users\\anapa\\eziofilho-unified\\data\" \"C:\\Users\\anapa\\eziofilho-unified\\09_data_cache\\shared_cache\\\"",
+      "description": "Move folder: data -> 09_data_cache\\shared_cache",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "rmdir /s /q \"C:\\Users\\anapa\\eziofilho-unified\\data\"",
+      "description": "Remove original folder: data",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "xcopy /E /I /Y \"C:\\Users\\anapa\\eziofilho-unified\\results\" \"C:\\Users\\anapa\\eziofilho-unified\\05_testing_validation\\test_results\\\"",
+      "description": "Move folder: results -> 05_testing_validation\\test_results",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "rmdir /s /q \"C:\\Users\\anapa\\eziofilho-unified\\results\"",
+      "description": "Remove original folder: results",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "xcopy /E /I /Y \"C:\\Users\\anapa\\eziofilho-unified\\reports\" \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\\"",
+      "description": "Move folder: reports -> 07_documentation\\reports",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "rmdir /s /q \"C:\\Users\\anapa\\eziofilho-unified\\reports\"",
+      "description": "Remove original folder: reports",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "xcopy /E /I /Y \"C:\\Users\\anapa\\eziofilho-unified\\models\" \"C:\\Users\\anapa\\eziofilho-unified\\03_models_storage\\local_models\\\"",
+      "description": "Move folder: models -> 03_models_storage\\local_models",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "rmdir /s /q \"C:\\Users\\anapa\\eziofilho-unified\\models\"",
+      "description": "Remove original folder: models",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "xcopy /E /I /Y \"C:\\Users\\anapa\\eziofilho-unified\\core\" \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\base_classes\\\"",
+      "description": "Move folder: core -> 01_core_system\\base_classes",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "rmdir /s /q \"C:\\Users\\anapa\\eziofilho-unified\\core\"",
+      "description": "Remove original folder: core",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "xcopy /E /I /Y \"C:\\Users\\anapa\\eziofilho-unified\\experts\" \"C:\\Users\\anapa\\eziofilho-unified\\02_experts_modules\\financial_experts\\\"",
+      "description": "Move folder: experts -> 02_experts_modules\\financial_experts",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "rmdir /s /q \"C:\\Users\\anapa\\eziofilho-unified\\experts\"",
+      "description": "Remove original folder: experts",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "xcopy /E /I /Y \"C:\\Users\\anapa\\eziofilho-unified\\tools\" \"C:\\Users\\anapa\\eziofilho-unified\\06_tools_utilities\\monitoring\\\"",
+      "description": "Move folder: tools -> 06_tools_utilities\\monitoring",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "rmdir /s /q \"C:\\Users\\anapa\\eziofilho-unified\\tools\"",
+      "description": "Remove original folder: tools",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "\necho EZIO PROJECT ORGANIZATION REPORT > \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho ================================== >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho Timestamp: 20250524_100401 >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho Total Commands Executed: 100 >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho. >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho NEW STRUCTURE CREATED: >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 01_core_system >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 02_experts_modules >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 03_models_storage >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 04_configuration >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 05_testing_validation >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 06_tools_utilities >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 07_documentation >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 08_examples_demos >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 09_data_cache >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 10_deployment >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 01_core_system\\main_runners >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 01_core_system\\orchestrators >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 01_core_system\\base_classes >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 02_experts_modules\\financial_experts >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 02_experts_modules\\ai_integrations >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 02_experts_modules\\specialized_tools >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 03_models_storage\\local_models >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 03_models_storage\\model_configs >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 04_configuration\\project_configs >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 04_configuration\\requirements_files >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 05_testing_validation\\unit_tests >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 05_testing_validation\\integration_tests >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 05_testing_validation\\test_results >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 06_tools_utilities\\gpu_tools >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 06_tools_utilities\\monitoring >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 07_documentation\\reports >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 07_documentation\\guides >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 08_examples_demos\\autogen_examples >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 08_examples_demos\\working_demos >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 09_data_cache\\shared_cache >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 09_data_cache\\fallback_data >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 10_deployment\\batch_files >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 10_deployment\\production_ready >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\n\necho. >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho ORGANIZATION COMPLETE! >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho Project is now organized and ready for development. >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\n",
+      "description": "Generate final organization report",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\"",
+      "description": "Create directory: 01_core_system",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\02_experts_modules\"",
+      "description": "Create directory: 02_experts_modules",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\03_models_storage\"",
+      "description": "Create directory: 03_models_storage",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\"",
+      "description": "Create directory: 04_configuration",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\05_testing_validation\"",
+      "description": "Create directory: 05_testing_validation",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\06_tools_utilities\"",
+      "description": "Create directory: 06_tools_utilities",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\"",
+      "description": "Create directory: 07_documentation",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\08_examples_demos\"",
+      "description": "Create directory: 08_examples_demos",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\09_data_cache\"",
+      "description": "Create directory: 09_data_cache",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\10_deployment\"",
+      "description": "Create directory: 10_deployment",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\main_runners\"",
+      "description": "Create directory: 01_core_system\\main_runners",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\orchestrators\"",
+      "description": "Create directory: 01_core_system\\orchestrators",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\base_classes\"",
+      "description": "Create directory: 01_core_system\\base_classes",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\02_experts_modules\\financial_experts\"",
+      "description": "Create directory: 02_experts_modules\\financial_experts",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\02_experts_modules\\ai_integrations\"",
+      "description": "Create directory: 02_experts_modules\\ai_integrations",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\02_experts_modules\\specialized_tools\"",
+      "description": "Create directory: 02_experts_modules\\specialized_tools",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\03_models_storage\\local_models\"",
+      "description": "Create directory: 03_models_storage\\local_models",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\03_models_storage\\model_configs\"",
+      "description": "Create directory: 03_models_storage\\model_configs",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\project_configs\"",
+      "description": "Create directory: 04_configuration\\project_configs",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\requirements_files\"",
+      "description": "Create directory: 04_configuration\\requirements_files",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\05_testing_validation\\unit_tests\"",
+      "description": "Create directory: 05_testing_validation\\unit_tests",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\05_testing_validation\\integration_tests\"",
+      "description": "Create directory: 05_testing_validation\\integration_tests",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\05_testing_validation\\test_results\"",
+      "description": "Create directory: 05_testing_validation\\test_results",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\06_tools_utilities\\gpu_tools\"",
+      "description": "Create directory: 06_tools_utilities\\gpu_tools",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\06_tools_utilities\\monitoring\"",
+      "description": "Create directory: 06_tools_utilities\\monitoring",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\"",
+      "description": "Create directory: 07_documentation\\reports",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\guides\"",
+      "description": "Create directory: 07_documentation\\guides",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\08_examples_demos\\autogen_examples\"",
+      "description": "Create directory: 08_examples_demos\\autogen_examples",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\08_examples_demos\\working_demos\"",
+      "description": "Create directory: 08_examples_demos\\working_demos",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\09_data_cache\\shared_cache\"",
+      "description": "Create directory: 09_data_cache\\shared_cache",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\09_data_cache\\fallback_data\"",
+      "description": "Create directory: 09_data_cache\\fallback_data",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\10_deployment\\batch_files\"",
+      "description": "Create directory: 10_deployment\\batch_files",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\10_deployment\\production_ready\"",
+      "description": "Create directory: 10_deployment\\production_ready",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\main.py\" \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\main_runners\\\"",
+      "description": "Move main runner: main.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\main_fixed.py\" \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\main_runners\\\"",
+      "description": "Move main runner: main_fixed.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\main_autogen.py\" \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\main_runners\\\"",
+      "description": "Move main runner: main_autogen.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\run_system.py\" \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\main_runners\\\"",
+      "description": "Move main runner: run_system.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\run_unified.py\" \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\main_runners\\\"",
+      "description": "Move main runner: run_unified.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\run_local.py\" \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\main_runners\\\"",
+      "description": "Move main runner: run_local.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\run_with_auto_discovery.py\" \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\main_runners\\\"",
+      "description": "Move main runner: run_with_auto_discovery.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\ezio_orchestrator.py\" \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\orchestrators\\\"",
+      "description": "Move orchestrator: ezio_orchestrator.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\unified_orchestrator.py\" \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\orchestrators\\\"",
+      "description": "Move orchestrator: unified_orchestrator.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\expert_fingpt.py\" \"C:\\Users\\anapa\\eziofilho-unified\\02_experts_modules\\financial_experts\\\"",
+      "description": "Move expert file: expert_fingpt.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\eziofinisher_*.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\02_experts_modules\\financial_experts\\\"",
+      "description": "Move expert files: eziofinisher_*.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\advanced_model_manager.py\" \"C:\\Users\\anapa\\eziofilho-unified\\02_experts_modules\\financial_experts\\\"",
+      "description": "Move expert file: advanced_model_manager.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\direct_chat.py\" \"C:\\Users\\anapa\\eziofilho-unified\\02_experts_modules\\financial_experts\\\"",
+      "description": "Move expert file: direct_chat.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\simple_chat.py\" \"C:\\Users\\anapa\\eziofilho-unified\\02_experts_modules\\financial_experts\\\"",
+      "description": "Move expert file: simple_chat.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\config_*.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\project_configs\\\"",
+      "description": "Move config files: config_*.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\config_*.json\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\project_configs\\\"",
+      "description": "Move config files: config_*.json",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\*.json\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\project_configs\\\"",
+      "description": "Move config files: *.json",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\configure_*.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\project_configs\\\"",
+      "description": "Move config files: configure_*.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\requirements*.txt\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\requirements_files\\\"",
+      "description": "Move requirements: requirements*.txt",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\requirements*.txt\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\requirements_files\\\"",
+      "description": "Move requirements: requirements*.txt",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\test_*.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\05_testing_validation\\unit_tests\\\"",
+      "description": "Move test files: test_*.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\run_*test*.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\05_testing_validation\\unit_tests\\\"",
+      "description": "Move test files: run_*test*.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\*_test.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\05_testing_validation\\unit_tests\\\"",
+      "description": "Move test files: *_test.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\gpu_*.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\06_tools_utilities\\gpu_tools\\\"",
+      "description": "Move tools: gpu_*.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\*monitor*.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\06_tools_utilities\\gpu_tools\\\"",
+      "description": "Move tools: *monitor*.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\*benchmark*.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\06_tools_utilities\\gpu_tools\\\"",
+      "description": "Move tools: *benchmark*.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\demo_multi_gpu.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\06_tools_utilities\\gpu_tools\\\"",
+      "description": "Move tools: demo_multi_gpu.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\download_*.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\03_models_storage\\model_configs\\\"",
+      "description": "Move model files: download_*.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\model_*.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\03_models_storage\\model_configs\\\"",
+      "description": "Move model files: model_*.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\find_models.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\03_models_storage\\model_configs\\\"",
+      "description": "Move model files: find_models.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\organize_models.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\03_models_storage\\model_configs\\\"",
+      "description": "Move model files: organize_models.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\*.bat\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\10_deployment\\batch_files\\\"",
+      "description": "Move batch files: *.bat",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for /d /r \"C:\\Users\\anapa\\eziofilho-unified\" %d in (__pycache__) do @if exist \"%d\" rmdir /s /q \"%d\"",
+      "description": "Remove cache directories: __pycache__",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for /r \"C:\\Users\\anapa\\eziofilho-unified\" %f in (*.pyc) do @if exist \"%f\" del /q \"%f\"",
+      "description": "Remove cache files: *.pyc",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for /r \"C:\\Users\\anapa\\eziofilho-unified\" %f in (*.pyo) do @if exist \"%f\" del /q \"%f\"",
+      "description": "Remove cache files: *.pyo",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for /d /r \"C:\\Users\\anapa\\eziofilho-unified\" %d in (.cache) do @if exist \"%d\" rmdir /s /q \"%d\"",
+      "description": "Remove cache directories: .cache",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\*_old.py\") do del /q \"%f\"",
+      "description": "Remove temporary file: *_old.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\*_simple.py\") do del /q \"%f\"",
+      "description": "Remove temporary file: *_simple.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\simple_chat_old.py\") do del /q \"%f\"",
+      "description": "Remove temporary file: simple_chat_old.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "del /q \"C:\\Users\\anapa\\eziofilho-unified\\1.20.0\"",
+      "description": "Remove version artifact: 1.20.0",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "del /q \"C:\\Users\\anapa\\eziofilho-unified\\2.11.3\"",
+      "description": "Remove version artifact: 2.11.3",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "del /q \"C:\\Users\\anapa\\eziofilho-unified\\25.1.1\"",
+      "description": "Remove version artifact: 25.1.1",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "del /q \"C:\\Users\\anapa\\eziofilho-unified\\3.7\"",
+      "description": "Remove version artifact: 3.7",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "del /q \"C:\\Users\\anapa\\eziofilho-unified\\4.5.0\"",
+      "description": "Remove version artifact: 4.5.0",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "del /q \"C:\\Users\\anapa\\eziofilho-unified\\5.6.1\"",
+      "description": "Remove version artifact: 5.6.1",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "\necho # EZIO UNIFIED REQUIREMENTS - Generated 20250524_100401 > \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\requirements_files\\requirements_unified_final.txt\"\necho # Consolidated from multiple requirement files >> \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\requirements_files\\requirements_unified_final.txt\"\necho. >> \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\requirements_files\\requirements_unified_final.txt\"\ntype \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\requirements_files\\requirements.txt\" >> \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\requirements_files\\requirements_unified_final.txt\" 2>nul\ntype \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\requirements_files\\requirements-unified.txt\" >> \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\requirements_files\\requirements_unified_final.txt\" 2>nul\ntype \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\requirements_files\\requirements_working.txt\" >> \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\requirements_files\\requirements_unified_final.txt\" 2>nul\n",
+      "description": "Consolidate requirements files",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\README.md\" \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\guides\\\"",
+      "description": "Move documentation: README.md",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\relatorio_desenvolvimento.md\" \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\guides\\\"",
+      "description": "Move documentation: relatorio_desenvolvimento.md",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\*.md\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\guides\\\"",
+      "description": "Move documentation: *.md",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "xcopy /E /I /Y \"C:\\Users\\anapa\\eziofilho-unified\\autogen_examples\" \"C:\\Users\\anapa\\eziofilho-unified\\08_examples_demos\\autogen_examples\\\"",
+      "description": "Move folder: autogen_examples -> 08_examples_demos\\autogen_examples",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "rmdir /s /q \"C:\\Users\\anapa\\eziofilho-unified\\autogen_examples\"",
+      "description": "Remove original folder: autogen_examples",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "xcopy /E /I /Y \"C:\\Users\\anapa\\eziofilho-unified\\autogen_generated\" \"C:\\Users\\anapa\\eziofilho-unified\\08_examples_demos\\working_demos\\\"",
+      "description": "Move folder: autogen_generated -> 08_examples_demos\\working_demos",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "rmdir /s /q \"C:\\Users\\anapa\\eziofilho-unified\\autogen_generated\"",
+      "description": "Remove original folder: autogen_generated",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "xcopy /E /I /Y \"C:\\Users\\anapa\\eziofilho-unified\\data\" \"C:\\Users\\anapa\\eziofilho-unified\\09_data_cache\\shared_cache\\\"",
+      "description": "Move folder: data -> 09_data_cache\\shared_cache",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "rmdir /s /q \"C:\\Users\\anapa\\eziofilho-unified\\data\"",
+      "description": "Remove original folder: data",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "xcopy /E /I /Y \"C:\\Users\\anapa\\eziofilho-unified\\results\" \"C:\\Users\\anapa\\eziofilho-unified\\05_testing_validation\\test_results\\\"",
+      "description": "Move folder: results -> 05_testing_validation\\test_results",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "rmdir /s /q \"C:\\Users\\anapa\\eziofilho-unified\\results\"",
+      "description": "Remove original folder: results",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "xcopy /E /I /Y \"C:\\Users\\anapa\\eziofilho-unified\\reports\" \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\\"",
+      "description": "Move folder: reports -> 07_documentation\\reports",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "rmdir /s /q \"C:\\Users\\anapa\\eziofilho-unified\\reports\"",
+      "description": "Remove original folder: reports",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "xcopy /E /I /Y \"C:\\Users\\anapa\\eziofilho-unified\\models\" \"C:\\Users\\anapa\\eziofilho-unified\\03_models_storage\\local_models\\\"",
+      "description": "Move folder: models -> 03_models_storage\\local_models",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "rmdir /s /q \"C:\\Users\\anapa\\eziofilho-unified\\models\"",
+      "description": "Remove original folder: models",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "xcopy /E /I /Y \"C:\\Users\\anapa\\eziofilho-unified\\core\" \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\base_classes\\\"",
+      "description": "Move folder: core -> 01_core_system\\base_classes",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "rmdir /s /q \"C:\\Users\\anapa\\eziofilho-unified\\core\"",
+      "description": "Remove original folder: core",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "xcopy /E /I /Y \"C:\\Users\\anapa\\eziofilho-unified\\experts\" \"C:\\Users\\anapa\\eziofilho-unified\\02_experts_modules\\financial_experts\\\"",
+      "description": "Move folder: experts -> 02_experts_modules\\financial_experts",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "rmdir /s /q \"C:\\Users\\anapa\\eziofilho-unified\\experts\"",
+      "description": "Remove original folder: experts",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "xcopy /E /I /Y \"C:\\Users\\anapa\\eziofilho-unified\\tools\" \"C:\\Users\\anapa\\eziofilho-unified\\06_tools_utilities\\monitoring\\\"",
+      "description": "Move folder: tools -> 06_tools_utilities\\monitoring",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "rmdir /s /q \"C:\\Users\\anapa\\eziofilho-unified\\tools\"",
+      "description": "Remove original folder: tools",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "\necho EZIO PROJECT ORGANIZATION REPORT > \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho ================================== >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho Timestamp: 20250524_100401 >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho Total Commands Executed: 201 >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho. >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho NEW STRUCTURE CREATED: >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 01_core_system >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 02_experts_modules >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 03_models_storage >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 04_configuration >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 05_testing_validation >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 06_tools_utilities >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 07_documentation >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 08_examples_demos >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 09_data_cache >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 10_deployment >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 01_core_system\\main_runners >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 01_core_system\\orchestrators >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 01_core_system\\base_classes >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 02_experts_modules\\financial_experts >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 02_experts_modules\\ai_integrations >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 02_experts_modules\\specialized_tools >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 03_models_storage\\local_models >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 03_models_storage\\model_configs >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 04_configuration\\project_configs >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 04_configuration\\requirements_files >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 05_testing_validation\\unit_tests >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 05_testing_validation\\integration_tests >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 05_testing_validation\\test_results >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 06_tools_utilities\\gpu_tools >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 06_tools_utilities\\monitoring >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 07_documentation\\reports >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 07_documentation\\guides >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 08_examples_demos\\autogen_examples >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 08_examples_demos\\working_demos >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 09_data_cache\\shared_cache >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 09_data_cache\\fallback_data >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 10_deployment\\batch_files >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 10_deployment\\production_ready >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 01_core_system >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 02_experts_modules >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 03_models_storage >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 04_configuration >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 05_testing_validation >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 06_tools_utilities >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 07_documentation >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 08_examples_demos >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 09_data_cache >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 10_deployment >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 01_core_system\\main_runners >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 01_core_system\\orchestrators >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 01_core_system\\base_classes >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 02_experts_modules\\financial_experts >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 02_experts_modules\\ai_integrations >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 02_experts_modules\\specialized_tools >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 03_models_storage\\local_models >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 03_models_storage\\model_configs >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 04_configuration\\project_configs >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 04_configuration\\requirements_files >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 05_testing_validation\\unit_tests >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 05_testing_validation\\integration_tests >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 05_testing_validation\\test_results >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 06_tools_utilities\\gpu_tools >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 06_tools_utilities\\monitoring >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 07_documentation\\reports >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 07_documentation\\guides >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 08_examples_demos\\autogen_examples >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 08_examples_demos\\working_demos >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 09_data_cache\\shared_cache >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 09_data_cache\\fallback_data >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 10_deployment\\batch_files >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 10_deployment\\production_ready >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\n\necho. >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho ORGANIZATION COMPLETE! >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho Project is now organized and ready for development. >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\n",
+      "description": "Generate final organization report",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\"",
+      "description": "Create directory: 01_core_system",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\02_experts_modules\"",
+      "description": "Create directory: 02_experts_modules",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\03_models_storage\"",
+      "description": "Create directory: 03_models_storage",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\"",
+      "description": "Create directory: 04_configuration",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\05_testing_validation\"",
+      "description": "Create directory: 05_testing_validation",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\06_tools_utilities\"",
+      "description": "Create directory: 06_tools_utilities",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\"",
+      "description": "Create directory: 07_documentation",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\08_examples_demos\"",
+      "description": "Create directory: 08_examples_demos",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\09_data_cache\"",
+      "description": "Create directory: 09_data_cache",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\10_deployment\"",
+      "description": "Create directory: 10_deployment",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\main_runners\"",
+      "description": "Create directory: 01_core_system\\main_runners",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\orchestrators\"",
+      "description": "Create directory: 01_core_system\\orchestrators",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\base_classes\"",
+      "description": "Create directory: 01_core_system\\base_classes",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\02_experts_modules\\financial_experts\"",
+      "description": "Create directory: 02_experts_modules\\financial_experts",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\02_experts_modules\\ai_integrations\"",
+      "description": "Create directory: 02_experts_modules\\ai_integrations",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\02_experts_modules\\specialized_tools\"",
+      "description": "Create directory: 02_experts_modules\\specialized_tools",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\03_models_storage\\local_models\"",
+      "description": "Create directory: 03_models_storage\\local_models",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\03_models_storage\\model_configs\"",
+      "description": "Create directory: 03_models_storage\\model_configs",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\project_configs\"",
+      "description": "Create directory: 04_configuration\\project_configs",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\requirements_files\"",
+      "description": "Create directory: 04_configuration\\requirements_files",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\05_testing_validation\\unit_tests\"",
+      "description": "Create directory: 05_testing_validation\\unit_tests",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\05_testing_validation\\integration_tests\"",
+      "description": "Create directory: 05_testing_validation\\integration_tests",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\05_testing_validation\\test_results\"",
+      "description": "Create directory: 05_testing_validation\\test_results",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\06_tools_utilities\\gpu_tools\"",
+      "description": "Create directory: 06_tools_utilities\\gpu_tools",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\06_tools_utilities\\monitoring\"",
+      "description": "Create directory: 06_tools_utilities\\monitoring",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\"",
+      "description": "Create directory: 07_documentation\\reports",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\guides\"",
+      "description": "Create directory: 07_documentation\\guides",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\08_examples_demos\\autogen_examples\"",
+      "description": "Create directory: 08_examples_demos\\autogen_examples",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\08_examples_demos\\working_demos\"",
+      "description": "Create directory: 08_examples_demos\\working_demos",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\09_data_cache\\shared_cache\"",
+      "description": "Create directory: 09_data_cache\\shared_cache",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\09_data_cache\\fallback_data\"",
+      "description": "Create directory: 09_data_cache\\fallback_data",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\10_deployment\\batch_files\"",
+      "description": "Create directory: 10_deployment\\batch_files",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "mkdir \"C:\\Users\\anapa\\eziofilho-unified\\10_deployment\\production_ready\"",
+      "description": "Create directory: 10_deployment\\production_ready",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\main.py\" \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\main_runners\\\"",
+      "description": "Move main runner: main.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\main_fixed.py\" \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\main_runners\\\"",
+      "description": "Move main runner: main_fixed.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\main_autogen.py\" \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\main_runners\\\"",
+      "description": "Move main runner: main_autogen.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\run_system.py\" \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\main_runners\\\"",
+      "description": "Move main runner: run_system.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\run_unified.py\" \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\main_runners\\\"",
+      "description": "Move main runner: run_unified.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\run_local.py\" \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\main_runners\\\"",
+      "description": "Move main runner: run_local.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\run_with_auto_discovery.py\" \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\main_runners\\\"",
+      "description": "Move main runner: run_with_auto_discovery.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\ezio_orchestrator.py\" \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\orchestrators\\\"",
+      "description": "Move orchestrator: ezio_orchestrator.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\unified_orchestrator.py\" \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\orchestrators\\\"",
+      "description": "Move orchestrator: unified_orchestrator.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\expert_fingpt.py\" \"C:\\Users\\anapa\\eziofilho-unified\\02_experts_modules\\financial_experts\\\"",
+      "description": "Move expert file: expert_fingpt.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\eziofinisher_*.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\02_experts_modules\\financial_experts\\\"",
+      "description": "Move expert files: eziofinisher_*.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\advanced_model_manager.py\" \"C:\\Users\\anapa\\eziofilho-unified\\02_experts_modules\\financial_experts\\\"",
+      "description": "Move expert file: advanced_model_manager.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\direct_chat.py\" \"C:\\Users\\anapa\\eziofilho-unified\\02_experts_modules\\financial_experts\\\"",
+      "description": "Move expert file: direct_chat.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\simple_chat.py\" \"C:\\Users\\anapa\\eziofilho-unified\\02_experts_modules\\financial_experts\\\"",
+      "description": "Move expert file: simple_chat.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\config_*.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\project_configs\\\"",
+      "description": "Move config files: config_*.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\config_*.json\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\project_configs\\\"",
+      "description": "Move config files: config_*.json",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\*.json\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\project_configs\\\"",
+      "description": "Move config files: *.json",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\configure_*.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\project_configs\\\"",
+      "description": "Move config files: configure_*.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\requirements*.txt\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\requirements_files\\\"",
+      "description": "Move requirements: requirements*.txt",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\requirements*.txt\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\requirements_files\\\"",
+      "description": "Move requirements: requirements*.txt",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\test_*.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\05_testing_validation\\unit_tests\\\"",
+      "description": "Move test files: test_*.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\run_*test*.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\05_testing_validation\\unit_tests\\\"",
+      "description": "Move test files: run_*test*.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\*_test.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\05_testing_validation\\unit_tests\\\"",
+      "description": "Move test files: *_test.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\gpu_*.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\06_tools_utilities\\gpu_tools\\\"",
+      "description": "Move tools: gpu_*.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\*monitor*.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\06_tools_utilities\\gpu_tools\\\"",
+      "description": "Move tools: *monitor*.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\*benchmark*.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\06_tools_utilities\\gpu_tools\\\"",
+      "description": "Move tools: *benchmark*.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\demo_multi_gpu.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\06_tools_utilities\\gpu_tools\\\"",
+      "description": "Move tools: demo_multi_gpu.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\download_*.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\03_models_storage\\model_configs\\\"",
+      "description": "Move model files: download_*.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\model_*.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\03_models_storage\\model_configs\\\"",
+      "description": "Move model files: model_*.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\find_models.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\03_models_storage\\model_configs\\\"",
+      "description": "Move model files: find_models.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\organize_models.py\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\03_models_storage\\model_configs\\\"",
+      "description": "Move model files: organize_models.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\*.bat\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\10_deployment\\batch_files\\\"",
+      "description": "Move batch files: *.bat",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for /d /r \"C:\\Users\\anapa\\eziofilho-unified\" %d in (__pycache__) do @if exist \"%d\" rmdir /s /q \"%d\"",
+      "description": "Remove cache directories: __pycache__",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for /r \"C:\\Users\\anapa\\eziofilho-unified\" %f in (*.pyc) do @if exist \"%f\" del /q \"%f\"",
+      "description": "Remove cache files: *.pyc",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for /r \"C:\\Users\\anapa\\eziofilho-unified\" %f in (*.pyo) do @if exist \"%f\" del /q \"%f\"",
+      "description": "Remove cache files: *.pyo",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for /d /r \"C:\\Users\\anapa\\eziofilho-unified\" %d in (.cache) do @if exist \"%d\" rmdir /s /q \"%d\"",
+      "description": "Remove cache directories: .cache",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\*_old.py\") do del /q \"%f\"",
+      "description": "Remove temporary file: *_old.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\*_simple.py\") do del /q \"%f\"",
+      "description": "Remove temporary file: *_simple.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\simple_chat_old.py\") do del /q \"%f\"",
+      "description": "Remove temporary file: simple_chat_old.py",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "del /q \"C:\\Users\\anapa\\eziofilho-unified\\1.20.0\"",
+      "description": "Remove version artifact: 1.20.0",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "del /q \"C:\\Users\\anapa\\eziofilho-unified\\2.11.3\"",
+      "description": "Remove version artifact: 2.11.3",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "del /q \"C:\\Users\\anapa\\eziofilho-unified\\25.1.1\"",
+      "description": "Remove version artifact: 25.1.1",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "del /q \"C:\\Users\\anapa\\eziofilho-unified\\3.7\"",
+      "description": "Remove version artifact: 3.7",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "del /q \"C:\\Users\\anapa\\eziofilho-unified\\4.5.0\"",
+      "description": "Remove version artifact: 4.5.0",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "del /q \"C:\\Users\\anapa\\eziofilho-unified\\5.6.1\"",
+      "description": "Remove version artifact: 5.6.1",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "\necho # EZIO UNIFIED REQUIREMENTS - Generated 20250524_100401 > \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\requirements_files\\requirements_unified_final.txt\"\necho # Consolidated from multiple requirement files >> \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\requirements_files\\requirements_unified_final.txt\"\necho. >> \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\requirements_files\\requirements_unified_final.txt\"\ntype \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\requirements_files\\requirements.txt\" >> \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\requirements_files\\requirements_unified_final.txt\" 2>nul\ntype \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\requirements_files\\requirements-unified.txt\" >> \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\requirements_files\\requirements_unified_final.txt\" 2>nul\ntype \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\requirements_files\\requirements_working.txt\" >> \"C:\\Users\\anapa\\eziofilho-unified\\04_configuration\\requirements_files\\requirements_unified_final.txt\" 2>nul\n",
+      "description": "Consolidate requirements files",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\README.md\" \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\guides\\\"",
+      "description": "Move documentation: README.md",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "move \"C:\\Users\\anapa\\eziofilho-unified\\relatorio_desenvolvimento.md\" \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\guides\\\"",
+      "description": "Move documentation: relatorio_desenvolvimento.md",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "for %f in (\"C:\\Users\\anapa\\eziofilho-unified\\*.md\") do move \"%f\" \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\guides\\\"",
+      "description": "Move documentation: *.md",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "xcopy /E /I /Y \"C:\\Users\\anapa\\eziofilho-unified\\autogen_examples\" \"C:\\Users\\anapa\\eziofilho-unified\\08_examples_demos\\autogen_examples\\\"",
+      "description": "Move folder: autogen_examples -> 08_examples_demos\\autogen_examples",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "rmdir /s /q \"C:\\Users\\anapa\\eziofilho-unified\\autogen_examples\"",
+      "description": "Remove original folder: autogen_examples",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "xcopy /E /I /Y \"C:\\Users\\anapa\\eziofilho-unified\\autogen_generated\" \"C:\\Users\\anapa\\eziofilho-unified\\08_examples_demos\\working_demos\\\"",
+      "description": "Move folder: autogen_generated -> 08_examples_demos\\working_demos",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "rmdir /s /q \"C:\\Users\\anapa\\eziofilho-unified\\autogen_generated\"",
+      "description": "Remove original folder: autogen_generated",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "xcopy /E /I /Y \"C:\\Users\\anapa\\eziofilho-unified\\data\" \"C:\\Users\\anapa\\eziofilho-unified\\09_data_cache\\shared_cache\\\"",
+      "description": "Move folder: data -> 09_data_cache\\shared_cache",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "rmdir /s /q \"C:\\Users\\anapa\\eziofilho-unified\\data\"",
+      "description": "Remove original folder: data",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "xcopy /E /I /Y \"C:\\Users\\anapa\\eziofilho-unified\\results\" \"C:\\Users\\anapa\\eziofilho-unified\\05_testing_validation\\test_results\\\"",
+      "description": "Move folder: results -> 05_testing_validation\\test_results",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "rmdir /s /q \"C:\\Users\\anapa\\eziofilho-unified\\results\"",
+      "description": "Remove original folder: results",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "xcopy /E /I /Y \"C:\\Users\\anapa\\eziofilho-unified\\reports\" \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\\"",
+      "description": "Move folder: reports -> 07_documentation\\reports",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "rmdir /s /q \"C:\\Users\\anapa\\eziofilho-unified\\reports\"",
+      "description": "Remove original folder: reports",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "xcopy /E /I /Y \"C:\\Users\\anapa\\eziofilho-unified\\models\" \"C:\\Users\\anapa\\eziofilho-unified\\03_models_storage\\local_models\\\"",
+      "description": "Move folder: models -> 03_models_storage\\local_models",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "rmdir /s /q \"C:\\Users\\anapa\\eziofilho-unified\\models\"",
+      "description": "Remove original folder: models",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "xcopy /E /I /Y \"C:\\Users\\anapa\\eziofilho-unified\\core\" \"C:\\Users\\anapa\\eziofilho-unified\\01_core_system\\base_classes\\\"",
+      "description": "Move folder: core -> 01_core_system\\base_classes",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "rmdir /s /q \"C:\\Users\\anapa\\eziofilho-unified\\core\"",
+      "description": "Remove original folder: core",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "xcopy /E /I /Y \"C:\\Users\\anapa\\eziofilho-unified\\experts\" \"C:\\Users\\anapa\\eziofilho-unified\\02_experts_modules\\financial_experts\\\"",
+      "description": "Move folder: experts -> 02_experts_modules\\financial_experts",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "rmdir /s /q \"C:\\Users\\anapa\\eziofilho-unified\\experts\"",
+      "description": "Remove original folder: experts",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "xcopy /E /I /Y \"C:\\Users\\anapa\\eziofilho-unified\\tools\" \"C:\\Users\\anapa\\eziofilho-unified\\06_tools_utilities\\monitoring\\\"",
+      "description": "Move folder: tools -> 06_tools_utilities\\monitoring",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "rmdir /s /q \"C:\\Users\\anapa\\eziofilho-unified\\tools\"",
+      "description": "Remove original folder: tools",
+      "timestamp": "10:04:01"
+    },
+    {
+      "command": "\necho EZIO PROJECT ORGANIZATION REPORT > \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho ================================== >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho Timestamp: 20250524_100401 >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho Total Commands Executed: 302 >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho. >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho NEW STRUCTURE CREATED: >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 01_core_system >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 02_experts_modules >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 03_models_storage >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 04_configuration >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 05_testing_validation >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 06_tools_utilities >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 07_documentation >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 08_examples_demos >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 09_data_cache >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 10_deployment >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 01_core_system\\main_runners >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 01_core_system\\orchestrators >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 01_core_system\\base_classes >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 02_experts_modules\\financial_experts >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 02_experts_modules\\ai_integrations >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 02_experts_modules\\specialized_tools >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 03_models_storage\\local_models >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 03_models_storage\\model_configs >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 04_configuration\\project_configs >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 04_configuration\\requirements_files >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 05_testing_validation\\unit_tests >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 05_testing_validation\\integration_tests >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 05_testing_validation\\test_results >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 06_tools_utilities\\gpu_tools >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 06_tools_utilities\\monitoring >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 07_documentation\\reports >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 07_documentation\\guides >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 08_examples_demos\\autogen_examples >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 08_examples_demos\\working_demos >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 09_data_cache\\shared_cache >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 09_data_cache\\fallback_data >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 10_deployment\\batch_files >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 10_deployment\\production_ready >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 01_core_system >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 02_experts_modules >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 03_models_storage >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 04_configuration >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 05_testing_validation >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 06_tools_utilities >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 07_documentation >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 08_examples_demos >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 09_data_cache >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 10_deployment >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 01_core_system\\main_runners >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 01_core_system\\orchestrators >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 01_core_system\\base_classes >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 02_experts_modules\\financial_experts >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 02_experts_modules\\ai_integrations >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 02_experts_modules\\specialized_tools >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 03_models_storage\\local_models >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 03_models_storage\\model_configs >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 04_configuration\\project_configs >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 04_configuration\\requirements_files >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 05_testing_validation\\unit_tests >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 05_testing_validation\\integration_tests >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 05_testing_validation\\test_results >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 06_tools_utilities\\gpu_tools >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 06_tools_utilities\\monitoring >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 07_documentation\\reports >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 07_documentation\\guides >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 08_examples_demos\\autogen_examples >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 08_examples_demos\\working_demos >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 09_data_cache\\shared_cache >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 09_data_cache\\fallback_data >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 10_deployment\\batch_files >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 10_deployment\\production_ready >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 01_core_system >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 02_experts_modules >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 03_models_storage >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 04_configuration >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 05_testing_validation >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 06_tools_utilities >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 07_documentation >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 08_examples_demos >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 09_data_cache >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 10_deployment >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 01_core_system\\main_runners >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 01_core_system\\orchestrators >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 01_core_system\\base_classes >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 02_experts_modules\\financial_experts >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 02_experts_modules\\ai_integrations >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 02_experts_modules\\specialized_tools >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 03_models_storage\\local_models >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 03_models_storage\\model_configs >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 04_configuration\\project_configs >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 04_configuration\\requirements_files >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 05_testing_validation\\unit_tests >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 05_testing_validation\\integration_tests >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 05_testing_validation\\test_results >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 06_tools_utilities\\gpu_tools >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 06_tools_utilities\\monitoring >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 07_documentation\\reports >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 07_documentation\\guides >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 08_examples_demos\\autogen_examples >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 08_examples_demos\\working_demos >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 09_data_cache\\shared_cache >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 09_data_cache\\fallback_data >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 10_deployment\\batch_files >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho   - 10_deployment\\production_ready >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\n\necho. >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho ORGANIZATION COMPLETE! >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\necho Project is now organized and ready for development. >> \"C:\\Users\\anapa\\eziofilho-unified\\07_documentation\\reports\\organization_report_20250524_100401.txt\"\n",
+      "description": "Generate final organization report",
+      "timestamp": "10:04:01"
+    }
+  ],
+  "report": {
+    "timestamp": "20250524_100401",
+    "actions_performed": [
+      "Create directory: 01_core_system",
+      "Create directory: 02_experts_modules",
+      "Create directory: 03_models_storage",
+      "Create directory: 04_configuration",
+      "Create directory: 05_testing_validation",
+      "Create directory: 06_tools_utilities",
+      "Create directory: 07_documentation",
+      "Create directory: 08_examples_demos",
+      "Create directory: 09_data_cache",
+      "Create directory: 10_deployment",
+      "Create directory: 01_core_system\\main_runners",
+      "Create directory: 01_core_system\\orchestrators",
+      "Create directory: 01_core_system\\base_classes",
+      "Create directory: 02_experts_modules\\financial_experts",
+      "Create directory: 02_experts_modules\\ai_integrations",
+      "Create directory: 02_experts_modules\\specialized_tools",
+      "Create directory: 03_models_storage\\local_models",
+      "Create directory: 03_models_storage\\model_configs",
+      "Create directory: 04_configuration\\project_configs",
+      "Create directory: 04_configuration\\requirements_files",
+      "Create directory: 05_testing_validation\\unit_tests",
+      "Create directory: 05_testing_validation\\integration_tests",
+      "Create directory: 05_testing_validation\\test_results",
+      "Create directory: 06_tools_utilities\\gpu_tools",
+      "Create directory: 06_tools_utilities\\monitoring",
+      "Create directory: 07_documentation\\reports",
+      "Create directory: 07_documentation\\guides",
+      "Create directory: 08_examples_demos\\autogen_examples",
+      "Create directory: 08_examples_demos\\working_demos",
+      "Create directory: 09_data_cache\\shared_cache",
+      "Create directory: 09_data_cache\\fallback_data",
+      "Create directory: 10_deployment\\batch_files",
+      "Create directory: 10_deployment\\production_ready",
+      "Move main runner: main.py",
+      "Move main runner: main_fixed.py",
+      "Move main runner: main_autogen.py",
+      "Move main runner: run_system.py",
+      "Move main runner: run_unified.py",
+      "Move main runner: run_local.py",
+      "Move main runner: run_with_auto_discovery.py",
+      "Move orchestrator: ezio_orchestrator.py",
+      "Move orchestrator: unified_orchestrator.py",
+      "Move expert file: expert_fingpt.py",
+      "Move expert files: eziofinisher_*.py",
+      "Move expert file: advanced_model_manager.py",
+      "Move expert file: direct_chat.py",
+      "Move expert file: simple_chat.py",
+      "Move config files: config_*.py",
+      "Move config files: config_*.json",
+      "Move config files: *.json",
+      "Move config files: configure_*.py",
+      "Move requirements: requirements*.txt",
+      "Move requirements: requirements*.txt",
+      "Move test files: test_*.py",
+      "Move test files: run_*test*.py",
+      "Move test files: *_test.py",
+      "Move tools: gpu_*.py",
+      "Move tools: *monitor*.py",
+      "Move tools: *benchmark*.py",
+      "Move tools: demo_multi_gpu.py",
+      "Move model files: download_*.py",
+      "Move model files: model_*.py",
+      "Move model files: find_models.py",
+      "Move model files: organize_models.py",
+      "Move batch files: *.bat",
+      "Remove cache directories: __pycache__",
+      "Remove cache files: *.pyc",
+      "Remove cache files: *.pyo",
+      "Remove cache directories: .cache",
+      "Remove temporary file: *_old.py",
+      "Remove temporary file: *_simple.py",
+      "Remove temporary file: simple_chat_old.py",
+      "Remove version artifact: 1.20.0",
+      "Remove version artifact: 2.11.3",
+      "Remove version artifact: 25.1.1",
+      "Remove version artifact: 3.7",
+      "Remove version artifact: 4.5.0",
+      "Remove version artifact: 5.6.1",
+      "Consolidate requirements files",
+      "Move documentation: README.md",
+      "Move documentation: relatorio_desenvolvimento.md",
+      "Move documentation: *.md",
+      "Move folder: autogen_examples -> 08_examples_demos\\autogen_examples",
+      "Remove original folder: autogen_examples",
+      "Move folder: autogen_generated -> 08_examples_demos\\working_demos",
+      "Remove original folder: autogen_generated",
+      "Move folder: data -> 09_data_cache\\shared_cache",
+      "Remove original folder: data",
+      "Move folder: results -> 05_testing_validation\\test_results",
+      "Remove original folder: results",
+      "Move folder: reports -> 07_documentation\\reports",
+      "Remove original folder: reports",
+      "Move folder: models -> 03_models_storage\\local_models",
+      "Remove original folder: models",
+      "Move folder: core -> 01_core_system\\base_classes",
+      "Remove original folder: core",
+      "Move folder: experts -> 02_experts_modules\\financial_experts",
+      "Remove original folder: experts",
+      "Move folder: tools -> 06_tools_utilities\\monitoring",
+      "Remove original folder: tools",
+      "Generate final organization report",
+      "Create directory: 01_core_system",
+      "Create directory: 02_experts_modules",
+      "Create directory: 03_models_storage",
+      "Create directory: 04_configuration",
+      "Create directory: 05_testing_validation",
+      "Create directory: 06_tools_utilities",
+      "Create directory: 07_documentation",
+      "Create directory: 08_examples_demos",
+      "Create directory: 09_data_cache",
+      "Create directory: 10_deployment",
+      "Create directory: 01_core_system\\main_runners",
+      "Create directory: 01_core_system\\orchestrators",
+      "Create directory: 01_core_system\\base_classes",
+      "Create directory: 02_experts_modules\\financial_experts",
+      "Create directory: 02_experts_modules\\ai_integrations",
+      "Create directory: 02_experts_modules\\specialized_tools",
+      "Create directory: 03_models_storage\\local_models",
+      "Create directory: 03_models_storage\\model_configs",
+      "Create directory: 04_configuration\\project_configs",
+      "Create directory: 04_configuration\\requirements_files",
+      "Create directory: 05_testing_validation\\unit_tests",
+      "Create directory: 05_testing_validation\\integration_tests",
+      "Create directory: 05_testing_validation\\test_results",
+      "Create directory: 06_tools_utilities\\gpu_tools",
+      "Create directory: 06_tools_utilities\\monitoring",
+      "Create directory: 07_documentation\\reports",
+      "Create directory: 07_documentation\\guides",
+      "Create directory: 08_examples_demos\\autogen_examples",
+      "Create directory: 08_examples_demos\\working_demos",
+      "Create directory: 09_data_cache\\shared_cache",
+      "Create directory: 09_data_cache\\fallback_data",
+      "Create directory: 10_deployment\\batch_files",
+      "Create directory: 10_deployment\\production_ready",
+      "Move main runner: main.py",
+      "Move main runner: main_fixed.py",
+      "Move main runner: main_autogen.py",
+      "Move main runner: run_system.py",
+      "Move main runner: run_unified.py",
+      "Move main runner: run_local.py",
+      "Move main runner: run_with_auto_discovery.py",
+      "Move orchestrator: ezio_orchestrator.py",
+      "Move orchestrator: unified_orchestrator.py",
+      "Move expert file: expert_fingpt.py",
+      "Move expert files: eziofinisher_*.py",
+      "Move expert file: advanced_model_manager.py",
+      "Move expert file: direct_chat.py",
+      "Move expert file: simple_chat.py",
+      "Move config files: config_*.py",
+      "Move config files: config_*.json",
+      "Move config files: *.json",
+      "Move config files: configure_*.py",
+      "Move requirements: requirements*.txt",
+      "Move requirements: requirements*.txt",
+      "Move test files: test_*.py",
+      "Move test files: run_*test*.py",
+      "Move test files: *_test.py",
+      "Move tools: gpu_*.py",
+      "Move tools: *monitor*.py",
+      "Move tools: *benchmark*.py",
+      "Move tools: demo_multi_gpu.py",
+      "Move model files: download_*.py",
+      "Move model files: model_*.py",
+      "Move model files: find_models.py",
+      "Move model files: organize_models.py",
+      "Move batch files: *.bat",
+      "Remove cache directories: __pycache__",
+      "Remove cache files: *.pyc",
+      "Remove cache files: *.pyo",
+      "Remove cache directories: .cache",
+      "Remove temporary file: *_old.py",
+      "Remove temporary file: *_simple.py",
+      "Remove temporary file: simple_chat_old.py",
+      "Remove version artifact: 1.20.0",
+      "Remove version artifact: 2.11.3",
+      "Remove version artifact: 25.1.1",
+      "Remove version artifact: 3.7",
+      "Remove version artifact: 4.5.0",
+      "Remove version artifact: 5.6.1",
+      "Consolidate requirements files",
+      "Move documentation: README.md",
+      "Move documentation: relatorio_desenvolvimento.md",
+      "Move documentation: *.md",
+      "Move folder: autogen_examples -> 08_examples_demos\\autogen_examples",
+      "Remove original folder: autogen_examples",
+      "Move folder: autogen_generated -> 08_examples_demos\\working_demos",
+      "Remove original folder: autogen_generated",
+      "Move folder: data -> 09_data_cache\\shared_cache",
+      "Remove original folder: data",
+      "Move folder: results -> 05_testing_validation\\test_results",
+      "Remove original folder: results",
+      "Move folder: reports -> 07_documentation\\reports",
+      "Remove original folder: reports",
+      "Move folder: models -> 03_models_storage\\local_models",
+      "Remove original folder: models",
+      "Move folder: core -> 01_core_system\\base_classes",
+      "Remove original folder: core",
+      "Move folder: experts -> 02_experts_modules\\financial_experts",
+      "Remove original folder: experts",
+      "Move folder: tools -> 06_tools_utilities\\monitoring",
+      "Remove original folder: tools",
+      "Generate final organization report",
+      "Create directory: 01_core_system",
+      "Create directory: 02_experts_modules",
+      "Create directory: 03_models_storage",
+      "Create directory: 04_configuration",
+      "Create directory: 05_testing_validation",
+      "Create directory: 06_tools_utilities",
+      "Create directory: 07_documentation",
+      "Create directory: 08_examples_demos",
+      "Create directory: 09_data_cache",
+      "Create directory: 10_deployment",
+      "Create directory: 01_core_system\\main_runners",
+      "Create directory: 01_core_system\\orchestrators",
+      "Create directory: 01_core_system\\base_classes",
+      "Create directory: 02_experts_modules\\financial_experts",
+      "Create directory: 02_experts_modules\\ai_integrations",
+      "Create directory: 02_experts_modules\\specialized_tools",
+      "Create directory: 03_models_storage\\local_models",
+      "Create directory: 03_models_storage\\model_configs",
+      "Create directory: 04_configuration\\project_configs",
+      "Create directory: 04_configuration\\requirements_files",
+      "Create directory: 05_testing_validation\\unit_tests",
+      "Create directory: 05_testing_validation\\integration_tests",
+      "Create directory: 05_testing_validation\\test_results",
+      "Create directory: 06_tools_utilities\\gpu_tools",
+      "Create directory: 06_tools_utilities\\monitoring",
+      "Create directory: 07_documentation\\reports",
+      "Create directory: 07_documentation\\guides",
+      "Create directory: 08_examples_demos\\autogen_examples",
+      "Create directory: 08_examples_demos\\working_demos",
+      "Create directory: 09_data_cache\\shared_cache",
+      "Create directory: 09_data_cache\\fallback_data",
+      "Create directory: 10_deployment\\batch_files",
+      "Create directory: 10_deployment\\production_ready",
+      "Move main runner: main.py",
+      "Move main runner: main_fixed.py",
+      "Move main runner: main_autogen.py",
+      "Move main runner: run_system.py",
+      "Move main runner: run_unified.py",
+      "Move main runner: run_local.py",
+      "Move main runner: run_with_auto_discovery.py",
+      "Move orchestrator: ezio_orchestrator.py",
+      "Move orchestrator: unified_orchestrator.py",
+      "Move expert file: expert_fingpt.py",
+      "Move expert files: eziofinisher_*.py",
+      "Move expert file: advanced_model_manager.py",
+      "Move expert file: direct_chat.py",
+      "Move expert file: simple_chat.py",
+      "Move config files: config_*.py",
+      "Move config files: config_*.json",
+      "Move config files: *.json",
+      "Move config files: configure_*.py",
+      "Move requirements: requirements*.txt",
+      "Move requirements: requirements*.txt",
+      "Move test files: test_*.py",
+      "Move test files: run_*test*.py",
+      "Move test files: *_test.py",
+      "Move tools: gpu_*.py",
+      "Move tools: *monitor*.py",
+      "Move tools: *benchmark*.py",
+      "Move tools: demo_multi_gpu.py",
+      "Move model files: download_*.py",
+      "Move model files: model_*.py",
+      "Move model files: find_models.py",
+      "Move model files: organize_models.py",
+      "Move batch files: *.bat",
+      "Remove cache directories: __pycache__",
+      "Remove cache files: *.pyc",
+      "Remove cache files: *.pyo",
+      "Remove cache directories: .cache",
+      "Remove temporary file: *_old.py",
+      "Remove temporary file: *_simple.py",
+      "Remove temporary file: simple_chat_old.py",
+      "Remove version artifact: 1.20.0",
+      "Remove version artifact: 2.11.3",
+      "Remove version artifact: 25.1.1",
+      "Remove version artifact: 3.7",
+      "Remove version artifact: 4.5.0",
+      "Remove version artifact: 5.6.1",
+      "Consolidate requirements files",
+      "Move documentation: README.md",
+      "Move documentation: relatorio_desenvolvimento.md",
+      "Move documentation: *.md",
+      "Move folder: autogen_examples -> 08_examples_demos\\autogen_examples",
+      "Remove original folder: autogen_examples",
+      "Move folder: autogen_generated -> 08_examples_demos\\working_demos",
+      "Remove original folder: autogen_generated",
+      "Move folder: data -> 09_data_cache\\shared_cache",
+      "Remove original folder: data",
+      "Move folder: results -> 05_testing_validation\\test_results",
+      "Remove original folder: results",
+      "Move folder: reports -> 07_documentation\\reports",
+      "Remove original folder: reports",
+      "Move folder: models -> 03_models_storage\\local_models",
+      "Remove original folder: models",
+      "Move folder: core -> 01_core_system\\base_classes",
+      "Remove original folder: core",
+      "Move folder: experts -> 02_experts_modules\\financial_experts",
+      "Remove original folder: experts",
+      "Move folder: tools -> 06_tools_utilities\\monitoring",
+      "Remove original folder: tools",
+      "Generate final organization report"
+    ],
+    "files_moved": 0,
+    "files_deleted": 0,
+    "structure_created": [
+      "01_core_system",
+      "02_experts_modules",
+      "03_models_storage",
+      "04_configuration",
+      "05_testing_validation",
+      "06_tools_utilities",
+      "07_documentation",
+      "08_examples_demos",
+      "09_data_cache",
+      "10_deployment",
+      "01_core_system\\main_runners",
+      "01_core_system\\orchestrators",
+      "01_core_system\\base_classes",
+      "02_experts_modules\\financial_experts",
+      "02_experts_modules\\ai_integrations",
+      "02_experts_modules\\specialized_tools",
+      "03_models_storage\\local_models",
+      "03_models_storage\\model_configs",
+      "04_configuration\\project_configs",
+      "04_configuration\\requirements_files",
+      "05_testing_validation\\unit_tests",
+      "05_testing_validation\\integration_tests",
+      "05_testing_validation\\test_results",
+      "06_tools_utilities\\gpu_tools",
+      "06_tools_utilities\\monitoring",
+      "07_documentation\\reports",
+      "07_documentation\\guides",
+      "08_examples_demos\\autogen_examples",
+      "08_examples_demos\\working_demos",
+      "09_data_cache\\shared_cache",
+      "09_data_cache\\fallback_data",
+      "10_deployment\\batch_files",
+      "10_deployment\\production_ready",
+      "01_core_system",
+      "02_experts_modules",
+      "03_models_storage",
+      "04_configuration",
+      "05_testing_validation",
+      "06_tools_utilities",
+      "07_documentation",
+      "08_examples_demos",
+      "09_data_cache",
+      "10_deployment",
+      "01_core_system\\main_runners",
+      "01_core_system\\orchestrators",
+      "01_core_system\\base_classes",
+      "02_experts_modules\\financial_experts",
+      "02_experts_modules\\ai_integrations",
+      "02_experts_modules\\specialized_tools",
+      "03_models_storage\\local_models",
+      "03_models_storage\\model_configs",
+      "04_configuration\\project_configs",
+      "04_configuration\\requirements_files",
+      "05_testing_validation\\unit_tests",
+      "05_testing_validation\\integration_tests",
+      "05_testing_validation\\test_results",
+      "06_tools_utilities\\gpu_tools",
+      "06_tools_utilities\\monitoring",
+      "07_documentation\\reports",
+      "07_documentation\\guides",
+      "08_examples_demos\\autogen_examples",
+      "08_examples_demos\\working_demos",
+      "09_data_cache\\shared_cache",
+      "09_data_cache\\fallback_data",
+      "10_deployment\\batch_files",
+      "10_deployment\\production_ready",
+      "01_core_system",
+      "02_experts_modules",
+      "03_models_storage",
+      "04_configuration",
+      "05_testing_validation",
+      "06_tools_utilities",
+      "07_documentation",
+      "08_examples_demos",
+      "09_data_cache",
+      "10_deployment",
+      "01_core_system\\main_runners",
+      "01_core_system\\orchestrators",
+      "01_core_system\\base_classes",
+      "02_experts_modules\\financial_experts",
+      "02_experts_modules\\ai_integrations",
+      "02_experts_modules\\specialized_tools",
+      "03_models_storage\\local_models",
+      "03_models_storage\\model_configs",
+      "04_configuration\\project_configs",
+      "04_configuration\\requirements_files",
+      "05_testing_validation\\unit_tests",
+      "05_testing_validation\\integration_tests",
+      "05_testing_validation\\test_results",
+      "06_tools_utilities\\gpu_tools",
+      "06_tools_utilities\\monitoring",
+      "07_documentation\\reports",
+      "07_documentation\\guides",
+      "08_examples_demos\\autogen_examples",
+      "08_examples_demos\\working_demos",
+      "09_data_cache\\shared_cache",
+      "09_data_cache\\fallback_data",
+      "10_deployment\\batch_files",
+      "10_deployment\\production_ready"
+    ]
+  }
+}

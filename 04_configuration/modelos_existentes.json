@@ -1,0 +1,10 @@
+{
+  "models": {
+    "phi-3-mini-4k-instruct": "C:\\Users\\anapa\\SuperIA\\EzioFilhoUnified\\modelos_hf\\microsoft--phi-3-mini-4k-instruct\\model-00001-of-00002.safetensors",
+    "phi-2": "C:\\Users\\anapa\\SuperIA\\EzioFilhoUnified\\modelos_hf\\microsoft--phi-2\\model-00001-of-00002.safetensors",
+    "qwen1.5-1.8b-chat": "C:\\Users\\anapa\\SuperIA\\EzioFilhoUnified\\modelos_hf\\Qwen--Qwen1.5-1.8B-Chat\\model.safetensors",
+    "falcon-7b-instruct": "C:\\Users\\anapa\\SuperIA\\EzioFilhoUnified\\modelos_hf\\tiiuae--falcon-7b-instruct\\model-00001-of-00002.safetensors",
+    "opt-125m": "C:\\Users\\anapa\\SuperIA\\EzioFilhoUnified\\modelos_hf\\facebook--opt-125m\\pytorch_model.bin"
+  },
+  "default": "phi-3-mini-4k-instruct"
+}

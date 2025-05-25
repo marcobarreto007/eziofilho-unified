@@ -1,0 +1,53 @@
+{
+  "test_metadata": {
+    "user": "marcobarreto007",
+    "test_date": "2025-05-24 02:51:56 UTC",
+    "windows_version": "10.0.19045.5854",
+    "python_version": "3.11.8 (tags/v3.11.8:db85d51, Feb  6 2024, 22:03:32) [MSC v.1937 64 bit (AMD64)]",
+    "project_root": "C:\\Users\\anapa\\eziofilho-unified",
+    "start_time": "2025-05-23T22:55:15.469230",
+    "end_time": "2025-05-23T22:55:18.376577",
+    "duration_seconds": 2.907347
+  },
+  "test_summary": {
+    "total_tests": 7,
+    "passed_tests": 7,
+    "failed_tests": 0,
+    "success_rate": 100.0
+  },
+  "test_results": {
+    "Python Environment": {
+      "status": "PASSED",
+      "timestamp": "2025-05-23T22:55:16.052623"
+    },
+    "Project Structure": {
+      "status": "PASSED",
+      "timestamp": "2025-05-23T22:55:16.060605"
+    },
+    "Key Files": {
+      "status": "PASSED",
+      "timestamp": "2025-05-23T22:55:16.065607"
+    },
+    "Cache System": {
+      "status": "PASSED",
+      "timestamp": "2025-05-23T22:55:16.071613"
+    },
+    "AutoGen Integration": {
+      "status": "PASSED",
+      "timestamp": "2025-05-23T22:55:18.351446"
+    },
+    "Expert Modules": {
+      "status": "PASSED",
+      "timestamp": "2025-05-23T22:55:18.359809"
+    },
+    "Model System": {
+      "status": "PASSED",
+      "timestamp": "2025-05-23T22:55:18.375550"
+    }
+  },
+  "recommendations": [
+    "System is ready for full AutoGen integration!",
+    "Consider running specific expert module tests",
+    "Test model download and discovery functionality"
+  ]
+}

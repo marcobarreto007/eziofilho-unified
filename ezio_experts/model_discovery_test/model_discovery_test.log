@@ -1,0 +1,43 @@
+2025-05-23 22:59:59,358 |     INFO | __init__ | ✅ Project root added: C:\Users\anapa\eziofilho-unified
+2025-05-23 22:59:59,361 |     INFO | print_banner | Model Discovery System initialized
+2025-05-23 22:59:59,361 |     INFO | run_comprehensive_discovery | 🔍 Running: Local Models
+2025-05-23 22:59:59,362 |     INFO | discover_local_models | === DISCOVERING LOCAL MODELS ===
+2025-05-23 22:59:59,364 |     INFO | discover_local_models | ✅ Found local model: pytorch_model (0.80GB)
+2025-05-23 22:59:59,366 |     INFO | discover_local_models | ✅ Found local model: model (0.25GB)
+2025-05-23 22:59:59,367 |     INFO | discover_local_models | ✅ Found local model: pytorch_model (0.25GB)
+2025-05-23 22:59:59,370 |     INFO | discover_local_models | ✅ Found local model: model-00001-of-00002 (4.65GB)
+2025-05-23 22:59:59,370 |     INFO | discover_local_models | ✅ Found local model: model-00002-of-00002 (0.53GB)
+2025-05-23 22:59:59,374 |     INFO | discover_local_models | ✅ Discovered 5 local models
+2025-05-23 22:59:59,375 |     INFO | run_comprehensive_discovery | ✅ Local Models: 5 models
+2025-05-23 22:59:59,376 |     INFO | run_comprehensive_discovery | 🔍 Running: HuggingFace Models
+2025-05-23 22:59:59,377 |     INFO | discover_huggingface_models | === DISCOVERING HUGGINGFACE MODELS ===
+2025-05-23 22:59:59,378 |     INFO | discover_huggingface_models | ✅ HuggingFace model: microsoft/DialoGPT-medium (1.2GB)
+2025-05-23 22:59:59,378 |     INFO | discover_huggingface_models | ✅ HuggingFace model: microsoft/phi-3-mini-4k-instruct (2.4GB)
+2025-05-23 22:59:59,379 |     INFO | discover_huggingface_models | ✅ HuggingFace model: sentence-transformers/all-MiniLM-L6-v2 (0.09GB)
+2025-05-23 22:59:59,379 |     INFO | discover_huggingface_models | ✅ HuggingFace model: cardiffnlp/twitter-roberta-base-sentiment-latest (0.5GB)
+2025-05-23 22:59:59,380 |     INFO | discover_huggingface_models | ✅ HuggingFace model: mistralai/Mistral-7B-Instruct-v0.1 (14.5GB)
+2025-05-23 22:59:59,380 |     INFO | discover_huggingface_models | ✅ Discovered 5 HuggingFace models
+2025-05-23 22:59:59,381 |     INFO | run_comprehensive_discovery | ✅ HuggingFace Models: 5 models
+2025-05-23 22:59:59,381 |     INFO | run_comprehensive_discovery | 🔍 Running: Mistral Models
+2025-05-23 22:59:59,382 |     INFO | discover_mistral_models | === DISCOVERING MISTRAL MODELS ===
+2025-05-23 22:59:59,382 |     INFO | discover_mistral_models | ✅ Mistral download script found: 1355 bytes
+2025-05-23 22:59:59,382 |     INFO | discover_mistral_models | ✅ Mistral model: mistral-7b-instruct (14.5GB)
+2025-05-23 22:59:59,383 |     INFO | discover_mistral_models | ✅ Mistral model: mistral-7b-base (14.5GB)
+2025-05-23 22:59:59,383 |     INFO | discover_mistral_models | ✅ Discovered 2 Mistral models
+2025-05-23 22:59:59,384 |     INFO | run_comprehensive_discovery | ✅ Mistral Models: 2 models
+2025-05-23 22:59:59,384 |     INFO | run_comprehensive_discovery | 🔍 Running: Model Inventory
+2025-05-23 22:59:59,385 |     INFO | check_model_inventory | === CHECKING MODEL INVENTORY ===
+2025-05-23 22:59:59,385 |     INFO | check_model_inventory | ✅ Parsed 30 models from inventory
+2025-05-23 22:59:59,386 |     INFO | run_comprehensive_discovery | ✅ Model Inventory: 30 models
+2025-05-23 22:59:59,386 |     INFO | run_comprehensive_discovery | 🔍 Running: Cached Models
+2025-05-23 22:59:59,387 |     INFO | test_cache_models | === CHECKING CACHED MODELS ===
+2025-05-23 22:59:59,387 |     INFO | test_cache_models | ✅ Checking cache: huggingface
+2025-05-23 22:59:59,390 |     INFO | test_cache_models |    📁 1 cached model files
+2025-05-23 22:59:59,391 |     INFO | test_cache_models | ✅ Checking cache: models
+2025-05-23 22:59:59,392 |     INFO | test_cache_models |    📁 0 cached model files
+2025-05-23 22:59:59,393 |     INFO | test_cache_models | ✅ Checking cache: eziofilho
+2025-05-23 22:59:59,393 |     INFO | test_cache_models |    📁 1 cached model files
+2025-05-23 22:59:59,394 |     INFO | test_cache_models | ✅ Found 2 cached models
+2025-05-23 22:59:59,395 |     INFO | run_comprehensive_discovery | ✅ Cached Models: 2 models
+2025-05-23 22:59:59,399 |     INFO | run_comprehensive_discovery | 💾 Discovery results saved: model_discovery_results.json
+2025-05-23 22:59:59,399 |     INFO | run_comprehensive_discovery | 💾 Text summary saved: model_discovery_summary.txt
